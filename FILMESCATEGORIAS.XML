@@ -34,7 +34,7 @@
         <name>[B][COLOR aquamarine]FILMES[/COLOR] [COLOR white]| COMÉDIA[/COLOR][/B]</name>
         <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/FILMES.png</thumbnail>
         <fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-        <externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/FILMES/LINK%20DIRETO/MENUS/Filmes___Comedia.txt</externallink>
+        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/COMEDIA.XML</externallink>
     </channel>
     <channel>
         <name>[B][COLOR aquamarine]FILMES[/COLOR] [COLOR white]| CRIME[/COLOR][/B]</name>
