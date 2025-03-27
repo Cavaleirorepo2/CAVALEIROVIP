@@ -1,1 +1,17 @@
-agora foi
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+<items>
+<item>
+    <title>[B][COLOR red]O Menino que Descobriu o Vento[/COLOR][/B] [COLOR orange](Nota: 7.6)[/COLOR]</title>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3926bc8f07ec82fe003ce4e17cf0a594cdaa28ca</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3926bc8f07ec82fe003ce4e17cf0a594cdaa28ca</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=Dj1QVBLxyNs$nome=[COLOR red]Trailer - O Menino que Descobriu o Vento (2019/25)[/COLOR]</link>
+    <thumbnail>https://image.tmdb.org/t/p/original/haUdPprsRrN7YkgC1adh9YvnqvR.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/hpGkXl6iNdtQLXHS7xiv57N217B.jpg</fanart>
+    <info>
+        [COLOR red]Título Original:[/COLOR] O Menino que Descobriu o Vento 
+    </info>
+</item>
+
+</items>
