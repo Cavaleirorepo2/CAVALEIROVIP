@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | OUTRAS PRODUTORAS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/series_output%20(1).xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | DISNEY PLUS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/series_disney_plus_output.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | NETFLIX[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/series_netflix_formatted.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | AMAZON PRIME VIDEO[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES___AMAZON_PRIME_VIDEO.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | PARAMOUNT[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES___PARAMOUNT.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | MAX[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES___MAX.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | GLOBOPLAY[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/output_GLOBOPLAY_pretty.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | DIRECTV[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/output_DIRECTV_pretty.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | APPLE TV PLUS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/output_APPLE_TV_PLUS_pretty.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | LEGENDADAS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES_LEGENDADAS.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | LIONSGATE[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES_LIONSGATE.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | STAR PLUS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES_STAR_PLUS.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | CRUNCHYROLL[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/series_crunchyroll%20(1).xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | FUNIMATION NOW[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/series_funimation.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | CLARO VIDEO[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/AnimeSoul8585/BlackPlay-Tv/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES___CLARO_VIDEO_formatted.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | DISCOVERY PLUS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES___DISCOVERY_PLUS_formatted.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]SERIES[/COLOR][COLOR white] | AMC PLUS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/BlackPlay%20Tv/S%C3%89RIES/LINK%20DIRETO/MENUS/SERIES___AMC_PLUS_formatted.xml</externallink>
+</channel>
+
+</channels>
