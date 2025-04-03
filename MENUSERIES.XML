@@ -22,5 +22,12 @@
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/aventura.xml</externallink>
 </channel>
 
+<channel>
+[B][COLOR green]SÉRIES[/COLOR] [COLOR white]| CLÁSSICAS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/classicas.xml</externallink>
+</channel>
+
 
 </channels>
