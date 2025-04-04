@@ -8,6 +8,26 @@
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Lan%C3%A7amentos.xml</externallink>
 </channel>
 
+ <channel>
+<name>[B][COLOR yellow]Filmes[/COLOR] [COLOR white]| Aventura[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Aventura.xml</externallink>
+</channel>
+
+ <channel>
+<name>[B][COLOR yellow]Filmes[/COLOR] [COLOR white]| Ação[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/a%C3%A7ao.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR yellow]Filmes[/COLOR] [COLOR white]| Animação[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Anima%C3%A7ao.xml</externallink>
+</channel>
 
 
 
