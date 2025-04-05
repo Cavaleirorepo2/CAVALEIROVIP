@@ -16,28 +16,28 @@
 </channel>
 
  <channel>
-<name>[B][COLOR pink]Filmes[/COLOR] [COLOR white]| AÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR red]Filmes[/COLOR] [COLOR white]| AÇÃO[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
 <fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/a%C3%A7ao.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR Cyan]Filmes[/COLOR] [COLOR white]| ANIMAÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR cyan]Filmes[/COLOR] [COLOR white]| ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
 <fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Anima%C3%A7ao.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR Aqua]Filmes[/COLOR] [COLOR white]| COMÉDIA[/COLOR][/B]</name>
+<name>[B][COLOR aqua]Filmes[/COLOR] [COLOR white]| COMÉDIA[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
 <fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/comedia.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR Aqua / Cyan]Filmes[/COLOR] [COLOR white]| DOCUMENTÁRIO[/COLOR][/B]</name>
+<name>[B][COLOR cyan]Filmes[/COLOR] [COLOR white]| DOCUMENTÁRIO[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
 <fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/documentario.xml</externallink>
@@ -51,7 +51,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR SlateBlue]Filmes[/COLOR] [COLOR white]| DRAMA[/COLOR][/B]</name>
+<name>[B][COLOR blue]Filmes[/COLOR] [COLOR white]| DRAMA[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
 <fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/drama.xml</externallink>
