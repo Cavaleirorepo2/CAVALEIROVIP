@@ -1,0 +1,45 @@
+name: Atualizar Lista TV AO VIVO
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa todos os dias à meia-noite
+  workflow_dispatch:
+
+jobs:
+  atualizar-lista:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Baixar lista .m3u original
+        run: |
+          curl -L -o lista.m3u "http://cdn.pthdtv.top:80/get.php?username=630922725&password=280890306&type=m3u_plus&output=mpegts"
+
+      - name: Validar se a lista M3U foi baixada
+        run: |
+          if [ ! -s lista.m3u ]; then
+            echo "Lista M3U não foi baixada corretamente ou está vazia."
+            exit 1
+          fi
+
+      - name: Executar conversão M3U para XML
+        run: python3 converter_m3u_para_xml.py
+
+      - name: Criar backup da lista
+        run: |
+          mkdir -p "BluePlay/TV AO VIVO/backup"
+          cp "BluePlay/TV AO VIVO/CANAIS AO VIVO/TV AO VIVO.xml" "BluePlay/TV AO VIVO/backup/TV_$(date +'%Y-%m-%d_%H-%M').xml"
+
+      - name: Configurar Git
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+
+      - name: Commit e Push
+        run: |
+          git add "BluePlay/TV AO VIVO/CANAIS AO VIVO/TV AO VIVO.xml"
+          git add "BluePlay/TV AO VIVO/backup/"
+          git commit -m "Lista TV AO VIVO atualizada automaticamente com XML BluePlay e EPG" || echo "Sem alterações"
+          git push

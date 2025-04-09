@@ -1,0 +1,50 @@
+name: Atualizar EPG.xml a cada 12 horas
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  atualizar-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar o repositório
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Configurar Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+
+      - name: Puxar atualizações remotas antes de editar
+        run: |
+          git pull origin main --rebase
+
+      - name: Baixar novo EPG.xml
+        run: |
+          mkdir -p EPG
+          curl -L -o EPG/epg.xml "http://cdn.pthdtv.top:80/xmltv.php?username=630922725&password=280890306"
+
+      - name: Verificar EPG.xml
+        run: |
+          if [ ! -s "EPG/epg.xml" ]; then
+            echo "Erro: epg.xml está vazio ou não foi baixado!"
+            exit 1
+          fi
+          echo "Arquivo baixado com sucesso:"
+          ls -lh EPG/epg.xml
+          head -n 10 EPG/epg.xml
+
+      - name: Commit e push se houver alterações
+        run: |
+          git add EPG/epg.xml
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança detectada, nada será commitado."
+          else
+            git commit -m "Atualização automática do EPG.xml"
+            git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          fi
