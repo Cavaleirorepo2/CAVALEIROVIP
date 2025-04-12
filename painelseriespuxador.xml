@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Gerador de XML Neon</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    body {
+      background-color: #1e1e1e;
+      color: white;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      margin: auto;
+      background: #2a2a2a;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px aquamarine;
+    }
+    input, select, button, textarea {
+      width: 100%;
+      padding: 10px;
+      margin: 10px 0;
+      background: #333;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+    button {
+      background-color: aquamarine;
+      color: black;
+      font-weight: bold;
+      cursor: pointer;
+    }
+    .preview {
+      width: 100%;
+      max-height: 200px;
+      border-radius: 8px;
+      object-fit: cover;
+      margin-top: 10px;
+    }
+    .episodio {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: #444;
+      padding: 10px;
+      margin: 5px 0;
+      border-radius: 5px;
+    }
+    .loading {
+      display: none;
+      font-size: 14px;
+      color: aquamarine;
+      animation: pulse 1s infinite;
+    }
+    @keyframes pulse {
+      0% { opacity: 0.3; }
+      50% { opacity: 1; }
+      100% { opacity: 0.3; }
+    }
+    textarea {
+      height: auto;
+      min-height: 200px;
+      resize: vertical;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>Gerador de XML Neon</h2>
+
+    <label>Série:</label>
+    <input type="text" id="titulo" placeholder="Nome da Série" />
+    <button onclick="buscarSeries()">🔎 Buscar TMDb</button>
+    <div id="loadingSeries" class="loading">Carregando...</div>
+    <select id="seriesLista" onchange="selecionarSerie()"></select>
+
+    <label>Temporadas:</label>
+    <div id="loadingTemporadas" class="loading">Carregando...</div>
+    <select id="temporadasLista"></select>
+    <button onclick="adicionarTemporada()">➕ Adicionar Temporada</button>
+
+    <label>Thumbnail:</label>
+    <input type="text" id="thumbnail" placeholder="URL da Thumbnail" />
+    <img id="thumbnailPreview" class="preview" style="display:none;" />
+
+    <label>Fanart:</label>
+    <input type="text" id="fanart" placeholder="URL da Fanart" />
+    <img id="fanartPreview" class="preview" style="display:none;" />
+
+    <label>Info:</label>
+    <input type="text" id="info" placeholder="Sinopse da série" />
+
+    <label>Escolha o Player:</label>
+<select id="escolhaPlayer">
+  <option value="resolverurl">ResolverURL</option>
+  <option value="elementum">Elementum</option>
+  <option value="youtube">YouTube</option> <!-- NOVA OPÇÃO -->
+</select>
+
+    <div id="temporadasContainer"></div>
+
+    <button onclick="limparCampos()">🗑️ Limpar Campos</button>
+    <button onclick="gerarXML()">📄 Gerar XML</button>
+    <button onclick="copiarXML()">📋 Copiar XML</button>
+
+    <h3>Resultado XML:</h3>
+    <textarea id="resultadoXML" readonly></textarea>
+  </div>
+
+  <script>
+    const apiKey = "1fc5f9008cebf466afb65b5a4e0cf5fa";
+    let serieId = null;
+    let tituloCorrigido = "";
+    let generoConvertido = "";
+    let temporadasAdicionadas = new Set();
+
+    const genresMap = {
+      28: 'Ação', 12: 'Aventura', 16: 'Animação', 35: 'Comédia',
+      80: 'Crime', 99: 'Documentário', 18: 'Drama', 10751: 'Família',
+      14: 'Fantasia', 36: 'História', 27: 'Terror', 10402: 'Música',
+      9648: 'Mistério', 10749: 'Romance', 878: 'Ficção científica',
+      10770: 'Filme para TV', 53: 'Suspense', 10752: 'Guerra', 37: 'Faroeste'
+    };
+
+    function buscarSeries() {
+      const titulo = $("#titulo").val();
+      if (!titulo) return alert("Digite um nome de série!");
+      $("#loadingSeries").show();
+      $.get(`https://api.themoviedb.org/3/search/tv?api_key=${apiKey}&language=pt-BR&query=${titulo}`, function(data) {
+        const select = $("#seriesLista").html('<option value="">Selecione uma série</option>');
+        data.results.forEach(serie => {
+          select.append(`<option value="${serie.id}" data-thumbnail="${serie.poster_path}" data-fanart="${serie.backdrop_path}" data-info="${serie.overview}" data-genres="${serie.genre_ids.join(',')}">${serie.name}</option>`);
+        });
+        $("#loadingSeries").hide();
+      });
+    }
+
+    function selecionarSerie() {
+      serieId = $("#seriesLista").val();
+      const option = $("#seriesLista option:selected");
+      tituloCorrigido = option.text();
+      $("#titulo").val(tituloCorrigido);
+      $("#thumbnail").val(`https://image.tmdb.org/t/p/w500${option.data("thumbnail")}`);
+      $("#fanart").val(`https://image.tmdb.org/t/p/original${option.data("fanart")}`);
+      $("#info").val(option.data("info"));
+      $("#thumbnailPreview").attr("src", $("#thumbnail").val()).show();
+      $("#fanartPreview").attr("src", $("#fanart").val()).show();
+      carregarGenero(option.data("genres"));
+      carregarTemporadas();
+    }
+
+    function carregarGenero(genreIds) {
+      const genres = genreIds.split(',').map(id => genresMap[id.trim()] || "Desconhecido").join(', ');
+      generoConvertido = genres;
+    }
+
+    function carregarTemporadas() {
+      $("#loadingTemporadas").show();
+      $.get(`https://api.themoviedb.org/3/tv/${serieId}?api_key=${apiKey}&language=pt-BR`, function(data) {
+        const select = $("#temporadasLista").html('<option value="">Selecione uma temporada</option>');
+        data.seasons.forEach(season => {
+          if (season.season_number > 0) {
+            select.append(`<option value="${season.season_number}">${season.season_number}</option>`);
+          }
+        });
+        $("#loadingTemporadas").hide();
+      });
+    }
+
+    function adicionarTemporada() {
+      const temporada = $("#temporadasLista").val();
+      if (!temporada) return alert("Selecione uma temporada!");
+      if (temporadasAdicionadas.has(temporada)) return alert("Essa temporada já foi adicionada!");
+      temporadasAdicionadas.add(temporada);
+
+      $.get(`https://api.themoviedb.org/3/tv/${serieId}/season/${temporada}?api_key=${apiKey}&language=pt-BR`, function(data) {
+        const container = $(`
+          <div class="temporada" data-temp="${temporada}">
+            <h4>${temporada}ª Temporada</h4>
+          </div>
+        `);
+        data.episodes.forEach((ep, index) => {
+container.append(`
+  <div class="episodio" data-title="${ep.name}">
+    <span>EP ${index + 1} - ${ep.name}</span>
+    <input type="text" class="hashMagnetico" placeholder="Hash magnético"/>
+  </div>
+`);
+        });
+        $("#temporadasContainer").append(container);
+      });
+    }
+
+function gerarXML() {
+  const thumbnail = $("#thumbnail").val();
+  const fanart = $("#fanart").val();
+  const info = $("#info").val().replace(/COLOR.*?Gênero:\/COLOR.*$/, "").trim();
+  const player = $("#escolhaPlayer").val();
+  const titulo = $("#titulo").val();
+
+  let xml = `<channel>\n`;
+  xml += `    <name>${titulo}</name>\n`;
+  if (thumbnail) xml += `    <thumbnail>${thumbnail}</thumbnail>\n`;
+  if (fanart) xml += `    <fanart>${fanart}</fanart>\n`;
+  if (info) xml += `    <info>${info}</info>\n`;
+  if (generoConvertido) xml += `    <genre>${generoConvertido}</genre>\n`;
+  xml += `    <items>\n`;
+
+  $(".temporada").each(function () {
+    const temporadaNum = $(this).data("temp");
+    xml += `      <item>\n`;
+    xml += `        <title>${titulo} - ${temporadaNum}ª Temporada</title>\n`;
+    xml += `        <thumbnail>${thumbnail}</thumbnail>\n`;
+    xml += `        <fanart>${fanart}</fanart>\n`;
+
+    let epIndex = 1;
+    $(this).find(".hashMagnetico").each(function (index) {
+      const hash = $(this).val();
+      const epTitle = $(this).closest(".temporada").find(".episodio").eq(index).data("title") || "";
+
+      if (hash) {
+        let pluginLink = "";
+
+        if (player === "resolverurl") {
+          pluginLink = `plugin://plugin.video.resolverurl_player?url=${hash}`;
+        } else if (player === "elementum") {
+          pluginLink = `plugin://plugin.video.elementum/play?uri=${hash}`;
+        } else if (player === "youtube") {
+          pluginLink = `plugin://plugin.video.youtube/play/?video_id=${hash}`;
+        }
+
+        xml += `        <link>${pluginLink}$$lsname=[COLOR white]EPISÓDIO ${epIndex}[/COLOR] - [COLOR yellow]${epTitle}[/COLOR]</link>\n`;
+        epIndex++;
+      }
+    });
+
+    xml += `      </item>\n`;
+  });
+
+  xml += `    </items>\n</channel>`;
+  $("#resultadoXML").val(xml);
+}
+
+    function copiarXML() {
+      const xml = $("#resultadoXML").val();
+      navigator.clipboard.writeText(xml).then(() => alert("XML copiado!"));
+    }
+
+    function limparCampos() {
+      $("input, textarea").val("");
+      $("#seriesLista, #temporadasLista").html("");
+      $("#episodios, #temporadasContainer").html("");
+      $("#thumbnailPreview, #fanartPreview").hide();
+      temporadasAdicionadas.clear();
+    }
+  </script>
+</body>
+</html>
