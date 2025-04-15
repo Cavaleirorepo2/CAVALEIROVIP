@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS AO VIVO[/COLOR][/B]</name>
+<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/CANAIS%20AO%20VIVO.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+<info>Canais Ao Vivo em HD, Full HD, SD.</info>
+<externallink>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/CANAIS%20AO%20VIVO/TV%20AO%20VIVO.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] ESPORTES[/COLOR][/B]</name>
+<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/ESPORTES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+<info>Futebol Ao Vivo Aproveite só tem no BluePlay!</info>
+<externallink>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/ESPORTES/ESPORTES.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] ESPORTES PROGRAMAÇÃO[/COLOR][/B]</name>
+<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/ESPORTES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+<info>Futebol Ao Vivo Aproveite só tem no BluePlay!</info>
+<externallink>https://raw.githubusercontent.com/BluePlay8486/BluePlayHD/refs/heads/main/BluePlay/TV%20AO%20VIVO/PROGRAMACAODEESPORTES.XML</externallink>
+</channel>
+  
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] PLUTO TV[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/images.png</thumbnail>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/images%20(6).jpeg</fanart>
+<info>Pluto Tv Aproveite Ao Máximo o BluePlay!</info>
+<externallink>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/PLUTO%20TV/PLUTO_TV.txt</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] RUNTIME[/COLOR][/B]</name>
+<thumbnail>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/images%20(13).jpeg</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/images%20(12).jpeg</fanart>
+<info>Canais de RUNTIME Aproveite</info>
+<externallink>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/BluePlay/TV%20AO%20VIVO/RUNTIME/RUNTIME.txt</externallink>
+</channel>
+  
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] PORTUGAL TV[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/Portugal.icon.png</thumbnail>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.Portugal.png</fanart>
+<info>Canais de Portugal Aproveite</info>
+<externallink></externallink>
+</channel>
+
+</channels>
