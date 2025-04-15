@@ -1,0 +1,39 @@
+#EXTM3U                           
+
+
+
+
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="FILMES E SÉRIES", RunTime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="FILMES E SÉRIES", RunTime Ação
+https://stream.ads.ottera.tv/cl/250324cvgngcug2jha2ldh8q90/1280x720_3071200_0_f.m3u8?i=728_6128
+#EXTINF:-1 tvg-logo="https://baf-qrcode.b-cdn.net/RUNTIME.jpeg" group-title="FILMES E SÉRIES", RunTime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_family_brazil_1400x2000.jpg" group-title="FILMES E SÉRIES", RunTime Família
+https://stream.ads.ottera.tv/cl/250324cvgnkbctocs7shdt3lmg/1280x720_3071200_0_f.m3u8?i=728_5589
+#EXTINF:-1 tvg-name="Run:Time CineEspanto" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/runtime_cinespanto_16x9_1.jpg" group-title="CINEMA",Run:Time Romance
+https://stream.ads.ottera.tv/cl/250324cvgnmteg2jha2ldhcej0/1280x720_3071200_0_f.m3u8?i=728_6128
+#EXTINF:-1 tvg-name="Run:Time Crime" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/thumbnails/poster/366x206/runtime_crime_brazil_1400x2000.jpg" group-title="CINEMA",Run:Time 
+https://stream.ads.ottera.tv/cl/250324cvgnorouco25r2rih5ug/1280x720_3071200_0_f.m3u8?i=728_4864
+#EXTINF:-1 tvg-name="Run:Time TV e Filmes" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_1920x1080_0.png" group-title="CINEMA",Run:Time TV e Filmes
+http://aasd.fun:80/1234567/1234567/3954177
+#EXTINF:-1 tvg-name="Run:Time Crime" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_crime_16x9_1.png" group-title="CINEMA",Run:Time Crime
+http://aasd.fun:80/1234567/1234567/3954176
+#EXTINF:-1 tvg-name="Run:Time Cine Espanto" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_cinespanto_16x9_1.png" group-title="CINEMA",Run:Time Cine Espanto
+http://aasd.fun:80/1234567/1234567/3954175
+#EXTINF:-1 tvg-name="Run:Time Familia" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_familia_16x9_3_0.png" group-title="CINEMA",Run:Time Familia
+http://aasd.fun:80/1234567/1234567/3954174
+#EXTINF:-1 tvg-name="Run:Time Ação" tvg-logo="https://img.inboxbr.pro/icones_channels/runtime_br_action_bg.png" group-title="CINEMA",Run:Time Ação
+http://aasd.fun:80/1234567/1234567/3954173
+#EXTINF:-1 tvg-id="Cine Sky 1" tvg-name="Cine SKY 01" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="CINEMA",Cine SKY 01
+http://aasd.fun:80/1234567/1234567/3953419
+#EXTINF:-1 tvg-id="Cine Sky 2" tvg-name="Cine SKY 02" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="CINEMA",Cine SKY 02
+http://aasd.fun:80/1234567/1234567/3953420
+#EXTINF:-1 tvg-id="Cine Sky 3" tvg-name="Cine SKY 03" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="CINEMA",Cine SKY 03
+http://aasd.fun:80/1234567/1234567/3953421
+#EXTINF:-1 tvg-id="Cine Sky 4" tvg-name="Cine SKY 04" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="CINEMA",Cine SKY 04
+http://aasd.fun:80/1234567/1234567/3953422
+#EXTINF:-1 tvg-id="Cine Sky 5" tvg-name="Cine SKY 05" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="CINEMA",Cine SKY 05
+http://aasd.fun:80/1234567/1234567/3953423
+#EXTINF:-1 tvg-id="Cine Sky 6" tvg-name="Cine SKY 06" tvg-logo="https://img.inboxbr.pro/icones_channels/CineSKY.png" group-title="CINEMA",Cine SKY 06
+http://aasd.fun:80/1234567/1234567/3953424
