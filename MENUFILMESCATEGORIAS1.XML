@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>[B][COLOR pink]Filmes[/COLOR] [COLOR white]| LANÇAMENTOS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Lan%C3%A7amentos.xml</externallink>
+</channel>
+
+ <channel>
+<name>[B][COLOR pink]Filmes[/COLOR] [COLOR white]| AVENTURA[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Aventura.xml</externallink>
+</channel>
+
+ <channel>
+<name>[B][COLOR red]Filmes[/COLOR] [COLOR white]| AÇÃO[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/a%C3%A7ao.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR cyan]Filmes[/COLOR] [COLOR white]| ANIMAÇÃO[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Anima%C3%A7ao.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aqua]Filmes[/COLOR] [COLOR white]| COMÉDIA[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/comedia.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR cyan]Filmes[/COLOR] [COLOR white]| DOCUMENTÁRIO[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/documentario.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR pink]Filmes[/COLOR] [COLOR white]| FICÇÃO[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/fic%C3%A7ao.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]Filmes[/COLOR] [COLOR white]| DRAMA[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/drama.xml</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR blue]Filmes[/COLOR] [COLOR white]| HEROIS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/herois.xml</externallink>
+</channel>
+
+
+
+</channels>
