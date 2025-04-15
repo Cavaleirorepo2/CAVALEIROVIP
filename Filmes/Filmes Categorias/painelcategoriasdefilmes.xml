@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR white]TORRENT[/COLOR][/B]</name>  
+<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/TORRENT.png</thumbnail>    
+<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>  
+<externallink></externallink>
+</channel>
+    
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR white]LINK DIRETO[/COLOR][/B]</name> 
+<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/LINK%20DIRETO.png</thumbnail>    
+<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>     
+<externallink></externallink>
+</channel>
+    
+</channels>
+     
