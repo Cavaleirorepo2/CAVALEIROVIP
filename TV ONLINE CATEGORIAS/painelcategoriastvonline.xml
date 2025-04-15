@@ -49,4 +49,14 @@
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/portugal.xml</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] AGENDA EVENTOS ESPORTIVOS[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/Portugal.icon.png</thumbnail>
+<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.Portugal.png</fanart>
+<info>Canais de Portugal Aproveite</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/eventosesportivos.xml</externallink>
+</channel>
+
+
+  
 </channels>
