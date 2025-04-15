@@ -1,0 +1,711 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="bandbahia.br" tvg-name="BAND BAHIA FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND BAHIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/1374946.m3u8
+#EXTINF:-1 tvg-id="ZYA297" tvg-name="BAND BAHIA HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND BAHIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/395.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND BELEM DO PARA HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND BELEM DO PARA HD
+http://cdn.pthdtv.top:80/790984248/022201884/4137369.m3u8
+#EXTINF:-1 tvg-id="bandbrasília.br" tvg-name="BAND BRASILIA HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND BRASILIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173196.m3u8
+#EXTINF:-1 tvg-id="ZYB889" tvg-name="BAND CAMPINAS SD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND CAMPINAS SD
+http://cdn.pthdtv.top:80/790984248/022201884/396.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND CEARÁ HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND CEARÁ HD
+http://cdn.pthdtv.top:80/790984248/022201884/173197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND GO HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND GO HD
+http://cdn.pthdtv.top:80/790984248/022201884/173198.m3u8
+#EXTINF:-1 tvg-id="ZYA720" tvg-name="BAND MINAS HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND MINAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/398.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND NATAL FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND NATAL FHD
+http://cdn.pthdtv.top:80/790984248/022201884/1387568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND PA FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND PA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173199.m3u8
+#EXTINF:-1 tvg-id="Band SP 4k" tvg-name="BAND RECIFE FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND RECIFE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173200.m3u8
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND RJ FHD
+http://cdn.pthdtv.top:80/790984248/022201884/399.m3u8
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="Band RJ HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",Band RJ HD
+http://cdn.pthdtv.top:80/790984248/022201884/400.m3u8
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="BAND RJ HD³" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND RJ HD³
+http://cdn.pthdtv.top:80/790984248/022201884/80.m3u8
+#EXTINF:-1 tvg-id="bandrj.br" tvg-name="BAND RJ SD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND RJ SD
+http://cdn.pthdtv.top:80/790984248/022201884/401.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND RN FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND RN FHD
+http://cdn.pthdtv.top:80/790984248/022201884/1387565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND RS FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND RS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/1374951.m3u8
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND RS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173201.m3u8
+#EXTINF:-1 tvg-id="BR - Band Rio Grande do Sul HD" tvg-name="BAND RS SD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND RS SD
+http://cdn.pthdtv.top:80/790984248/022201884/1374952.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BAND SP 4K" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND SP 4K
+http://cdn.pthdtv.top:80/790984248/022201884/1552323.m3u8
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="BAND SP FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND SP FHD
+http://cdn.pthdtv.top:80/790984248/022201884/402.m3u8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND SP HD
+http://cdn.pthdtv.top:80/790984248/022201884/403.m3u8
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND SP SD
+http://cdn.pthdtv.top:80/790984248/022201884/404.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BAND TAROBÁ FHD" tvg-logo="https://i.imgur.com/3G2g2PD.png" group-title="BAND",BAND TAROBÁ FHD
+http://cdn.pthdtv.top:80/790984248/022201884/1387566.m3u8
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO BELO HORIZONTE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173062.m3u8
+#EXTINF:-1 tvg-id="globobelohorizonte.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO BELO HORIZONTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173063.m3u8
+#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO BRASILIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/516.m3u8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="GLOBO BRASILIA FHD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO BRASILIA FHD²
+http://cdn.pthdtv.top:80/790984248/022201884/173065.m3u8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="GLOBO BRASILIA FHD¹" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO BRASILIA FHD¹
+http://cdn.pthdtv.top:80/790984248/022201884/173064.m3u8
+#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO BRASILIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/517.m3u8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="GLOBO BRASÍLIA SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO BRASÍLIA SD
+http://cdn.pthdtv.top:80/790984248/022201884/173067.m3u8
+#EXTINF:-1 tvg-id="Globo Minas HD" tvg-name="GLOBO MG SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO MG SD
+http://cdn.pthdtv.top:80/790984248/022201884/544.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO MINAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173068.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO MINAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173069.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="GLOBO MINAS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO MINAS SD
+http://cdn.pthdtv.top:80/790984248/022201884/173070.m3u8
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO NORDESTE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173071.m3u8
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO NORDESTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/547.m3u8
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO NORDESTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173072.m3u8
+#EXTINF:-1 tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO NORDESTE SD
+http://cdn.pthdtv.top:80/790984248/022201884/173073.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RJ FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173074.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ FHD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RJ FHD²
+http://cdn.pthdtv.top:80/790984248/022201884/173075.m3u8
+#EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="GLOBO RJ HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RJ HD
+http://cdn.pthdtv.top:80/790984248/022201884/565.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RJ HD²
+http://cdn.pthdtv.top:80/790984248/022201884/173077.m3u8
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RJ HD¹" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RJ HD¹
+http://cdn.pthdtv.top:80/790984248/022201884/173076.m3u8
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RJ SD
+http://cdn.pthdtv.top:80/790984248/022201884/173078.m3u8
+#EXTINF:-1 tvg-id="Globo Brasilia HD" tvg-name="GLOBO RPC CURITIBA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RPC CURITIBA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RPC CURITIBA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172985.m3u8
+#EXTINF:-1 tvg-id="Globo Rpc Curitiba SD" tvg-name="GLOBO RPC CURITIBA SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO RPC CURITIBA SD
+http://cdn.pthdtv.top:80/790984248/022201884/172986.m3u8
+#EXTINF:-1 tvg-id="Globo TV Sergipe HD" tvg-name="GLOBO SE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/576.m3u8
+#EXTINF:-1 tvg-id="Globo TV Sergipe HD" tvg-name="GLOBO SE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SE HD
+http://cdn.pthdtv.top:80/790984248/022201884/577.m3u8
+#EXTINF:-1 tvg-id="Globo TV Sergipe HD" tvg-name="GLOBO SERGIPE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SERGIPE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173079.m3u8
+#EXTINF:-1 tvg-id="Globo TV Sergipe HD" tvg-name="GLOBO SERGIPE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SERGIPE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173080.m3u8
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SP 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369652.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SP FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173081.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP FHD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SP FHD²
+http://cdn.pthdtv.top:80/790984248/022201884/578.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SP HD
+http://cdn.pthdtv.top:80/790984248/022201884/173083.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP HD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SP HD²
+http://cdn.pthdtv.top:80/790984248/022201884/579.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS CAPITAIS",GLOBO SP SD
+http://cdn.pthdtv.top:80/790984248/022201884/173085.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ALAGOAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO ALAGOAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAPA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO AMAPA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO AMAZONAS" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO AMAZONAS
+http://cdn.pthdtv.top:80/790984248/022201884/511.m3u8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="GLOBO ASA BRANCA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO ASA BRANCA HD
+http://cdn.pthdtv.top:80/790984248/022201884/512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAGE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO BAGE HD
+http://cdn.pthdtv.top:80/790984248/022201884/172924.m3u8
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO BAHIA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO BAHIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/513.m3u8
+#EXTINF:-1 tvg-id="BAHIAHD" tvg-name="GLOBO BAHIA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO BAHIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BAHIA SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO BAHIA SD
+http://cdn.pthdtv.top:80/790984248/022201884/514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV LIBERAL BELEM SD
+http://cdn.pthdtv.top:80/790984248/022201884/515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMÉRICA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO CENTRO AMÉRICA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO CENTRO AMÉRICA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO CENTRO AMÉRICA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO DF HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO DF HD
+http://cdn.pthdtv.top:80/790984248/022201884/54.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV  SAO CARLOS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV  SAO CARLOS HD
+http://cdn.pthdtv.top:80/790984248/022201884/172930.m3u8
+#EXTINF:-1 tvg-id="EPTVCentralHD.br" tvg-name="GLOBO EPTV  SAO CARLOS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV  SAO CARLOS SD
+http://cdn.pthdtv.top:80/790984248/022201884/172931.m3u8
+#EXTINF:-1 tvg-id="eptvcampinas.br" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV CAMPINAS 4K
+http://cdn.pthdtv.top:80/790984248/022201884/519.m3u8
+#EXTINF:-1 tvg-id="eptvcampinas.br" tvg-name="GLOBO EPTV CAMPINAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV CAMPINAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV CAMPINAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/172933.m3u8
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV MINAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV MINAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/172934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRAO PRETO SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV RIBEIRAO PRETO SD
+http://cdn.pthdtv.top:80/790984248/022201884/172935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV RIBEIRÃO PRETO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV RIBEIRÃO PRETO HD
+http://cdn.pthdtv.top:80/790984248/022201884/172937.m3u8
+#EXTINF:-1 tvg-id="Globo Eptv Ribeirao Preto SD" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV RIBEIRÃO PRETO HD²
+http://cdn.pthdtv.top:80/790984248/022201884/522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV SAO CARLOS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172938.m3u8
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="Globo EPTV SUL DE MINAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",Globo EPTV SUL DE MINAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/523.m3u8
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV SUL DE MINAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/524.m3u8
+#EXTINF:-1 tvg-id="Globo EPTV Sul de Minas HD" tvg-name="GLOBO EPTV SUL DE MINAS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO EPTV SUL DE MINAS SD
+http://cdn.pthdtv.top:80/790984248/022201884/525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ESPIRITO SANTO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO ESPIRITO SANTO HD
+http://cdn.pthdtv.top:80/790984248/022201884/526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FORTALEZA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO FORTALEZA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/528.m3u8
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza HD" tvg-name="GLOBO FORTALEZA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO FORTALEZA HD
+http://cdn.pthdtv.top:80/790984248/022201884/529.m3u8
+#EXTINF:-1 tvg-id="Globo TV Verdes Mares Fortaleza HD" tvg-name="GLOBO FORTALEZA HD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO FORTALEZA HD²
+http://cdn.pthdtv.top:80/790984248/022201884/172940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ESPIRITO SANTO SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO ESPIRITO SANTO SD
+http://cdn.pthdtv.top:80/790984248/022201884/530.m3u8
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO GOIAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO GOIAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/3240678.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO GOIAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO GOIAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/531.m3u8
+#EXTINF:-1 tvg-id="globoanhanguera.br" tvg-name="GLOBO GOIAS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO GOIAS SD
+http://cdn.pthdtv.top:80/790984248/022201884/3240679.m3u8
+#EXTINF:-1 tvg-id="intertvgrandeminas.br" tvg-name="GLOBO INTER TV GRANDE MINAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV GRANDE MINAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/172941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTEGRAÇÃO MG FHD
+http://cdn.pthdtv.top:80/790984248/022201884/532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTEGRAÇÃO MG HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTEGRAÇÃO MG HD
+http://cdn.pthdtv.top:80/790984248/022201884/533.m3u8
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV ALTO LITORAL FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172942.m3u8
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV ALTO LITORAL HD
+http://cdn.pthdtv.top:80/790984248/022201884/172943.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO INTER TV ALTO LITORAL SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV ALTO LITORAL SD
+http://cdn.pthdtv.top:80/790984248/022201884/534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV CABUGI FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV CABUGI HD
+http://cdn.pthdtv.top:80/790984248/022201884/172945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV DOS VALES FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV DOS VALES HD
+http://cdn.pthdtv.top:80/790984248/022201884/172947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTER TV GRANDE MINAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTER TV GRANDE MINAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO JOINVILE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO JOINVILE HD
+http://cdn.pthdtv.top:80/790984248/022201884/535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRAÇAO JUIZ DE FORA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV INTEGRAÇAO JUIZ DE FORA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO LITORAL BAURU SP" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO LITORAL BAURU SP
+http://cdn.pthdtv.top:80/790984248/022201884/536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO LITORAL SANTOS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO LITORAL SANTOS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC LONDRINA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC LONDRINA HD
+http://cdn.pthdtv.top:80/790984248/022201884/538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MACEIO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO MACEIO HD
+http://cdn.pthdtv.top:80/790984248/022201884/539.m3u8
+#EXTINF:-1 tvg-id="Globo RPC Maringa HD" tvg-name="GLOBO MARINGÁ HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO MARINGÁ HD
+http://cdn.pthdtv.top:80/790984248/022201884/540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MG FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO MG FHD
+http://cdn.pthdtv.top:80/790984248/022201884/541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MG HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO MG HD
+http://cdn.pthdtv.top:80/790984248/022201884/542.m3u8
+#EXTINF:-1 tvg-id="InterTVAltoLitoral.br" tvg-name="GLOBO MG HD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO MG HD²
+http://cdn.pthdtv.top:80/790984248/022201884/543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MIRANTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO MIRANTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MT HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO MT HD
+http://cdn.pthdtv.top:80/790984248/022201884/546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC BLUMENAU FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC BLUMENAU HD
+http://cdn.pthdtv.top:80/790984248/022201884/172951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CENTRO OESTE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC CENTRO OESTE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CENTRO OESTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC CENTRO OESTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/172953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CHAPECO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC CHAPECO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CHAPECO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC CHAPECO HD
+http://cdn.pthdtv.top:80/790984248/022201884/172955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CRICIUMA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC CRICIUMA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC CRICIUMA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC CRICIUMA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC FLORIANOPOLIS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC FLORIANOPOLIS SD
+http://cdn.pthdtv.top:80/790984248/022201884/548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC JOINVILLE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC JOINVILLE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC JOINVILLE HD
+http://cdn.pthdtv.top:80/790984248/022201884/172959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC SANTA CATARINA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC SANTA CATARINA HD
+http://cdn.pthdtv.top:80/790984248/022201884/549.m3u8
+#EXTINF:-1 tvg-id="Globo Nsc Tv Florianopolis HD" tvg-name="GLOBO NSC TV FLORIANÓPOLIS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC TV FLORIANÓPOLIS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NSC TV FLORIANÓPOLIS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO NSC TV FLORIANÓPOLIS HD
+http://cdn.pthdtv.top:80/790984248/022201884/172961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO ANHANGUERA PALMAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO ANHANGUERA PALMAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO PERNABUCO  HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO PERNABUCO  HD
+http://cdn.pthdtv.top:80/790984248/022201884/552.m3u8
+#EXTINF:-1 tvg-id="globorbstvpoa.br" tvg-name="GLOBO RBS 4K" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS 4K
+http://cdn.pthdtv.top:80/790984248/022201884/1168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CAXIAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS CAXIAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CAXIAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS CAXIAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CRUZ ALTA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS CRUZ ALTA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS CRUZ ALTA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS CRUZ ALTA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS PORTO ALEGRE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172964.m3u8
+#EXTINF:-1 tvg-id="rbstvportoalegre.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS PORTO ALEGRE HD
+http://cdn.pthdtv.top:80/790984248/022201884/556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS PORTO ALEGRE HD
+http://cdn.pthdtv.top:80/790984248/022201884/172965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS TV CAXIAS DO SUL FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS TV CAXIAS DO SUL HD
+http://cdn.pthdtv.top:80/790984248/022201884/172967.m3u8
+#EXTINF:-1 tvg-id="Globo RBS TV Passo Fundo HD" tvg-name="GLOBO RBS TV PASSO FUNDO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS TV PASSO FUNDO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS TV PASSO FUNDO HD
+http://cdn.pthdtv.top:80/790984248/022201884/172969.m3u8
+#EXTINF:-1 tvg-id="globorbstvpoa.br" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS TV PELOTAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS TV PELOTAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RBS TV PELOTAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/172971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA MANAUS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO REDE AMAZONICA MANAUS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA MANAUS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO REDE AMAZONICA MANAUS HD
+http://cdn.pthdtv.top:80/790984248/022201884/559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA PORTO VELHO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO REDE AMAZONICA PORTO VELHO HD
+http://cdn.pthdtv.top:80/790984248/022201884/172972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE BOA VISTA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO REDE BOA VISTA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE MACAPA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO REDE MACAPA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE MACAPA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO REDE MACAPA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA MANAUS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO REDE AMAZONICA MANAUS SD
+http://cdn.pthdtv.top:80/790984248/022201884/172977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO BRANCO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RIO BRANCO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO BRANCO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RIO BRANCO HD
+http://cdn.pthdtv.top:80/790984248/022201884/172978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO BRANCO SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RIO BRANCO SD
+http://cdn.pthdtv.top:80/790984248/022201884/172979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RIO GRANDE DO SUL FHD
+http://cdn.pthdtv.top:80/790984248/022201884/562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RIO GRANDE DO SUL HD
+http://cdn.pthdtv.top:80/790984248/022201884/563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RN HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RN HD
+http://cdn.pthdtv.top:80/790984248/022201884/567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RONDONOPOLIS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RONDONOPOLIS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RONDONOPOLIS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RONDONOPOLIS HD
+http://cdn.pthdtv.top:80/790984248/022201884/172981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RORAIMA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RORAIMA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/568.m3u8
+#EXTINF:-1 tvg-id="Globo RPC Cascavel HD" tvg-name="GLOBO RPC CASCAVEL SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC CASCAVEL SD
+http://cdn.pthdtv.top:80/790984248/022201884/172982.m3u8
+#EXTINF:-1 tvg-id="Globo RPC Cascavel HD" tvg-name="GLOBO RPC CASCAVEL FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC CASCAVEL FHD
+http://cdn.pthdtv.top:80/790984248/022201884/569.m3u8
+#EXTINF:-1 tvg-id="Globo RPC Cascavel HD" tvg-name="GLOBO RPC CASCAVEL HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC CASCAVEL HD
+http://cdn.pthdtv.top:80/790984248/022201884/172983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUAÇU FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC FOZ DO IGUAÇU FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC FOZ DO IGUAÇU HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC FOZ DO IGUAÇU HD
+http://cdn.pthdtv.top:80/790984248/022201884/172988.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO RPC HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC HD
+http://cdn.pthdtv.top:80/790984248/022201884/571.m3u8
+#EXTINF:-1 tvg-id="Globo RPC Maringa HD" tvg-name="GLOBO RPC MARINGA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC MARINGA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172989.m3u8
+#EXTINF:-1 tvg-id="Globo RPC Maringa HD" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC MARINGA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC PARANAVAI FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC PARANAVAI HD
+http://cdn.pthdtv.top:80/790984248/022201884/172992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV PONTA GROSSA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC TV PONTA GROSSA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC TV PONTA GROSSA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RS HD
+http://cdn.pthdtv.top:80/790984248/022201884/572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RS SD
+http://cdn.pthdtv.top:80/790984248/022201884/573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SANTA CATARINA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO SANTA CATARINA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SANTA MARIA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO SANTA MARIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SANTA MARIA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO SANTA MARIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/172996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SAO CARLOS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO SAO CARLOS HD
+http://cdn.pthdtv.top:80/790984248/022201884/575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SÃO CARLOS" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO SÃO CARLOS
+http://cdn.pthdtv.top:80/790984248/022201884/581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SÃO JOSÉ DO RIO PRETO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO SÃO JOSÉ DO RIO PRETO HD
+http://cdn.pthdtv.top:80/790984248/022201884/172997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV ANHANGUERA GO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/172998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV ANHANGUERA GO HD
+http://cdn.pthdtv.top:80/790984248/022201884/172999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV ASA BRANCA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ASA BRANCA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV ASA BRANCA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173001.m3u8
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV BAHIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173002.m3u8
+#EXTINF:-1 tvg-id="globotvbahia.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV BAHIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV LIBERAL BELEM FHD
+http://cdn.pthdtv.top:80/790984248/022201884/582.m3u8
+#EXTINF:-1 tvg-id="Globo TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV CABO BRANCO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CABO BRANCO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV CABO BRANCO HD
+http://cdn.pthdtv.top:80/790984248/022201884/173005.m3u8
+#EXTINF:-1 tvg-id="Globo TV Cabo Branco HD" tvg-name="GLOBO TV CABO BRANCO SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV CABO BRANCO SD
+http://cdn.pthdtv.top:80/790984248/022201884/584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV CLUBE TERESINA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV CLUBE TERESINA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173006.m3u8
+#EXTINF:-1 tvg-id="globoteresina.br" tvg-name="GLOBO TV CLUBE TERESINA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV CLUBE TERESINA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIÁRIO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV DIÁRIO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV DIÁRIO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV DIÁRIO HD
+http://cdn.pthdtv.top:80/790984248/022201884/173011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV FRONTEIRA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV FRONTEIRA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV FRONTEIRA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV FRONTEIRA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173013.m3u8
+#EXTINF:-1 tvg-id="Globo TV Gazeta Alagoas HD" tvg-name="GLOBO TV GAZETA ALAGOAS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV GAZETA ALAGOAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ALAGOAS FHD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV GAZETA ALAGOAS FHD²
+http://cdn.pthdtv.top:80/790984248/022201884/173014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA DE ALAGOAS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV GAZETA DE ALAGOAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ES VITORIA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV GAZETA ES VITORIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA ES VITORIA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV GAZETA ES VITORIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV GAZETA SUL FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV GAZETA SUL FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173018.m3u8
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GLOBO TV GAZETA SUL HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV GAZETA SUL HD
+http://cdn.pthdtv.top:80/790984248/022201884/173019.m3u8
+#EXTINF:-1 tvg-id="Globo TV Integracao Uberaba HD" tvg-name="GLOBO TV INTEGRACAO UBERABA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV INTEGRACAO UBERABA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173020.m3u8
+#EXTINF:-1 tvg-id="Globo TV Integracao Uberaba HD" tvg-name="GLOBO TV INTEGRACAO UBERABA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV INTEGRACAO UBERABA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173021.m3u8
+#EXTINF:-1 tvg-id="Globo TV Integracao Uberlandia HD" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV INTEGRACAO UBERLANDIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173022.m3u8
+#EXTINF:-1 tvg-id="Globo TV Integracao Uberlandia HD" tvg-name="GLOBO TV INTEGRACAO UBERLANDIA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV INTEGRACAO UBERLANDIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173023.m3u8
+#EXTINF:-1 tvg-id="Globo TV Integracao Juiz de Fora HD" tvg-name="GLOBO TV INTEGRAÇAO JUIZ DE FORA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV INTEGRAÇAO JUIZ DE FORA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRAÇÃO ARAXA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV INTEGRAÇÃO ARAXA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV INTEGRAÇÃO ARAXA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV INTEGRAÇÃO ARAXA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173026.m3u8
+#EXTINF:-1 tvg-id="Globo TV Liberal Belem HD" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV LIBERAL BELEM HD
+http://cdn.pthdtv.top:80/790984248/022201884/586.m3u8
+#EXTINF:-1 tvg-id="Globo TV Mirante Cocais HD" tvg-name="GLOBO TV MIRANTE COCAIS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV MIRANTE COCAIS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173028.m3u8
+#EXTINF:-1 tvg-id="Globo TV Mirante FHD" tvg-name="GLOBO TV MIRANTE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV MIRANTE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/77.m3u8
+#EXTINF:-1 tvg-id="Globo TV Mirante Cocais HD" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV MIRANTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV MIRANTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE SÃO LUIS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV MIRANTE SÃO LUIS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173029.m3u8
+#EXTINF:-1 tvg-id="Globo TV Morena HD" tvg-name="GLOBO TV MORENA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV MORENA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/587.m3u8
+#EXTINF:-1 tvg-id="Globo TV Morena HD" tvg-name="GLOBO TV MORENA SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV MORENA SD
+http://cdn.pthdtv.top:80/790984248/022201884/173031.m3u8
+#EXTINF:-1 tvg-id="Globo TV Morena HD" tvg-name="GLOBO TV MORENA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV MORENA HD
+http://cdn.pthdtv.top:80/790984248/022201884/588.m3u8
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO TV PARÁ SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV PARÁ SD
+http://cdn.pthdtv.top:80/790984248/022201884/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV PRESIDENTE PRUDENTE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV PRESIDENTE PRUDENTE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV PRESIDENTE PRUDENTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV PRESIDENTE PRUDENTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV RIO SUL FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV RIO SUL HD
+http://cdn.pthdtv.top:80/790984248/022201884/173036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERRA MAR FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV SERRA MAR FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SERRA MAR HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV SERRA MAR HD
+http://cdn.pthdtv.top:80/790984248/022201884/173038.m3u8
+#EXTINF:-1 tvg-id="Globo TV Subae HD" tvg-name="GLOBO TV SUBAE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV SUBAE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUDOESTE FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV SUDOESTE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV SUDOESTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV SUDOESTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173041.m3u8
+#EXTINF:-1 tvg-id="Globo Bauru HD" tvg-name="GLOBO TV TEM BAURU FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM BAURU FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173042.m3u8
+#EXTINF:-1 tvg-id="Globo Bauru HD" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM BAURU HD
+http://cdn.pthdtv.top:80/790984248/022201884/173043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM ITAPETININGA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM ITAPETININGA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173044.m3u8
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto FHD" tvg-name="GLOBO TV TEM RIO PRETO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM RIO PRETO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/69.m3u8
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto FHD" tvg-name="GLOBO TV TEM RIO PRETO FHD²" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM RIO PRETO FHD²
+http://cdn.pthdtv.top:80/790984248/022201884/70.m3u8
+#EXTINF:-1 tvg-id="Globo TV Tem S.J. do Rio Preto HD" tvg-name="GLOBO TV TEM RIO PRETO HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM RIO PRETO HD
+http://cdn.pthdtv.top:80/790984248/022201884/68.m3u8
+#EXTINF:-1 tvg-id="BR - TV TEM Sorocaba" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM SOROCABA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/589.m3u8
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="GLOBO TV TEM SOROCABA FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM SOROCABA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173045.m3u8
+#EXTINF:-1 tvg-id="tvtemsorocaba.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM SOROCABA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173046.m3u8
+#EXTINF:-1 tvg-id="BR - TV TEM Sorocaba" tvg-name="GLOBO TV TEM SOROCABA SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM SOROCABA SD
+http://cdn.pthdtv.top:80/790984248/022201884/590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173047.m3u8
+#EXTINF:-1 tvg-id="Globo TV Tribuna Santos HD" tvg-name="GLOBO TV TRIBUNA SANTOS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TRIBUNA SANTOS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/591.m3u8
+#EXTINF:-1 tvg-id="Globo TV Tribuna Santos HD" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TRIBUNA SANTOS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173049.m3u8
+#EXTINF:-1 tvg-id="tvtribunasantos.br" tvg-name="GLOBO TV TRIBUNA SANTOS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV TRIBUNA SANTOS SD
+http://cdn.pthdtv.top:80/790984248/022201884/173050.m3u8
+#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV VANGUARDA S. J. DOS CAMPOS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173052.m3u8
+#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV VANGUARDA S. J. DOS CAMPOS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173053.m3u8
+#EXTINF:-1 tvg-id="TV TEM - São José do Rio Preto" tvg-name="GLOBO TV VANGUARDA S. J. DOS CAMPOS SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV VANGUARDA S. J. DOS CAMPOS SD
+http://cdn.pthdtv.top:80/790984248/022201884/173051.m3u8
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate HD" tvg-name="GLOBO TV VANGUARDA TAUBATÉ HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV VANGUARDA TAUBATÉ HD
+http://cdn.pthdtv.top:80/790984248/022201884/173054.m3u8
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO TV VERDES MARES 4K" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV VERDES MARES 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369653.m3u8
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO TV VERDES MARES HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV VERDES MARES HD
+http://cdn.pthdtv.top:80/790984248/022201884/173057.m3u8
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV VERDES MARES FORTALEZA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANGUARDA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO VANGUARDA HD
+http://cdn.pthdtv.top:80/790984248/022201884/592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VANGUARDA SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO VANGUARDA SD
+http://cdn.pthdtv.top:80/790984248/022201884/593.m3u8
+#EXTINF:-1 tvg-id="Globo TV Vanguarda Taubate HD" tvg-name="GLOBO VANGUARDA TAUBATÉ FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO VANGUARDA TAUBATÉ FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173059.m3u8
+#EXTINF:-1 tvg-id="tvverdesmares.br" tvg-name="GLOBO VERDES MARES FHD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO VERDES MARES FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO VERDES MARES SD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO VERDES MARES SD
+http://cdn.pthdtv.top:80/790984248/022201884/594.m3u8
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="GLOBO INTERTV PLANICIE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO INTERTV PLANICIE HD
+http://cdn.pthdtv.top:80/790984248/022201884/4140082.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC GUARAPUAVA HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO RPC GUARAPUAVA HD
+http://cdn.pthdtv.top:80/790984248/022201884/4141603.m3u8
+#EXTINF:-1 tvg-id="Globo NSC TV Centro Oeste HD" tvg-name="GLOBO TV OESTE HD" tvg-logo="https://i.ibb.co/sVRZjkY/image.png" group-title="GLOBOS REGIONAIS",GLOBO TV OESTE HD
+http://cdn.pthdtv.top:80/790984248/022201884/4144842.m3u8
+#EXTINF:-1 tvg-id="recordtvbahia.br" tvg-name="RECORDTV BAHIA FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV BAHIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/774.m3u8
+#EXTINF:-1 tvg-id="recordtvbahia.br" tvg-name="RECORDTV BAHIA HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV BAHIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173177.m3u8
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="RECORDTV BAHIA SD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV BAHIA SD
+http://cdn.pthdtv.top:80/790984248/022201884/27.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV BELEM HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV BELEM HD
+http://cdn.pthdtv.top:80/790984248/022201884/758.m3u8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="RECORDTV BRASILIA HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV BRASILIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173178.m3u8
+#EXTINF:-1 tvg-id="recordtvminas.br" tvg-name="RECORDTV CAMPINAS HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV CAMPINAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173179.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV CIDADE CE HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV CIDADE CE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173180.m3u8
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="RECORDTV DF FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV DF FHD
+http://cdn.pthdtv.top:80/790984248/022201884/597832.m3u8
+#EXTINF:-1 tvg-id="Record DF HD" tvg-name="RECORDTV DF HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV DF HD
+http://cdn.pthdtv.top:80/790984248/022201884/759.m3u8
+#EXTINF:-1 tvg-id="Record DF HD" tvg-name="RECORDTV DF SD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV DF SD
+http://cdn.pthdtv.top:80/790984248/022201884/3241494.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV GO FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV GO FHD
+http://cdn.pthdtv.top:80/790984248/022201884/600764.m3u8
+#EXTINF:-1 tvg-id="BR - Record TV Goiás" tvg-name="RECORDTV GO HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV GO HD
+http://cdn.pthdtv.top:80/790984248/022201884/82.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV GO SD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV GO SD
+http://cdn.pthdtv.top:80/790984248/022201884/600765.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV JOÃO PESSOA FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV JOÃO PESSOA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173183.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV JOÃO PESSOA HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV JOÃO PESSOA HD
+http://cdn.pthdtv.top:80/790984248/022201884/1376565.m3u8
+#EXTINF:-1 tvg-id="ZYA736" tvg-name="RECORDTV MANAUS FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV MANAUS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/775.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV MANAUS HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV MANAUS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173184.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV MINAS FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV MINAS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173186.m3u8
+#EXTINF:-1 tvg-id="Record MG SD" tvg-name="RECORDTV MINAS HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV MINAS HD
+http://cdn.pthdtv.top:80/790984248/022201884/762.m3u8
+#EXTINF:-1 tvg-id="Record SP SD" tvg-name="RECORDTV MINAS SD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV MINAS SD
+http://cdn.pthdtv.top:80/790984248/022201884/763.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV NATAL SD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV NATAL SD
+http://cdn.pthdtv.top:80/790984248/022201884/764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV NDTV" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV NDTV
+http://cdn.pthdtv.top:80/790984248/022201884/1387572.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV RECIFE FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RECIFE FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173187.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV RIC TV HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RIC TV HD
+http://cdn.pthdtv.top:80/790984248/022201884/1387206.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="RECORDTV RJ FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RJ FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173188.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="RECORDTV RJ HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RJ HD
+http://cdn.pthdtv.top:80/790984248/022201884/173189.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RECORDTV RJ SD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RJ SD
+http://cdn.pthdtv.top:80/790984248/022201884/173190.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV RN FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RN FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173191.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV RN HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RN HD
+http://cdn.pthdtv.top:80/790984248/022201884/767.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV RONDONIA" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RONDONIA
+http://cdn.pthdtv.top:80/790984248/022201884/768.m3u8
+#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="RECORDTV RS 4K" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RS 4K
+http://cdn.pthdtv.top:80/790984248/022201884/1179.m3u8
+#EXTINF:-1 tvg-id="Record SP HD" tvg-name="RECORDTV RS FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/769.m3u8
+#EXTINF:-1 tvg-id="recordtvrs.br" tvg-name="RECORDTV RS HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV RS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173192.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV SANTOS HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV SANTOS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173193.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV SC" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV SC
+http://cdn.pthdtv.top:80/790984248/022201884/771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV SIC RONDONIA HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV SIC RONDONIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/4137819.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV SP 4K" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV SP 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369725.m3u8
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="RECORDTV SP FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV SP FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173194.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="RECORDTV SP HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV SP HD
+http://cdn.pthdtv.top:80/790984248/022201884/173195.m3u8
+#EXTINF:-1 tvg-id="Record SP FHD" tvg-name="RECORDTV SP SD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV SP SD
+http://cdn.pthdtv.top:80/790984248/022201884/772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV TROPICAL HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV TROPICAL HD
+http://cdn.pthdtv.top:80/790984248/022201884/1387573.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV ES HD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV ES HD
+http://cdn.pthdtv.top:80/790984248/022201884/4140080.m3u8
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORDTV CAMPOS DOS GOYTACAZES FHD" tvg-logo="https://i.imgur.com/iyCPHjp.png" group-title="RECORD TV",RECORDTV CAMPOS DOS GOYTACAZES FHD
+http://cdn.pthdtv.top:80/790984248/022201884/4140081.m3u8
+#EXTINF:-1 tvg-id="ARATUHD" tvg-name="SBT ARATU HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT ARATU HD
+http://cdn.pthdtv.top:80/790984248/022201884/173157.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT BAHIA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT BAHIA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173158.m3u8
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT BAHIA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT BAHIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/778.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT BRASILIA" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT BRASILIA
+http://cdn.pthdtv.top:80/790984248/022201884/779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT DF BRASILIA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT DF BRASILIA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173159.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO SERRA DOURADA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT GO SERRA DOURADA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT JANGADEIRO CEARA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT JANGADEIRO CEARA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT JORNAL PE HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT JORNAL PE HD
+http://cdn.pthdtv.top:80/790984248/022201884/173176.m3u8
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="SBT PARANA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT PARANA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173162.m3u8
+#EXTINF:-1 tvg-id="SBT FHD [Alter]" tvg-name="SBT PE HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT PE HD
+http://cdn.pthdtv.top:80/790984248/022201884/781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT PI FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT PI FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT PI HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT PI HD
+http://cdn.pthdtv.top:80/790984248/022201884/173164.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SBT RJ FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT RJ FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173166.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT RJ HD
+http://cdn.pthdtv.top:80/790984248/022201884/783.m3u8
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="SBT RJ SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT RJ SD
+http://cdn.pthdtv.top:80/790984248/022201884/173169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT RN FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT RN FHD
+http://cdn.pthdtv.top:80/790984248/022201884/173170.m3u8
+#EXTINF:-1 tvg-id="ZYB618" tvg-name="SBT RS FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT RS FHD
+http://cdn.pthdtv.top:80/790984248/022201884/784.m3u8
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT RS HD
+http://cdn.pthdtv.top:80/790984248/022201884/173171.m3u8
+#EXTINF:-1 tvg-id="sbtsp.br" tvg-name="SBT SP 4K" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT SP 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369728.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SP FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT SP FHD
+http://cdn.pthdtv.top:80/790984248/022201884/171879.m3u8
+#EXTINF:-1 tvg-id="SBT 4K" tvg-name="SBT SP HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT SP HD
+http://cdn.pthdtv.top:80/790984248/022201884/173174.m3u8
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT SP SD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT SP SD
+http://cdn.pthdtv.top:80/790984248/022201884/785.m3u8
+#EXTINF:-1 tvg-id="redemassa.br" tvg-name="SBT TRIBUNA REDE MASSA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT TRIBUNA REDE MASSA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/1387205.m3u8
+#EXTINF:-1 tvg-id="redemassa.br" tvg-name="SBT TRIBUNA REDE MASSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT TRIBUNA REDE MASSA HD
+http://cdn.pthdtv.top:80/790984248/022201884/173165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV ALTEROSA FHD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT TV ALTEROSA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/1387204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV ALTEROSA HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT TV ALTEROSA HD
+http://cdn.pthdtv.top:80/790984248/022201884/947206.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV DIFUSORA MARANHÃO HD" tvg-logo="https://i.imgur.com/lIDmapW.png" group-title="SBT",SBT TV DIFUSORA MARANHÃO HD
+http://cdn.pthdtv.top:80/790984248/022201884/173172.m3u8
+#EXTINF:-1 tvg-id="ADSM" tvg-name="AGRO+ FHD" tvg-logo="" group-title="ABERTOS",AGRO+ FHD
+http://cdn.pthdtv.top:80/790984248/022201884/6.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="ABERTOS",CANAL BRASIL FHD
+http://cdn.pthdtv.top:80/790984248/022201884/469.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANAL DO BOI FHD" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="ABERTOS",CANAL DO BOI FHD
+http://cdn.pthdtv.top:80/790984248/022201884/369617.m3u8
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural HD" tvg-logo="http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="ABERTOS",Canal Rural HD
+http://cdn.pthdtv.top:80/790984248/022201884/470.m3u8
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural SD" tvg-logo="http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="ABERTOS",Canal Rural SD
+http://cdn.pthdtv.top:80/790984248/022201884/471.m3u8
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="ABERTOS",FUTURA 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369649.m3u8
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA FHD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="ABERTOS",FUTURA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/171844.m3u8
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="ABERTOS",FUTURA HD
+http://cdn.pthdtv.top:80/790984248/022201884/472.m3u8
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="ABERTOS",FUTURA SD
+http://cdn.pthdtv.top:80/790984248/022201884/473.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE 4K" tvg-logo="https://acstatic.co/logos/canais/mtv.png" group-title="ABERTOS",MTV LIVE 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369677.m3u8
+#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="https://i.imgur.com/tVMEQmb.png" group-title="ABERTOS",REDE BRASIL
+http://cdn.pthdtv.top:80/790984248/022201884/474.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV 4K" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="ABERTOS",REDE TV 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369702.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="ABERTOS",REDE TV FHD
+http://cdn.pthdtv.top:80/790984248/022201884/476.m3u8
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV HD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="ABERTOS",REDE TV HD
+http://cdn.pthdtv.top:80/790984248/022201884/171878.m3u8
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="ABERTOS",REDE TV SD
+http://cdn.pthdtv.top:80/790984248/022201884/477.m3u8
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="ABERTOS",TV CAMARA
+http://cdn.pthdtv.top:80/790984248/022201884/479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA 4K" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="ABERTOS",TV CULTURA 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369627.m3u8
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="ABERTOS",TV CULTURA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/480.m3u8
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="ABERTOS",TV CULTURA HD
+http://cdn.pthdtv.top:80/790984248/022201884/481.m3u8
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="ABERTOS",TV CULTURA SD
+http://cdn.pthdtv.top:80/790984248/022201884/482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA 4K" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="ABERTOS",TV GAZETA 4K
+http://cdn.pthdtv.top:80/790984248/022201884/369727.m3u8
+#EXTINF:-1 tvg-id="ZYA221" tvg-name="TV GAZETA FHD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="ABERTOS",TV GAZETA FHD
+http://cdn.pthdtv.top:80/790984248/022201884/483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="ABERTOS",TV GAZETA HD
+http://cdn.pthdtv.top:80/790984248/022201884/171896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="ABERTOS",CANAL BRASIL HD
+http://cdn.pthdtv.top:80/790984248/022201884/4774475.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="ABERTOS",CANAL BRASIL SD
+http://cdn.pthdtv.top:80/790984248/022201884/4774476.m3u8
