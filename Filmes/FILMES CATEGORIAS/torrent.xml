@@ -51,14 +51,21 @@
 </channel>
 
 <channel>
-<name>[B][COLOR pink]Filmes[/COLOR] [COLOR pink]| FAMILIA[/COLOR][/B]</name>
+<name>[B][COLOR chocolate]Filmes[/COLOR] [COLOR pink]| FAMILIA[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
 <fanart>https://github.com/chocolatePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/familia.xml</externallink>
 </channel>
+
+<channel>
+<name>[B][COLOR chocolate]Filmes[/COLOR] [COLOR pink]| FAROESTE[/COLOR][/B]</name>
+<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
+<fanart>https://github.com/chocolatePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<externallink></externallink>
+</channel>
  
 <channel>
-<name>[B][COLOR pink]Filmes[/COLOR] [COLOR pink]| FICÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR chocolate]Filmes[/COLOR] [COLOR pink]| FICÇÃO[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
 <fanart>https://github.com/chocolatePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/fic%C3%A7ao.xml</externallink>
