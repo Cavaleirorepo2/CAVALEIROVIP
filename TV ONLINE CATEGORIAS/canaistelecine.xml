@@ -1,0 +1,39 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TC ACTION ALT" tvg-logo="http://vraws.com:8080/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="CANAIS TELECINE",TC ACTION ALT
+http://opaioo.com:8080/bebelly/11976080402/1151574
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION SD" tvg-logo="http://vraws.com:8080/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="CANAIS TELECINE",TELECINE ACTION SD
+http://opaioo.com:8080/bebelly/11976080402/1026551
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION HD" tvg-logo="http://vraws.com:8080/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="CANAIS TELECINE",TELECINE ACTION HD
+http://opaioo.com:8080/bebelly/11976080402/1026552
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="TELECINE ACTION FHD" tvg-logo="http://vraws.com:8080/images/ccfd33ddfe419548c76d5b8fcb1fb875.png" group-title="CANAIS TELECINE",TELECINE ACTION FHD
+http://opaioo.com:8080/bebelly/11976080402/1026553
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT SD" tvg-logo="http://vraws.com:8080/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="CANAIS TELECINE",TELECINE CULT SD
+http://opaioo.com:8080/bebelly/11976080402/1026554
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT HD" tvg-logo="http://vraws.com:8080/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="CANAIS TELECINE",TELECINE CULT HD
+http://opaioo.com:8080/bebelly/11976080402/1026555
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="TELECINE CULT FHD" tvg-logo="http://vraws.com:8080/images/60341b167b02ef0cb8e2d525d4e3f3dd.png" group-title="CANAIS TELECINE",TELECINE CULT FHD
+http://opaioo.com:8080/bebelly/11976080402/1026556
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN SD" tvg-logo="http://vraws.com:8080/images/316088bf2c043768954fa2b04a9008d2.png" group-title="CANAIS TELECINE",TELECINE FUN SD
+http://opaioo.com:8080/bebelly/11976080402/1026557
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://vraws.com:8080/images/316088bf2c043768954fa2b04a9008d2.png" group-title="CANAIS TELECINE",TELECINE FUN HD
+http://opaioo.com:8080/bebelly/11976080402/1026558
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN FHD" tvg-logo="http://vraws.com:8080/images/316088bf2c043768954fa2b04a9008d2.png" group-title="CANAIS TELECINE",TELECINE FUN FHD
+http://opaioo.com:8080/bebelly/11976080402/1026559
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA SD" tvg-logo="http://vraws.com:8080/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="CANAIS TELECINE",TELECINE PIPOCA SD
+http://opaioo.com:8080/bebelly/11976080402/1026560
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://vraws.com:8080/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
+http://opaioo.com:8080/bebelly/11976080402/1026561
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://vraws.com:8080/images/cd40eb21ce6830e74ecc86d8051ce8e1.png" group-title="CANAIS TELECINE",TELECINE PIPOCA FHD
+http://opaioo.com:8080/bebelly/11976080402/1026562
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM SD" tvg-logo="http://vraws.com:8080/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="CANAIS TELECINE",TELECINE PREMIUM SD
+http://opaioo.com:8080/bebelly/11976080402/1026563
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://vraws.com:8080/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="CANAIS TELECINE",TELECINE PREMIUM HD
+http://opaioo.com:8080/bebelly/11976080402/1026564
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="TELECINE PREMIUM FHD" tvg-logo="http://vraws.com:8080/images/f8d2354ef0cde7800a0475f6babd211d.png" group-title="CANAIS TELECINE",TELECINE PREMIUM FHD
+http://opaioo.com:8080/bebelly/11976080402/1026565
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH SD" tvg-logo="http://vraws.com:8080/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="CANAIS TELECINE",TELECINE TOUCH SD
+http://opaioo.com:8080/bebelly/11976080402/1026566
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH HD" tvg-logo="http://vraws.com:8080/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="CANAIS TELECINE",TELECINE TOUCH HD
+http://opaioo.com:8080/bebelly/11976080402/1026567
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="TELECINE TOUCH FHD" tvg-logo="http://vraws.com:8080/images/0c618fb6c4129f46029f8e7a9c7671d8.png" group-title="CANAIS TELECINE",TELECINE TOUCH FHD
+http://opaioo.com:8080/bebelly/11976080402/1026568
