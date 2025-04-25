@@ -16,6 +16,14 @@
 <info>Canais Ao Vivo em HD, Full HD, SD.</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/canaistelecine.xml</externallink>
 </channel>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS DESENHOS 24 HORAS[/COLOR][/B]</name>
+<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/CANAIS%20AO%20VIVO.png</thumbnail>
+<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+<info>Canais Ao Vivo em HD, Full HD, SD.</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/desenhos24hrs.xml</externallink>
+</channel>
   
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] ESPORTES[/COLOR][/B]</name>
