@@ -3,8 +3,8 @@
 
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR pink]TORRENT[/COLOR][/B]</name>  
-<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/TORRENT.png</thumbnail>    
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>  
+<thumbnail>https://archive.org/download/filmes-torrents/filmes%20torrents.png</thumbnail>    
+<fanart>https://archive.org/download/filmes-torrents/filmes%20torrents.png</fanart>  
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/FILMES%20CATEGORIAS/torrent.xml</externallink>
 </channel>
    
