@@ -27,16 +27,16 @@
   
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] ESPORTES[/COLOR][/B]</name>
-<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/ESPORTES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+<thumbnail>https://archive.org/download/tv-esportes/tv%20esportes.png</thumbnail>
+<fanart>https://archive.org/download/tv-esportes/tv%20esportes.png</fanart>
 <info>Futebol Ao Vivo Aproveite só tem no BluePlay!</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/esportes.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] ESPORTES PROGRAMAÇÃO[/COLOR][/B]</name>
-<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/ESPORTES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>
+<thumbnail>https://archive.org/download/tv-esportes/tv%20esportes.png</thumbnail>
+<fanart>https://archive.org/download/tv-esportes/tv%20esportes.png</fanart>
 <info>Futebol Ao Vivo Aproveite só tem no BluePlay!</info>
 <externallink>https://raw.githubusercontent.com/BluePlay8486/BluePlayHD/refs/heads/main/BluePlay/TV%20AO%20VIVO/PROGRAMACAODEESPORTES.XML</externallink>
 </channel>
