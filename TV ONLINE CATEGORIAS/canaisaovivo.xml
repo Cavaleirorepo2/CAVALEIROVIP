@@ -1,201 +1,49 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="BALANÇO GERAL BLUMENAU" tvg-logo="http://vraws.com:8080/images/2e3d7236ef768b886b5ac5d1104dd60a.png" group-title="CANAIS ABERTOS",BALANÇO GERAL BLUMENAU
-http://opaioo.com:8080/bebelly/11976080402/1025835
-#EXTINF:-1 tvg-id="" tvg-name="BALANÇO GERAL CRICIÚMA" tvg-logo="http://vraws.com:8080/images/2e3d7236ef768b886b5ac5d1104dd60a.png" group-title="CANAIS ABERTOS",BALANÇO GERAL CRICIÚMA
-http://opaioo.com:8080/bebelly/11976080402/1025836
-#EXTINF:-1 tvg-id="" tvg-name="BALANÇO GERAL JOINVILLE" tvg-logo="http://vraws.com:8080/images/2e3d7236ef768b886b5ac5d1104dd60a.png" group-title="CANAIS ABERTOS",BALANÇO GERAL JOINVILLE
-http://opaioo.com:8080/bebelly/11976080402/1025837
-#EXTINF:-1 tvg-id="" tvg-name="BAND SD" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND SD
-http://opaioo.com:8080/bebelly/11976080402/1025838
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP HD" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND SP HD
-http://opaioo.com:8080/bebelly/11976080402/1025839
-#EXTINF:-1 tvg-id="" tvg-name="BAND SP FHD" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND SP FHD
-http://opaioo.com:8080/bebelly/11976080402/1025840
-#EXTINF:-1 tvg-id="Band Maceió" tvg-name="BAND ALAGOAS" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND ALAGOAS
-http://opaioo.com:8080/bebelly/11976080402/1025841
-#EXTINF:-1 tvg-id="Band Bahia" tvg-name="BAND BAHIA" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND BAHIA
-http://opaioo.com:8080/bebelly/11976080402/1025842
-#EXTINF:-1 tvg-id="" tvg-name="BAND BELÉM" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND BELÉM
-http://opaioo.com:8080/bebelly/11976080402/1025843
-#EXTINF:-1 tvg-id="" tvg-name="BAND CAMPINAS" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND CAMPINAS
-http://opaioo.com:8080/bebelly/11976080402/1025844
-#EXTINF:-1 tvg-id="" tvg-name="BAND CEARÁ" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND CEARÁ
-http://opaioo.com:8080/bebelly/11976080402/1025845
-#EXTINF:-1 tvg-id="" tvg-name="BAND GOIÂNIA" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND GOIÂNIA
-http://opaioo.com:8080/bebelly/11976080402/1025846
-#EXTINF:-1 tvg-id="" tvg-name="BAND MINAS" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND MINAS
-http://opaioo.com:8080/bebelly/11976080402/1025847
-#EXTINF:-1 tvg-id="" tvg-name="BAND PARANÁ" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND PARANÁ
-http://opaioo.com:8080/bebelly/11976080402/1025848
-#EXTINF:-1 tvg-id="" tvg-name="BAND PAULISTA" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND PAULISTA
-http://opaioo.com:8080/bebelly/11976080402/1025849
-#EXTINF:-1 tvg-id="" tvg-name="BAND RECIFE" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND RECIFE
-http://opaioo.com:8080/bebelly/11976080402/1025850
-#EXTINF:-1 tvg-id="Band Rio" tvg-name="BAND RJ HD" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND RJ HD
-http://opaioo.com:8080/bebelly/11976080402/1025851
-#EXTINF:-1 tvg-id="Band Rio" tvg-name="BAND RJ FHD" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND RJ FHD
-http://opaioo.com:8080/bebelly/11976080402/1025852
-#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND RN
-http://opaioo.com:8080/bebelly/11976080402/1025853
-#EXTINF:-1 tvg-id="" tvg-name="BAND RS HD" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND RS HD
-http://opaioo.com:8080/bebelly/11976080402/1025854
-#EXTINF:-1 tvg-id="" tvg-name="BAND RS FHD" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND RS FHD
-http://opaioo.com:8080/bebelly/11976080402/1025855
-#EXTINF:-1 tvg-id="" tvg-name="BAND SC TVBV" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND SC TVBV
-http://opaioo.com:8080/bebelly/11976080402/1025856
-#EXTINF:-1 tvg-id="" tvg-name="BAND SJC" tvg-logo="http://vraws.com:8080/images/574ff4699083ce51de0dabcfad5edc4c.png" group-title="CANAIS ABERTOS",BAND SJC
-http://opaioo.com:8080/bebelly/11976080402/1025857
-#EXTINF:-1 tvg-id="" tvg-name="RECORD ATALAIA SERGIPE" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD ATALAIA SERGIPE
-http://opaioo.com:8080/bebelly/11976080402/1025858
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD BAHIA
-http://opaioo.com:8080/bebelly/11976080402/1025859
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAURU" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD BAURU
-http://opaioo.com:8080/bebelly/11976080402/1025860
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BELÉM" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD BELÉM
-http://opaioo.com:8080/bebelly/11976080402/1025861
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASÍLIA" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD BRASÍLIA
-http://opaioo.com:8080/bebelly/11976080402/1025862
-#EXTINF:-1 tvg-id="" tvg-name="RECORD CABRÁLIA" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD CABRÁLIA
-http://opaioo.com:8080/bebelly/11976080402/1025863
-#EXTINF:-1 tvg-id="" tvg-name="RECORD CAMPINAS" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD CAMPINAS
-http://opaioo.com:8080/bebelly/11976080402/1025864
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIÁS" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD GOIÁS
-http://opaioo.com:8080/bebelly/11976080402/1025865
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOYTACAZES" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD GOYTACAZES
-http://opaioo.com:8080/bebelly/11976080402/1025866
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GUARARAPES RECIFE" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD GUARARAPES RECIFE
-http://opaioo.com:8080/bebelly/11976080402/1025867
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD MANAUS
-http://opaioo.com:8080/bebelly/11976080402/1025868
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD MINAS
-http://opaioo.com:8080/bebelly/11976080402/1025869
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NACIONAL" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD NACIONAL
-http://opaioo.com:8080/bebelly/11976080402/1025870
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PAJUÇARA AL" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD PAJUÇARA AL
-http://opaioo.com:8080/bebelly/11976080402/1025873
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PIAUÍ" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD PIAUÍ
-http://opaioo.com:8080/bebelly/11976080402/1025874
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIBEIRÃO PRETO" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD RIBEIRÃO PRETO
-http://opaioo.com:8080/bebelly/11976080402/1025875
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIC PARANÁ" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD RIC PARANÁ
-http://opaioo.com:8080/bebelly/11976080402/1025876
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD RIO
-http://opaioo.com:8080/bebelly/11976080402/1025877
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO PRETO" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD RIO PRETO
-http://opaioo.com:8080/bebelly/11976080402/1025878
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RN" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD RN
-http://opaioo.com:8080/bebelly/11976080402/1025879
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HD" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD RS HD
-http://opaioo.com:8080/bebelly/11976080402/1025880
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS FHD" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD RS FHD
-http://opaioo.com:8080/bebelly/11976080402/1025881
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SANTOS E VALE" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD SANTOS E VALE
-http://opaioo.com:8080/bebelly/11976080402/1025882
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SC" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD SC
-http://opaioo.com:8080/bebelly/11976080402/1025883
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP HD" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD SP HD
-http://opaioo.com:8080/bebelly/11976080402/1025884
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP FHD" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD SP FHD
-http://opaioo.com:8080/bebelly/11976080402/1025885
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP UHD" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD SP UHD
-http://opaioo.com:8080/bebelly/11976080402/1025886
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV CIDADE HD" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD TV CIDADE HD
-http://opaioo.com:8080/bebelly/11976080402/1025887
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV CIDADE FHD" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD TV CIDADE FHD
-http://opaioo.com:8080/bebelly/11976080402/1025888
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV CONQUISTA" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD TV CONQUISTA
-http://opaioo.com:8080/bebelly/11976080402/1025889
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV CORREIO" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD TV CORREIO
-http://opaioo.com:8080/bebelly/11976080402/1025890
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV JUARA" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD TV JUARA
-http://opaioo.com:8080/bebelly/11976080402/1025891
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV JUINA" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD TV JUINA
-http://opaioo.com:8080/bebelly/11976080402/1025892
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV TROPICAL RN" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD TV TROPICAL RN
-http://opaioo.com:8080/bebelly/11976080402/1025893
-#EXTINF:-1 tvg-id="" tvg-name="RECORD TV VILA REAL" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD TV VILA REAL
-http://opaioo.com:8080/bebelly/11976080402/1025894
-#EXTINF:-1 tvg-id="" tvg-name="RECORD VITÓRIA ES" tvg-logo="http://vraws.com:8080/images/a28b54769104da426edfb3fd196b15d7.png" group-title="CANAIS ABERTOS",RECORD VITÓRIA ES
-http://opaioo.com:8080/bebelly/11976080402/1025895
-#EXTINF:-1 tvg-id="" tvg-name="REDETV! HD" tvg-logo="http://vraws.com:8080/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="CANAIS ABERTOS",REDETV! HD
-http://opaioo.com:8080/bebelly/11976080402/1025896
-#EXTINF:-1 tvg-id="" tvg-name="REDETV! FHD" tvg-logo="http://vraws.com:8080/images/25ef91f1474a124b5a3cf166d09b731a.png" group-title="CANAIS ABERTOS",REDETV! FHD
-http://opaioo.com:8080/bebelly/11976080402/1025897
-#EXTINF:-1 tvg-id="" tvg-name="SBT AL PONTA VERDE" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT AL PONTA VERDE
-http://opaioo.com:8080/bebelly/11976080402/1025898
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT BAHIA" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT BAHIA
-http://opaioo.com:8080/bebelly/11976080402/1025899
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT DF" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT DF
-http://opaioo.com:8080/bebelly/11976080402/1025900
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT DIFUSORA MA" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT DIFUSORA MA
-http://opaioo.com:8080/bebelly/11976080402/1025901
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FOZ DO IGUAÇU" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT FOZ DO IGUAÇU
-http://opaioo.com:8080/bebelly/11976080402/1025902
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT GOIÂNIA" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT GOIÂNIA
-http://opaioo.com:8080/bebelly/11976080402/1025903
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT JANGADEIRO CEARÁ" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT JANGADEIRO CEARÁ
-http://opaioo.com:8080/bebelly/11976080402/1025904
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT LONDRINA" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT LONDRINA
-http://opaioo.com:8080/bebelly/11976080402/1025905
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT MARINGÁ" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT MARINGÁ
-http://opaioo.com:8080/bebelly/11976080402/1025906
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT MINAS" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT MINAS
-http://opaioo.com:8080/bebelly/11976080402/1025907
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT NACIONAL" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT NACIONAL
-http://opaioo.com:8080/bebelly/11976080402/1025908
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PARANÁ" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT PARANÁ
-http://opaioo.com:8080/bebelly/11976080402/1025909
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT PIAUÍ" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT PIAUÍ
-http://opaioo.com:8080/bebelly/11976080402/1025910
-#EXTINF:-1 tvg-id="SBT" tvg-name="SZ" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SZ
-http://opaioo.com:8080/bebelly/11976080402/1025911
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ HD" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT RJ HD
-http://opaioo.com:8080/bebelly/11976080402/1025912
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RJ FHD" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT RJ FHD
-http://opaioo.com:8080/bebelly/11976080402/1025913
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RN" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT RN
-http://opaioo.com:8080/bebelly/11976080402/1025914
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RS HD" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT RS HD
-http://opaioo.com:8080/bebelly/11976080402/1025915
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT RS FHD" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT RS FHD
-http://opaioo.com:8080/bebelly/11976080402/1025916
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SC" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT SC
-http://opaioo.com:8080/bebelly/11976080402/1025917
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP HD" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT SP HD
-http://opaioo.com:8080/bebelly/11976080402/1025918
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT SP FHD" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT SP FHD
-http://opaioo.com:8080/bebelly/11976080402/1025919
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT TV JORNAL PE" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT TV JORNAL PE
-http://opaioo.com:8080/bebelly/11976080402/1025920
-#EXTINF:-1 tvg-id="" tvg-name="SBT TV TAMBAÚ" tvg-logo="http://vraws.com:8080/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS ABERTOS",SBT TV TAMBAÚ
-http://opaioo.com:8080/bebelly/11976080402/1025921
-#EXTINF:-1 tvg-id="Novelas" tvg-name="SBT+ NOVELAS" tvg-logo="http://vraws.com:8080/images/c3618320d47f0f781b410bfe4d328313.png" group-title="CANAIS ABERTOS",SBT+ NOVELAS
-http://opaioo.com:8080/bebelly/11976080402/1025926
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT+ SAUDADE" tvg-logo="http://vraws.com:8080/images/c3618320d47f0f781b410bfe4d328313.png" group-title="CANAIS ABERTOS",SBT+ SAUDADE
-http://opaioo.com:8080/bebelly/11976080402/1025928
-#EXTINF:-1 tvg-id="Silvio Santos" tvg-name="SBT+ SILVIO SANTOS" tvg-logo="http://vraws.com:8080/images/c3618320d47f0f781b410bfe4d328313.png" group-title="CANAIS ABERTOS",SBT+ SILVIO SANTOS
-http://opaioo.com:8080/bebelly/11976080402/1025930
-#EXTINF:-1 tvg-id="TV Zyn" tvg-name="SBT+ TVZYN" tvg-logo="http://vraws.com:8080/images/c3618320d47f0f781b410bfe4d328313.png" group-title="CANAIS ABERTOS",SBT+ TVZYN
-http://opaioo.com:8080/bebelly/11976080402/1025931
-#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUÃ" tvg-logo="http://vraws.com:8080/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="CANAIS ABERTOS",TV ARAPUÃ
-http://opaioo.com:8080/bebelly/11976080402/1025932
-#EXTINF:-1 tvg-id="TV BRASIL" tvg-name="TV BRASIL" tvg-logo="http://vraws.com:8080/images/cb13140ca1ec3b229e6f7906050c107a.png" group-title="CANAIS ABERTOS",TV BRASIL
-http://opaioo.com:8080/bebelly/11976080402/1025933
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE 16 PETRÓPOLIS" tvg-logo="http://vraws.com:8080/images/576cea9d5701e5a42453e62a7c0c82b2.png" group-title="CANAIS ABERTOS",TV CIDADE 16 PETRÓPOLIS
-http://opaioo.com:8080/bebelly/11976080402/1025934
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA" tvg-logo="http://vraws.com:8080/images/62ed1046a3bd1db3ad598995f37504f6.png" group-title="CANAIS ABERTOS",TV CULTURA
-http://opaioo.com:8080/bebelly/11976080402/1025935
-#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA 2" tvg-logo="http://vraws.com:8080/images/e8fa46c51157c48fd5e29de31e803d2f.png" group-title="CANAIS ABERTOS",TV CÂMARA 2
-http://opaioo.com:8080/bebelly/11976080402/1025936
-#EXTINF:-1 tvg-id="" tvg-name="TV CÂMARA" tvg-logo="http://vraws.com:8080/images/e8fa46c51157c48fd5e29de31e803d2f.png" group-title="CANAIS ABERTOS",TV CÂMARA
-http://opaioo.com:8080/bebelly/11976080402/1025937
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA" tvg-logo="http://vraws.com:8080/images/b004c71c4d0212c6e2abd96145cb6176.png" group-title="CANAIS ABERTOS",TV GAZETA
-http://opaioo.com:8080/bebelly/11976080402/1025938
-#EXTINF:-1 tvg-id="" tvg-name="TV JUSTIÇA" tvg-logo="http://vraws.com:8080/images/9c752725baf33985872faf1a8b325812.png" group-title="CANAIS ABERTOS",TV JUSTIÇA
-http://opaioo.com:8080/bebelly/11976080402/1025939
-#EXTINF:-1 tvg-id="" tvg-name="TV SENADO" tvg-logo="http://vraws.com:8080/images/58bc5201444a7a7dc2f084c94ac631c4.png" group-title="CANAIS ABERTOS",TV SENADO
-http://opaioo.com:8080/bebelly/11976080402/1025941
-#EXTINF:-1 tvg-id="" tvg-name="TV ZOOM NOVA FRIBURGO" tvg-logo="https://i0.wp.com/tvzoom.com.br/wp-content/uploads/2019/03/cropped-logo1.png" group-title="CANAIS ABERTOS",TV ZOOM NOVA FRIBURGO
-http://opaioo.com:8080/bebelly/11976080402/1025942
-#EXTINF:-1 tvg-id="" tvg-name="TVE BAHIA" tvg-logo="http://vraws.com:8080/images/ae32a517431fa760f520713e2ddcba5b.png" group-title="CANAIS ABERTOS",TVE BAHIA
-http://opaioo.com:8080/bebelly/11976080402/1025943
+#EXTM3U
+#EXTINF:-1 tvg-id="ADSM" tvg-name="AGRO+ FHD" tvg-logo="" group-title="✨ABERTOS",AGRO+ FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/6.ts
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/469.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4774475.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4774476.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANAL DO BOI FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="✨ABERTOS",CANAL DO BOI FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369617.ts
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/470.ts
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/471.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369649.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171844.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/472.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/473.ts
+#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/474.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369702.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/476.ts
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171878.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/477.ts
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/479.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369627.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/480.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/481.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369727.ts
+#EXTINF:-1 tvg-id="ZYA221" tvg-name="TV GAZETA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/483.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171896.ts
