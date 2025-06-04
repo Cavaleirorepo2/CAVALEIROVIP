@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ADORO FLASHBACK" tvg-logo="http://xp2.wtf:80/images/53f496b1cbdf2d0f149ed3868d2e9901.jpg" group-title="RÁDIOS",RADIO ADORO FLASHBACK
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137250.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO ALPHA" tvg-logo="http://xp2.wtf:80/images/a1eae15a8d34c36808d2094bfbda3826.png" group-title="RÁDIOS",RADIO ALPHA
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137264.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO GOSPEL" tvg-logo="http://xp2.wtf:80/images/01d41692cb49b237818cce7c33e0901f.png" group-title="RÁDIOS",RADIO GOSPEL
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137251.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM 80s" tvg-logo="http://xp2.wtf:80/images/58849b83749823e94f79f4bc6c88a06f.jpg" group-title="RÁDIOS",RADIO HUNTER.FM 80s
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137252.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM GOSPEL" tvg-logo="http://xp2.wtf:80/images/b43d168a3cbc04fd4ce0a8901816ca85.jpg" group-title="RÁDIOS",RADIO HUNTER.FM GOSPEL
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137253.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM HITS BRASIL" tvg-logo="http://xp2.wtf:80/images/79b2ddb51edafdd13e28773ad5f4e791.jpg" group-title="RÁDIOS",RADIO HUNTER.FM HITS BRASIL
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137254.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM LOFI" tvg-logo="http://xp2.wtf:80/images/3ea9f973f21b1255c566e8ae2863b5c0.jpg" group-title="RÁDIOS",RADIO HUNTER.FM LOFI
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137255.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM MODA SERTANEJA" tvg-logo="http://xp2.wtf:80/images/11c0661c805aa44d4bab16610808431b.jpg" group-title="RÁDIOS",RADIO HUNTER.FM MODA SERTANEJA
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137256.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM PAGODE" tvg-logo="http://xp2.wtf:80/images/26731fb07ef91825aff8516854d84a08.jpg" group-title="RÁDIOS",RADIO HUNTER.FM PAGODE
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137257.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM PISADINHA" tvg-logo="http://xp2.wtf:80/images/0a7d9f53c4c004160b81a6f849b54ebb.jpg" group-title="RÁDIOS",RADIO HUNTER.FM PISADINHA
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137258.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM POP" tvg-logo="http://xp2.wtf:80/images/84b15ee18dc535c0fcd95cd8d9c26103.jpg" group-title="RÁDIOS",RADIO HUNTER.FM POP
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137259.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM POP2K" tvg-logo="http://xp2.wtf:80/images/717f6a791ad186a0e723e44e89174977.jpg" group-title="RÁDIOS",RADIO HUNTER.FM POP2K
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137260.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM ROCK" tvg-logo="http://xp2.wtf:80/images/76870daf6430d338ba9872e5ab0f2704.jpg" group-title="RÁDIOS",RADIO HUNTER.FM ROCK
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137261.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM TROPICAL" tvg-logo="http://xp2.wtf:80/images/5aed3dccb94bf0f7beb098ff26f88b70.jpg" group-title="RÁDIOS",RADIO HUNTER.FM TROPICAL
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137262.ts
-#EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAN SP" tvg-logo="http://xp2.wtf:80/images/5327e8259e2b15c47ceeb2c3308877d4.png" group-title="RÁDIOS",RADIO JOVEM PAN SP
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137263.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ADORO FLASHBACK" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/53f496b1cbdf2d0f149ed3868d2e9901.jpg" group-title="RÁDIOS",RADIO ADORO FLASHBACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137250.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO ALPHA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/a1eae15a8d34c36808d2094bfbda3826.png" group-title="RÁDIOS",RADIO ALPHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137264.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO GOSPEL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/01d41692cb49b237818cce7c33e0901f.png" group-title="RÁDIOS",RADIO GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137251.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM 80s" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/58849b83749823e94f79f4bc6c88a06f.jpg" group-title="RÁDIOS",RADIO HUNTER.FM 80s
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137252.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM GOSPEL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/b43d168a3cbc04fd4ce0a8901816ca85.jpg" group-title="RÁDIOS",RADIO HUNTER.FM GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137253.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM HITS BRASIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/79b2ddb51edafdd13e28773ad5f4e791.jpg" group-title="RÁDIOS",RADIO HUNTER.FM HITS BRASIL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137254.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM LOFI" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/3ea9f973f21b1255c566e8ae2863b5c0.jpg" group-title="RÁDIOS",RADIO HUNTER.FM LOFI
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137255.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM MODA SERTANEJA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/11c0661c805aa44d4bab16610808431b.jpg" group-title="RÁDIOS",RADIO HUNTER.FM MODA SERTANEJA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137256.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM PAGODE" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/26731fb07ef91825aff8516854d84a08.jpg" group-title="RÁDIOS",RADIO HUNTER.FM PAGODE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137257.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM PISADINHA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/0a7d9f53c4c004160b81a6f849b54ebb.jpg" group-title="RÁDIOS",RADIO HUNTER.FM PISADINHA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137258.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM POP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/84b15ee18dc535c0fcd95cd8d9c26103.jpg" group-title="RÁDIOS",RADIO HUNTER.FM POP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137259.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM POP2K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/717f6a791ad186a0e723e44e89174977.jpg" group-title="RÁDIOS",RADIO HUNTER.FM POP2K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137260.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM ROCK" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/76870daf6430d338ba9872e5ab0f2704.jpg" group-title="RÁDIOS",RADIO HUNTER.FM ROCK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137261.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO HUNTER.FM TROPICAL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/5aed3dccb94bf0f7beb098ff26f88b70.jpg" group-title="RÁDIOS",RADIO HUNTER.FM TROPICAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137262.ts
+#EXTINF:-1 tvg-id="" tvg-name="RADIO JOVEM PAN SP" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://xp2.wtf:80/images/5327e8259e2b15c47ceeb2c3308877d4.png" group-title="RÁDIOS",RADIO JOVEM PAN SP
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4137263.ts
 #EXTINF:-1 tvg-id="" tvg-name="RÁDIO TV REPÚBLICA" tvg-logo="" group-title="RÁDIOS",RÁDIO TV REPÚBLICA
-http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4119679.ts
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]RadiosOnlineDiversos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4119679.ts
