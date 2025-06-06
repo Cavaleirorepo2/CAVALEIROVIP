@@ -82,11 +82,26 @@
 </channel>
 
 <channel>
-<name>Lista teste</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<name>Lista teste CavaleiroVip 1</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista1.m3u</externallink>
 </channel>
+
+<channel>
+<name>Lista CavaleiroVip teste 2</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista2.m3u</externallink>
+</channel>
+
+<channel>
+<name>Lista CavaleiroVip teste 3</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista3.m3u</externallink>
+</channel>
+
   
   
 </channels>
