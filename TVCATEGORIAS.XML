@@ -2,16 +2,19 @@
 <channels>
 
 
-
-
 <channel>
-<name>[B][COLOR yellow]SÉRIES[/COLOR] [COLOR white]| CANAISAOVIVO[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
+<name>[B][COLOR pink]CANAIS [/COLOR] [COLOR white]| AO VIVO[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/CANAISAOVIVO.XML</externallink>
 </channel>
 
-
+<channel>
+<name>[B][COLOR orange]CANAIS [/COLOR] [COLOR white]| AO VIVO PAINEL[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/listapainelcavaleirorepo2.xml</externallink>
+</channel>
 
 
 </channels>
