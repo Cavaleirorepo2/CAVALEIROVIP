@@ -82,26 +82,12 @@
 </channel>
 
 <channel>
-<name>Lista teste 1</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista1.m3u</externallink>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] TV AO VIVO PAINEL CAVALEIROVIP[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
+<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<info>Canais de Portugal Aproveite</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/listapainelcavaleirorepo2.xml</externallink>
 </channel>
-
-<channel>
-<name>Lista teste 2</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista2.m3u</externallink>
-</channel>
-
-<channel>
-<name>Lista teste 3</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista3.m3u</externallink>
-</channel>
-
   
   
 </channels>
