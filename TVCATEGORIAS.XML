@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+
+
+
 <channel>
 <name>[B][COLOR yellow]SÉRIES[/COLOR] [COLOR white]| CANAISAOVIVO[/COLOR][/B]</name>
 <thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
 <fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/CANAISAOVIVO.XML</externallink>
-</channel>
-
-<channel>
-<name>Lista teste</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/S%C3%89RIES.png</thumbnail>
-<fanart>https://github.com/BluePlay8486/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.jpg</fanart>
-<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista1.m3u</externallink>
 </channel>
 
 
