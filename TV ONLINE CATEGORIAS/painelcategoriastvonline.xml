@@ -26,6 +26,14 @@
 </channel>
 
 <channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS Direto[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
+<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<info>Canais Ao Vivo em HD, Full HD, SD.</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/tvcanaisbaisembed.xml</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
 <fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
