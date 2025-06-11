@@ -2,6 +2,30 @@
 <channels>
 
 <channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] Lista 1[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
+<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<info>Canais Ao Vivo em HD, Full HD, SD.</info>
+<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista1.m3u</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] Lista 2[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
+<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<info>Canais Ao Vivo em HD, Full HD, SD.</info>
+<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista2.m3u</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] Lista 3[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
+<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<info>Canais Ao Vivo em HD, Full HD, SD.</info>
+<externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista3.m3u</externallink>
+</channel>
+
+<channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS AO VIVO[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
 <fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
