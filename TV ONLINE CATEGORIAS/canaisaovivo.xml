@@ -1,49 +1,49 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ADSM" tvg-name="AGRO+ FHD" tvg-logo="" group-title="✨ABERTOS",AGRO+ FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/6.ts
-#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/469.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4774475.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4774476.ts
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANAL DO BOI FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="✨ABERTOS",CANAL DO BOI FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369617.ts
-#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/470.ts
-#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/471.ts
-#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369649.ts
-#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171844.ts
-#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/472.ts
-#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/473.ts
-#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/474.ts
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369702.ts
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/476.ts
-#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171878.ts
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/477.ts
-#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/479.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369627.ts
-#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/480.ts
-#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/481.ts
-#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA SD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/482.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA 4K" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369727.ts
-#EXTINF:-1 tvg-id="ZYA221" tvg-name="TV GAZETA FHD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/483.ts
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR pink]CavaleiroVip[/COLOR] [COLOR orange]TVCanaisAbertos[/COLOR]&maxbitrate=0&buffer=2116&url=http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171896.ts
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/6.ts
+#EXTINF:-1 tvg-id="Canal Brasil SD" tvg-name="CANAL BRASIL FHD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL FHD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/469.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL HD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL HD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4774475.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL BRASIL SD" tvg-logo="https://acstatic.co/logos/canais/canalbrasil.png" group-title="✨ABERTOS",CANAL BRASIL SD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/4774476.ts
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CANAL DO BOI FHD" tvg-logo="http://static.clubsrv.me/logos/canais/canaldoboi.png" group-title="✨ABERTOS",CANAL DO BOI FHD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369617.ts
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural HD" tvg-logo="http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural HD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/470.ts
+#EXTINF:-1 tvg-id="RURALA" tvg-name="Canal Rural SD" tvg-logo="http://acsa.ws:80/images/fd9212142eedf1910dcba86a14dfdd81.png" group-title="✨ABERTOS",Canal Rural SD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/471.ts
+#EXTINF:-1 tvg-id="futura.br" tvg-name="FUTURA 4K" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA 4K
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369649.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA FHD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA FHD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171844.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA HD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/472.ts
+#EXTINF:-1 tvg-id="FUTRA" tvg-name="FUTURA SD" tvg-logo="https://i.imgur.com/NBu5IuI.png" group-title="✨ABERTOS",FUTURA SD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/473.ts
+#EXTINF:-1 tvg-id="REDEBR" tvg-name="REDE BRASIL" tvg-logo="https://i.imgur.com/tVMEQmb.png" group-title="✨ABERTOS",REDE BRASIL
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/474.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV 4K" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV 4K
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369702.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV FHD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/476.ts
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV HD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV HD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171878.ts
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV SD" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png" group-title="✨ABERTOS",REDE TV SD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/477.ts
+#EXTINF:-1 tvg-id="Tvcamara.br" tvg-name="TV CAMARA" tvg-logo="https://logodownload.org/wp-content/uploads/2019/01/tv-camara-logo.png" group-title="✨ABERTOS",TV CAMARA
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/479.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CULTURA 4K" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA 4K
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369627.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA FHD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA FHD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/480.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA HD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/481.ts
+#EXTINF:-1 tvg-id="ZYB851" tvg-name="TV CULTURA SD" tvg-logo="https://i.imgur.com/HGmh8Tu.png" group-title="✨ABERTOS",TV CULTURA SD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA 4K" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA 4K
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/369727.ts
+#EXTINF:-1 tvg-id="ZYA221" tvg-name="TV GAZETA FHD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA FHD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/483.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA HD" tvg-logo="https://i.imgur.com/2th79Ey.png" group-title="✨ABERTOS",TV GAZETA HD
+http://tvhdbalck.pro:80/felipemoura99/99mourafelioe/171896.ts
