@@ -120,6 +120,15 @@
 <info>Canais de Portugal Aproveite</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/listapainelcavaleirorepo2.xml</externallink>
 </channel>
+
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] ADULTOS+18[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Canais Adultos +18</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/adultosdireto.xml</externallink>
+</channel>
+
   
   
 </channels>
