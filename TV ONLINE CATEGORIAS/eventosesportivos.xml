@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="JOGOS DO DIA" tvg-logo="https://i.ibb.co/d0cppHFr/IMG-20250614-WA0645.jpg" group-title="⚽JOGOS DO DIA",JOGOS DO DIA
 http://cdn.v766.site:80/ricardoflecha13/13flecharicardo/367225.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Jogos" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfU9neOrO8J4VsJ9em9OKrvEj2l9AnK8NGwoKCnZ3sk1NeGWsfc5NzeFBlzJndJfANhQ&usqp=CAU" group-title="⏰ Horário Jogos Do Dia",Jogos
+http://main.imperialcity.shop:80/geraldomendes33/33mendesgeraldo/6106058.ts
+
