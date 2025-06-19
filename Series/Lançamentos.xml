@@ -4,56 +4,6 @@
 
 
 
-
-
-  <channel>
-    <name>Maria e o Cangaço</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/9g4iGqPniDP3ueKCDwVfRUAu14T.jpg</fanart>
-    <info>Maria de Déa, companheira de Lampião e a primeira mulher cangaceira, é uma jovem destemida que ousa ter voz num grupo de foras-da-lei. Numa vida de fugas e conflitos armados, Maria é surpreendida por uma gravidez e submetida à mais dura lei do cangaço: entregar o bebê para ser criado por outra pessoa. Passa a viver dividida entre a vida no grupo e o desejo impossível de criar a filha.</info>
-    <genre>Drama, Faroeste</genre>
-    <items>
-      <item>
-        <title>Maria e o Cangaço - 1ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/9g4iGqPniDP3ueKCDwVfRUAu14T.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b17cb4fc589b422a7076871235e62880c4b0b5fe&dn=HIDRATORRENTS.ORG..MKV.Maria%20e%20o%20Canga%C3%A7o%20S01%202025%20WEB-DL%201080p%20x264%20NACIONAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Noite sem lua[/COLOR]</link>
-      </item>
-    </items>
-</channel>
-  
-<channel>
-    <name>Sem Piedade</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/fFhFbLwsiox0pyRwDgerwoEa4OK.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/y7OFTnu8Gh2KHWX0Y05y8OY9kCB.jpg</fanart>
-    <info>Depois de sair de sua gangue, um ex-criminoso volta para descobrir a verdade por trás da morte do irmão, embarcando em uma jornada de vingança incansável.</info>
-    <genre>Desconhecido, Drama</genre>
-    <items>
-      <item>
-        <title>Sem Piedade - 1ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/fFhFbLwsiox0pyRwDgerwoEa4OK.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/y7OFTnu8Gh2KHWX0Y05y8OY9kCB.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac42bb70f88859b251cb74c9ad308d221c449dde$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Episódio 1[/COLOR]</link>
-      </item>
-    </items>
-</channel>
-
-  <channel>
-    <name>FUBAR</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/cgA0ffyHviUaRw0Fj9OgRv2xzUj.jpg</fanart>
-    <info>Pai e filha descobrem que ambos trabalham secretamente para a CIA e acabam misturando assuntos de família com suas missões arriscadas.</info>
-    <genre>Desconhecido, Drama, Comédia</genre>
-    <items>
-      <item>
-        <title>FUBAR - 2ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/cgA0ffyHviUaRw0Fj9OgRv2xzUj.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53cf412bff1a143a5bd63879c4cd9565d10b112d$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]A grande família[/COLOR]</link>
-      </item>
-    </items>
-</channel>
-
   <channel>
     <name>DNA DO CRIME</name>
     <thumbnail>https://image.tmdb.org/t/p/w500/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
