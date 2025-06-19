@@ -1,95 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
   
-
- <channel>
-    <name>Maria e o Cangaço</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/9g4iGqPniDP3ueKCDwVfRUAu14T.jpg</fanart>
-    <info>Maria de Déa, companheira de Lampião e a primeira mulher cangaceira, é uma jovem destemida que ousa ter voz num grupo de foras-da-lei. Numa vida de fugas e conflitos armados, Maria é surpreendida por uma gravidez e submetida à mais dura lei do cangaço: entregar o bebê para ser criado por outra pessoa. Passa a viver dividida entre a vida no grupo e o desejo impossível de criar a filha.</info>
-    <genre>Drama, Faroeste</genre>
-    <items>
-      <item>
-        <title>Maria e o Cangaço - 1ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/bfFZwA6GHW4lkDQcKxCwwGBWsEU.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/9g4iGqPniDP3ueKCDwVfRUAu14T.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b17cb4fc589b422a7076871235e62880c4b0b5fe&dn=HIDRATORRENTS.ORG..MKV.Maria%20e%20o%20Canga%C3%A7o%20S01%202025%20WEB-DL%201080p%20x264%20NACIONAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Fglotorrents.pw%3A6969%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Noite sem lua[/COLOR]</link>
-      </item>
-    </items>
-	 
-<channel>
-    <name>Sem Piedade</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/fFhFbLwsiox0pyRwDgerwoEa4OK.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/y7OFTnu8Gh2KHWX0Y05y8OY9kCB.jpg</fanart>
-    <info>Depois de sair de sua gangue, um ex-criminoso volta para descobrir a verdade por trás da morte do irmão, embarcando em uma jornada de vingança incansável.</info>
-    <genre>Desconhecido, Drama</genre>
-    <items>
-      <item>
-        <title>Sem Piedade - 1ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/fFhFbLwsiox0pyRwDgerwoEa4OK.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/y7OFTnu8Gh2KHWX0Y05y8OY9kCB.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac42bb70f88859b251cb74c9ad308d221c449dde$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Episódio 1[/COLOR]</link>
-      </item>
-    </items>
-	
-</channel>
-<channel>
-    <name>FUBAR</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/cgA0ffyHviUaRw0Fj9OgRv2xzUj.jpg</fanart>
-    <info>Pai e filha descobrem que ambos trabalham secretamente para a CIA e acabam misturando assuntos de família com suas missões arriscadas.</info>
-    <genre>Desconhecido, Drama, Comédia</genre>
-    <items>
-      <item>
-        <title>FUBAR - 2ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/cgA0ffyHviUaRw0Fj9OgRv2xzUj.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53cf412bff1a143a5bd63879c4cd9565d10b112d$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]A grande família[/COLOR]</link>
-      </item>
-    </items>
-</channel>
-  </item>
-  
-  <channel>
-    <name>DNA DO CRIME</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/x7J7YydPEnTZm6JoTqbKOYkVb8e.jpg</fanart>
-    <info>Um grupo de agentes federais vai ter que arregaçar as mangas e desenrolar a investigação de um roubo espetacular.</info>
-    <genre>Drama, Crime, Desconhecido</genre>
-    <items>
-      <item>
-        <title>DNA DO CRIME - 2ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/x7J7YydPEnTZm6JoTqbKOYkVb8e.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120&dn=Criminal.Code.S02.1080p.NF.WEB-DL.Multi.DDP5.1.Atmos.H.264-themoviesboss&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Dia de jogo[/COLOR]</link>
-      </item>
-    </items>
-</channel>
-  
-  <channel>
-    <name>O Conto da Aia</name>
-    <thumbnail>https://image.tmdb.org/t/p/w500/eJJvzADsstZAz4tmE5qa3jjPUkF.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/atb20IUkdYcZISq3DJ769nc3h1G.jpg</fanart>
-    <info>Situado em um futuro distópico, uma mulher é forçada a viver como uma concubina sob uma ditadura teocrática fundamentalista. Uma adaptação para a TV do romance de Margaret Atwood.</info>
-    <genre>Drama, Desconhecido</genre>
-    <items>
-      <item>
-        <title>O Conto da Aia - 1ª Temporada</title>
-        <thumbnail>https://image.tmdb.org/t/p/w500/eJJvzADsstZAz4tmE5qa3jjPUkF.jpg</thumbnail>
-        <fanart>https://image.tmdb.org/t/p/original/atb20IUkdYcZISq3DJ769nc3h1G.jpg</fanart>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ed424364c53fcb6bc5870e716051c0923e651dc&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.The.Handmaids.Tale.S06E01-02.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Offred[/COLOR]</link>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af50cc6403badc7d132d55a231608716ca933e8c&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.The.Handmaids.Tale.S06E03.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[COLOR white]EPISÓDIO 2[/COLOR] - [COLOR yellow]Dia do Parto[/COLOR]</link>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf6f782f295497324816d53763aae9d025f4f4ab&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.The.Handmaids.Tale.S06E04.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.ccc.de%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$$lsname=[COLOR white]EPISÓDIO 3[/COLOR] - [COLOR yellow]Atrasada[/COLOR]</link>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a4dee757711dd7ec3367cbbd8ff929345e2500a&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.The.Handmaids.Tale.S06E05.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[COLOR white]EPISÓDIO 4[/COLOR] - [COLOR yellow]Nolite Te Bastardes Carborundorum[/COLOR]</link>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93e1c3c8fac685c43ff9c722813d25fb29b24ce6&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.The.Handmaids.Tale.S06E06.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[COLOR white]EPISÓDIO 5[/COLOR] - [COLOR yellow]Fiel[/COLOR]</link>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7689629ca92eade0cc967fca895f298f867ceace&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.The.Handmaids.Tale.S06E07.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[COLOR white]EPISÓDIO 6[/COLOR] - [COLOR yellow]O Lugar de uma Mulher[/COLOR]</link>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab8e01de3354ebeab5207c02e74ea6f4fcc79d08&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.The.Handmaids.Tale.S06E08.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[COLOR white]EPISÓDIO 7[/COLOR] - [COLOR yellow]O Outro Lado[/COLOR]</link>
-        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab8e01de3354ebeab5207c02e74ea6f4fcc79d08&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.The.Handmaids.Tale.S06E08.1080p.WEB-DL.DUAL.2.0&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[COLOR white]EPISÓDIO 8[/COLOR] - [COLOR yellow]Jezebéis[/COLOR]</link>
-      </item>
-    </items>
-	
-</channel>
-  
   <item>
     <title>Duna - A Profecia - 1ª Temporada </title>
     <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21d0d3bbf3c89f2c8b25ee8c90143ca1ded23612&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.Duna.A.Profecia.S01E01.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce$$lsname=[COLOR white]EPISÓDIO 1[/COLOR]</link>
@@ -146,9 +57,5 @@
     <info>[COLOR yellow]Sinopse:[/COLOR] Morgan, uma mãe solteira com três filhos e uma mente excepcional, ajuda a resolver um crime insolúvel quando reorganiza algumas evidências durante seu turno como faxineira do departamento de polícia. Quando descobrem que ela tem um talento especial para colocar as coisas em ordem por causa de seu alto potencial intelectual, ela é contratada como consultora para trabalhar com um detetive experiente e fiel às regras, Karadec. Juntos, eles formam uma equipe incomum e imparável.</info>
   </item>
   
-
-
-
-
 
 </items>
