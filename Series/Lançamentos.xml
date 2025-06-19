@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<item>
-    <title>Uma Mente Excepcional</title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f71233e6a806eefde72b71821a4f92df35775986$$lsname=[COLOR white]EPISÓDIO 1[/COLOR]</link>
-    <thumbnail>https://image.tmdb.org/t/p/w500/84WCX4iMn9gmzXMaYhXE3nNO5ie.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/ijRiyqrXUzrF77INhtzvSS6V6qG.jpg</fanart>
-    <info>[COLOR yellow]Sinopse:[/COLOR] Morgan, uma mãe solteira com três filhos e uma mente excepcional, ajuda a resolver um crime insolúvel quando reorganiza algumas evidências durante seu turno como faxineira do departamento de polícia. Quando descobrem que ela tem um talento especial para colocar as coisas em ordem por causa de seu alto potencial intelectual, ela é contratada como consultora para trabalhar com um detetive experiente e fiel às regras, Karadec. Juntos, eles formam uma equipe incomum e imparável.</info>
-  </item>
+  <channel>
+    <name>DNA DO CRIME</name>
+    <thumbnail>https://image.tmdb.org/t/p/w500/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/x7J7YydPEnTZm6JoTqbKOYkVb8e.jpg</fanart>
+    <info>Um grupo de agentes federais vai ter que arregaçar as mangas e desenrolar a investigação de um roubo espetacular.</info>
+    <genre>Drama, Crime, Desconhecido</genre>
+    <items>
+      <item>
+        <title>DNA DO CRIME - 2ª Temporada</title>
+        <thumbnail>https://image.tmdb.org/t/p/w500/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/x7J7YydPEnTZm6JoTqbKOYkVb8e.jpg</fanart>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a242451ec09bd05324cc3585ef64fd28d1d55120&dn=Criminal.Code.S02.1080p.NF.WEB-DL.Multi.DDP5.1.Atmos.H.264-themoviesboss&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A83%2Fannounce&tr=udp%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.gbitt.info%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Dia de jogo[/COLOR]</link>
+      </item>
+    </items>
+</channel>
 
   
 
