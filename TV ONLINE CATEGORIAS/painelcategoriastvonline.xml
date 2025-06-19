@@ -3,8 +3,8 @@
 
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] Lista 1[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
-<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleirolistatv01.png</thumbnail>
+<fanart>https://archive.org/download/cavaleioragendaesportiva/cavaleirolistatv01.png</fanart>
 <info>Canais Ao Vivo em HD, Full HD, SD.</info>
 <externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista1.m3u</externallink>
 </channel>
@@ -99,8 +99,8 @@
 
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] AGENDA EVENTOS ESPORTIVOS[/COLOR][/B]</name>
-<thumbnail>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/Portugal.icon.png</thumbnail>
-<fanart>https://github.com/AnimeSoul8585/BlackPlay-Tv/raw/refs/heads/main/ICONS%20ADDON/fanart.Portugal.png</fanart>
+<thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleioragendaesportiva.png</thumbnail>
+<fanart></fanart>
 <info>Canais de Portugal Aproveite</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/eventosesportivos.xml</externallink>
 </channel>
