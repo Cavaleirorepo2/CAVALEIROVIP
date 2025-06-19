@@ -3,15 +3,15 @@
 
 <channel>
 <name>[B][COLOR yellow]SÉRIES[/COLOR] [COLOR white]| LANÇAMENTOS[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleiroserieslacamentos.png</thumbnail>
+<fanart>https://archive.org/download/cavaleioragendaesportiva/cavaleiroserieslacamentos.png</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/Lan%C3%A7amentos.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR blue]SÉRIES[/COLOR] [COLOR white]| AÇÂO[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesacao.png</thumbnail>
+<fanart>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesacao.png</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/a%C3%A7%C3%A3o.xml</externallink>
 </channel>
 
@@ -31,15 +31,15 @@
 
 <channel>
 <name>[B][COLOR orange]SÉRIES[/COLOR] [COLOR white]| COMÉDIA[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriescomedia.png</thumbnail>
+<fanarthttps://archive.org/download/cavaleioragendaesportiva/cavaleiroseriescomedia.png></fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/comedia.xml</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR blue]SÉRIES[/COLOR] [COLOR white]| DOCUMENTÁRIO[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesdocumentario.png</thumbnail>
+<fanart>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesdocumentario.png</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/documentario.xml</externallink>
 </channel>
 
