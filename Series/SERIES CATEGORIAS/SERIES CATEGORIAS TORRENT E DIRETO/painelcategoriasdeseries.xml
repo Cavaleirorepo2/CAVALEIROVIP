@@ -3,15 +3,15 @@
 
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR red]TORRENT[/COLOR][/B]</name>  
-<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/TORRENT.png</thumbnail>    
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>  
+<thumbnail>https://archive.org/download/cavaleiorseriesaventura/cavaleiroseriestorreny.png</thumbnail>    
+<fanart>https://archive.org/download/cavaleiorseriesaventura/cavaleiroseriestorreny.png</fanart>  
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/SERIES%20CATEGORIAS/painelseriestorrent.xml</externallink>
 </channel>
   
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR pink]LINK DIRETO[/COLOR][/B]</name> 
-<thumbnail>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/LINK%20DIRETO.png</thumbnail>    
-<fanart>https://github.com/BluePlay8486/BluePlayHD/raw/refs/heads/main/Artes%20Addon/FANART.png</fanart>     
+<thumbnail>https://archive.org/download/cavaleiorseriesaventura/cavaleiroserieslinkdireto.png</thumbnail>    
+<fanart>https://archive.org/download/cavaleiorseriesaventura/cavaleiroserieslinkdireto.png</fanart>     
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/SERIES%20CATEGORIAS/serieslinkdireto.xml</externallink>
 </channel>
     
