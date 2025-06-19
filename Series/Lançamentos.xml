@@ -21,6 +21,7 @@
       </item>
     </items>
 </channel>
+  
 <channel>
     <name>Sem Piedade</name>
     <thumbnail>https://image.tmdb.org/t/p/w500/fFhFbLwsiox0pyRwDgerwoEa4OK.jpg</thumbnail>
@@ -36,7 +37,8 @@
       </item>
     </items>
 </channel>
-<channel>
+
+  <channel>
     <name>FUBAR</name>
     <thumbnail>https://image.tmdb.org/t/p/w500/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/cgA0ffyHviUaRw0Fj9OgRv2xzUj.jpg</fanart>
@@ -51,7 +53,8 @@
       </item>
     </items>
 </channel>
-<channel>
+
+  <channel>
     <name>DNA DO CRIME</name>
     <thumbnail>https://image.tmdb.org/t/p/w500/cqg7OXDPSWSCsfAs9BuBp0r7kO3.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/x7J7YydPEnTZm6JoTqbKOYkVb8e.jpg</fanart>
