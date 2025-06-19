@@ -61,8 +61,8 @@
 
 <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]RÁDIO[/COLOR][/B]</name>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
+        <thumbnail>https://archive.org/download/cavaleironovelas/cavaleiroradio.png</thumbnail>
+        <fanart>https://archive.org/download/cavaleironovelas/cavaleiroradio.png</fanart>
         <info>Sintonize em uma variedade de estações de rádio, com músicas, notícias, podcasts e muito mais. De hits atuais a clássicos, encontre a estação perfeita para o seu humor e curta sua programação favorita a qualquer hora!
 
 [B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
@@ -110,8 +110,8 @@
 
     <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]</name>
-        <thumbnail></thumbnail>
-        <fanart></fanart>
+        <thumbnail>https://archive.org/download/cavaleironovelas/cavaleironovelas.png</thumbnail>
+        <fanart>https://archive.org/download/cavaleironovelas/cavaleironovelas.png</fanart>
         <info>Reviva as tramas emocionantes das novelas, com histórias de amor, drama e reviravoltas imperdíveis. Explore uma seleção de novelas clássicas e atuais, e acompanhe os capítulos que marcaram gerações.
 
 [B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
