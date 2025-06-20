@@ -11,32 +11,32 @@
 
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] Lista 2[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
-<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<thumbnail>https://archive.org/download/cavaleiroseriesclassicas/cavaleirocanaistvlista02.png</thumbnail>
+<fanarthttps://archive.org/download/cavaleiroseriesclassicas/cavaleirocanaistvlista02.png></fanart>
 <info>Canais Ao Vivo em HD, Full HD, SD.</info>
 <externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista2.m3u</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] Lista 3[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
-<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<thumbnail>https://archive.org/download/cavaleiroseriesclassicas/cavaleirocanasitvlista03.png</thumbnail>
+<fanart>https://archive.org/download/cavaleiroseriesclassicas/cavaleirocanasitvlista03.png</fanart>
 <info>Canais Ao Vivo em HD, Full HD, SD.</info>
 <externallink>https://addoncavaleirorepo2.alwaysdata.net/listas/lista3.m3u</externallink>
 </channel>
 
 <channel>
 <name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS Direto[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
-<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<thumbnail>https://archive.org/download/cavaleiroseriesclassicas/cavaleirocanasilinkdireto.png</thumbnail>
+<fanart>https://archive.org/download/cavaleiroseriesclassicas/cavaleirocanasilinkdireto.png</fanart>
 <info>Canais Ao Vivo em HD, Full HD, SD.</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/tvcanaisbaisembed.xml</externallink>
 </channel>
 
 <channel>
-<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS AO VIVO[/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/tv-online_202504/tv%20online.png</thumbnail>
-<fanart>https://archive.org/download/tv-online_202504/tv%20online.png</fanart>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS AO VIVO DIVERSOS[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/cavaleiroseriesclassicas/cavaleirocanaistvdiversos.png</thumbnail>
+<fanart>https://archive.org/download/cavaleiroseriesclassicas/cavaleirocanaistvdiversos.png</fanart>
 <info>Canais Ao Vivo em HD, Full HD, SD.</info>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/canaisaovivo.xml</externallink>
 </channel>
