@@ -24,8 +24,8 @@
 
 <channel>
 <name>[B][COLOR pink]SÉRIES[/COLOR] [COLOR white]| CLÁSSICAS[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://archive.org/download/cavaleiroseriesclassicas/cavaleiroseriesclassicas.png</thumbnail>
+<fanart>https://archive.org/download/cavaleiroseriesclassicas/cavaleiroseriesclassicas.png</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/classicas.xml</externallink>
 </channel>
 
