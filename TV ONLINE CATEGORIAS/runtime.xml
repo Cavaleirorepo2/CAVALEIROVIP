@@ -1,6 +1,3 @@
-
-
-
 #EXTINF:-1 tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="🎬Filmes e Series", RunTime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="🎬Filmes e Series", RunTime Ação
@@ -10,23 +7,23 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp" group-title="🎬Filmes e Series", RunTime Romance
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-name="RUNTIME MOTORVISION" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Motovision
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200114
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200114
 #EXTINF:-1 tvg-name="RUNTIME MOVIESPHERE" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime  Moviesphere
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200113
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200113
 #EXTINF:-1 tvg-name="RUNTIME ROMANCE" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Romance
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200112
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200112
 #EXTINF:-1 tvg-name="RUNTIME COMEDIA" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Comédia
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200111
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200111
 #EXTINF:-1 tvg-name="RUNTIME CRIME" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Crime
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200110
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200110
 #EXTINF:-1 tvg-name="RUNTIME FILMES" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Filmes
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200109
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200109
 #EXTINF:-1 tvg-name="RUNTIME CINE ESPANTO" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime CineSpanto
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200108
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200108
 #EXTINF:-1 tvg-name="RUNTIME FAMILIA" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Família
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200107
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200107
 #EXTINF:-1 tvg-name="RUNTIME ACAO" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Ação
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR pink]@ CAVALEIROVIP[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200106
+http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200106
 
 
 
