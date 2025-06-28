@@ -1,32 +1,37 @@
+#EXTM3U                           
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://t2.tudocdn.net/674119?w=824&h=494" group-title="🎬Filmes e Series", RunTime
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="🎬Filmes e Series", RunTime Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="🎬Filmes e Series", RunTime Comédia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1ea9adf10302b28a94cb0d0b88537f2f.webp" group-title="🎬Filmes e Series", RunTime Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-name="RUNTIME MOTORVISION" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Motovision
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200114
-#EXTINF:-1 tvg-name="RUNTIME MOVIESPHERE" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime  Moviesphere
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200113
-#EXTINF:-1 tvg-name="RUNTIME ROMANCE" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Romance
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200112
-#EXTINF:-1 tvg-name="RUNTIME COMEDIA" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Comédia
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200111
-#EXTINF:-1 tvg-name="RUNTIME CRIME" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Crime
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200110
-#EXTINF:-1 tvg-name="RUNTIME FILMES" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Filmes
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200109
-#EXTINF:-1 tvg-name="RUNTIME CINE ESPANTO" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime CineSpanto
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200108
-#EXTINF:-1 tvg-name="RUNTIME FAMILIA" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Família
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200107
-#EXTINF:-1 tvg-name="RUNTIME ACAO" tvg-logo="https://i.imgur.com/lSxmErj.png" group-title="RunTime",Runtime Ação
-http://brazilgroup.xyz:8880/8qpGYJm0/uHPlsDxq/200106
+
+
+
+
+
+#EXTINF:-1 tvg-name="Runtime Ação" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Ação
+http://newoneblack.site:80/1427440/123456/231438.ts
+#EXTINF:-1 tvg-name="Runtime Brasil HD²" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Brasil HD²
+http://newoneblack.site:80/1427440/123456/231439.ts
+#EXTINF:-1 tvg-name="Runtime Cine Espanto" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Cine Espanto
+http://newoneblack.site:80/1427440/123456/231440.ts
+#EXTINF:-1 tvg-name="Runtime Comédia" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Comédia
+http://newoneblack.site:80/1427440/123456/231441.ts
+#EXTINF:-1 tvg-name="Runtime Crime" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Crime
+http://newoneblack.site:80/1427440/123456/231442.ts
+#EXTINF:-1 tvg-name="Runtime Família" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Família
+http://newoneblack.site:80/1427440/123456/231443.ts
+#EXTINF:-1 tvg-name="Runtime Movie Sphere" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Movie Sphere
+http://newoneblack.site:80/1427440/123456/231444.ts
+#EXTINF:-1 tvg-name="Runtime Romance" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime Romance
+http://newoneblack.site:80/1427440/123456/231445.ts
+#EXTINF:-1 tvg-name="Runtime TG Brasil" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime TG Brasil
+http://newoneblack.site:80/1427440/123456/231446.ts
+#EXTINF:-1 tvg-name="Runtime TV & Filmes" tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" ,Runtime TV & Filmes
+http://newoneblack.site:80/1427440/123456/231447.ts
+
+
+
+
+
+
 
 
 
