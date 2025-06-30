@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecineaction.png" group-title="⚡CANAIS | TELECINE",TELECINE ACTION FHD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368637
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecineaction.png" group-title="⚡CANAIS | TELECINE",TELECINE ACTION HD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368638
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecineaction.png" group-title="⚡CANAIS | TELECINE",Telecine Action SD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368639
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinecult.png" group-title="⚡CANAIS | TELECINE",TELECINE CULT FHD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368640
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinecult.png" group-title="⚡CANAIS | TELECINE",TELECINE CULT HD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368641
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinecult.png" group-title="⚡CANAIS | TELECINE",Telecine Cult SD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368642
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinefun.png" group-title="⚡CANAIS | TELECINE",TELECINE FUN FHD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368643
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinefun.png" group-title="⚡CANAIS | TELECINE",TELECINE FUN HD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368644
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinefun.png" group-title="⚡CANAIS | TELECINE",Telecine Fun SD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368645
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepipoca.png" group-title="⚡CANAIS | TELECINE",TELECINE PIPOCA FHD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368646
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepipoca.png" group-title="⚡CANAIS | TELECINE",TELECINE PIPOCA HD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368647
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepipoca.png" group-title="⚡CANAIS | TELECINE",Telecine Pipoca SD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368648
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepremium.png" group-title="⚡CANAIS | TELECINE",TELECINE PREMIUM FHD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368649
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepremium.png" group-title="⚡CANAIS | TELECINE",TELECINE PREMIUM HD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368650
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinepremium.png" group-title="⚡CANAIS | TELECINE",Telecine Premium SD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368651
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH FHD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinetouch.png" group-title="⚡CANAIS | TELECINE",TELECINE TOUCH FHD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368652
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE TOUCH HD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinetouch.png" group-title="⚡CANAIS | TELECINE",TELECINE TOUCH HD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368653
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch SD" tvg-logo="plugin://script.hls.tester/?action=play&url=https://acstatic.co/logos/canais/telecinetouch.png" group-title="⚡CANAIS | TELECINE",Telecine Touch SD
+plugin://script.hls.tester/?action=play&url=http://cdn.v766.site:80/amigostreaming13/13stremingamigo/368654
