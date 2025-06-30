@@ -137,6 +137,13 @@
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/adultosdireto.xml</externallink>
 </channel>
 
-  
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR][COLOR white] CANAIS TV Novo Comando Gif[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/aresfilmesanimes/cavaleiro%2B18.png</thumbnail>
+<fanart>https://archive.org/download/aresfilmesanimes/cavaleiro%2B18.png</fanart>
+<info>Canais Adultos Canais +18</info>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/telecinenovocomando.xml</externallink>
+</channel>  
+
   
 </channels>
