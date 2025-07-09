@@ -83,6 +83,17 @@
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/radioonline.xml</externallink>
     </channel>
 
+<channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]RÁDIOAOVIVO/CAMERASAOVIVO[/COLOR][/B]</name>
+        <thumbnail>https://archive.org/download/cavaleironovelas/cavaleiroradio.png</thumbnail>
+        <fanart>https://archive.org/download/cavaleironovelas/cavaleiroradio.png</fanart>
+        <info>Sintonize em uma variedade de estações de rádio, com músicas, notícias, podcasts e muito mais. De hits atuais a clássicos, encontre a estação perfeita para o seu humor e curta sua programação favorita a qualquer hora!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/camerasaovivoeradios.xml</externallink>
+    </channel>
 
     <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
