@@ -1,0 +1,39 @@
+#EXTM3U
+
+# 🎧 RÁDIOS BRASIL
+
+#EXTINF:-1 tvg-id="radiorocksp" tvg-name="Rádio Rock SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f3/89_FM_A_R%C3%A1dio_Rock.png" group-title="Rádios BR", Rádio Rock SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOROCKFM.mp3
+
+#EXTINF:-1 tvg-id="jovempannews" tvg-name="Jovem Pan News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Jovem_Pan_News_logo.png" group-title="Rádios BR", Rádio Jovem Pan News
+https://jpstreaming.akamaized.net/hls/live/2035688/jovempan_news/master.m3u8
+
+#EXTINF:-1 tvg-id="jovempanfmsp" tvg-name="Jovem Pan FM SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Jovem_Pan_logo.png" group-title="Rádios BR", Rádio Jovem Pan FM SP
+https://jpstreaming.akamaized.net/hls/live/2035685/jovempan_sp/master.m3u8
+
+#EXTINF:-1 tvg-id="mixfmsp" tvg-name="Mix FM SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/R%C3%A1dio_Mix_FM_Logo.png" group-title="Rádios BR", Rádio Mix FM SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SP.mp3
+
+#EXTINF:-1 tvg-id="cbnsp" tvg-name="CBN SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/CBN_logo.png" group-title="Rádios BR", Rádio CBN SP
+https://cbnlive1.cdn.segure.tv/live/cbnsp-audio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gaucharadio" tvg-name="Rádio Gaúcha" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_Ga%C3%BAchaZH.png" group-title="Rádios BR", Rádio Gaúcha RS
+https://gauschaaudioshls-lh.akamaihd.net/i/gauschaaudioshls_1@377896/master.m3u8
+
+
+# 🌎 CÂMERAS AO VIVO
+
+#EXTINF:-1 tvg-id="copacabana" tvg-name="Praia de Copacabana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Copacabana_Beach%2C_Rio_de_Janeiro.jpg/320px-Copacabana_Beach%2C_Rio_de_Janeiro.jpg" group-title="Câmeras BR", Praia de Copacabana (RJ)
+https://cams.cdn-surfline.com/cdn-uc/hd/074aa56f0f80d2e7e1d73eae60010a87/playlist.m3u8
+
+#EXTINF:-1 tvg-id="huntingtonpier" tvg-name="Huntington Beach Pier" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Huntington_Beach_Pier_at_dusk.jpg/320px-Huntington_Beach_Pier_at_dusk.jpg" group-title="Câmeras Surf", Huntington Beach Pier (Califórnia)
+https://cams.cdn-surfline.com/cdn-uc/hd/5b69c38d0fdb59bd4cb84ce8b063a492/playlist.m3u8
+
+#EXTINF:-1 tvg-id="waikikibeach" tvg-name="Waikiki Beach" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Waikiki_Beach_Honolulu.jpg/320px-Waikiki_Beach_Honolulu.jpg" group-title="Câmeras Surf", Waikiki Beach (Havaí)
+https://cams.cdn-surfline.com/cdn-uc/hd/35277eb8aad66ec189c3a8b01d0af9f0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="timessquare" tvg-name="Times Square NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Times_Square_%28HDR%29.jpg/320px-Times_Square_%28HDR%29.jpg" group-title="Câmeras Mundo", Times Square NY
+https://video3.earthcam.com/fecnetwork/10089.flv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="abbeyroad" tvg-name="Abbey Road Londres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Abbey_Road_London_Crosswalk.jpg/320px-Abbey_Road_London_Crosswalk.jpg" group-title="Câmeras Mundo", Abbey Road Beatles Crossing (Londres)
+https://video3.earthcam.com/fecnetwork/10070.flv/chunklist.m3u8
