@@ -2,6 +2,30 @@
 <items>
 
 
+
+    
+<channel>
+  <name>Dexter: Ressurreição</name>
+  <thumbnail>https://image.tmdb.org/t/p/w500/wG6GBTreXHoBhxsFY4vVSQtYey5.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg</fanart>
+  <info>[COLOR pink]Título Original:[/COLOR] Dexter: Ressurreição  
+[COLOR pink]Dirigido por:[/COLOR] Desconhecido  
+[COLOR pink]Ano:[/COLOR] 2025  
+[COLOR pink]Duração:[/COLOR] --  
+[COLOR pink]Nota:[/COLOR] 9.0  
+[COLOR pink]Gênero:[/COLOR] Crime, Drama  
+[COLOR pink]Áudio:[/COLOR] Português / Inglês  
+[COLOR pink]Qualidade do Vídeo:[/COLOR] 1080p WEBRip  
+[COLOR pink]Sinopse:[/COLOR] Dexter Morgan acorda do coma e vai para Nova Iorque, determinado a encontrar Harrison e consertar as coisas, mas quando Angel Batista da Miami Metro chega com perguntas, Dexter percebe que seu passado está mais próximo do que nunca.</info>
+  <genre>Crime, Drama</genre>
+  <items>
+    <item>
+      <title>Trailer Oficial</title>
+      <link>plugin://plugin.video.youtube/play/?video_id=ngUBfp7yDeE$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
+    </item>
+  </items>
+</channel>    
+    
 <channel>
     <name>Star Wars: Histórias do Submundo</name>
     <thumbnail>https://image.tmdb.org/t/p/w500/phktSbh2mnaBw8qUgzTO8yK3jih.jpg</thumbnail>
