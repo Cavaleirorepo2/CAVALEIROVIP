@@ -44,6 +44,13 @@
 </channel>
 
 <channel>
+<name>[B][COLOR orange]SÉRIES[/COLOR] [COLOR white]| CRIME[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriescomedia.png</thumbnail>
+<fanart>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriescomedia.png</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/crime.xml</externallink>
+</channel>
+  
+<channel>
 <name>[B][COLOR blue]SÉRIES[/COLOR] [COLOR white]| DOCUMENTÁRIO[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesdocumentario.png</thumbnail>
 <fanart>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesdocumentario.png</fanart>
