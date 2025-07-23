@@ -41,7 +41,23 @@
     </items>
 </channel>
 
-    
+<channel>
+    <name>Dexter: Ressurreição</name>
+    <thumbnail>https://image.tmdb.org/t/p/w500/wG6GBTreXHoBhxsFY4vVSQtYey5.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg</fanart>
+    <info>Dexter Morgan acorda do coma e vai para Nova Iorque, determinado a encontrar Harrison e consertar as coisas, mas quando Angel Batista da Miami Metro chega com perguntas, Dexter percebe que seu passado está mais próximo do que nunca.</info>
+    <genre>Crime, Drama</genre>
+    <items>
+      <item>
+        <title>Dexter: Ressurreição - 1ª Temporada</title>
+        <thumbnail>https://image.tmdb.org/t/p/w500/wG6GBTreXHoBhxsFY4vVSQtYey5.jpg</thumbnail>
+        <fanart>https://image.tmdb.org/t/p/original/l5jzuehwynnoEWUb9z25auHXQM.jpg</fanart>
+        <link>plugin://plugin.video.elementum/play?uri= Comando Filmes HD Filmes Séries Animes Lançamentos Top IMDb Pedidos Início / 1080p/ Dexter: Ressurreição 1ª Temporada (2025) Dual Áudio 5.1 WEB-DL 1080p$$lsname=[COLOR white]EPISÓDIO 1[/COLOR] - [COLOR yellow]Um Coração Batendo[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6143db6b159f9052db186079bb465367dc9441cd&dn=Dexter.Ressurreicao.S01E01-02.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[COLOR white]EPISÓDIO 2[/COLOR] - [COLOR yellow]Anticâmera[/COLOR]</link>
+        <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c35eb64a4a88bc005fd3d9f22669ee392ad0c779&dn=Dexter.Ressurreicao.S01E03.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce$$lsname=[COLOR white]EPISÓDIO 3[/COLOR] - [COLOR yellow]Copiloto Palpiteiro[/COLOR]</link>
+      </item>
+    </items>
+</channel>    
 
 
 </items>
