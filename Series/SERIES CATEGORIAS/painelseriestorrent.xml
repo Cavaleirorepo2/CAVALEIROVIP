@@ -65,6 +65,13 @@
 </channel>
 
 <channel>
+<name>[B][COLOR purple]SÉRIES[/COLOR] [COLOR white]| FANTASIA[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesdocumentario.png</thumbnail>
+<fanart>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesdocumentario.png</fanart>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/fantasia.xml</externallink>
+</channel>
+  
+<channel>
 <name>[B][COLOR white]SÉRIES[/COLOR] [COLOR white]| FAROESTE[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesdocumentario.png</thumbnail>
 <fanart>https://archive.org/download/cavaleioragendaesportiva/cavaleiroseriesdocumentario.png</fanart>
