@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 
+
 <channel>
 <name>[B][COLOR pink]Filmes[/COLOR] [COLOR pink]| LANÇAMENTOS 2025 4K[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/chat-gpt-image-18-de-jul.-de-2025-22-09-39/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2022_09_06.png</thumbnail>
@@ -8,14 +9,14 @@
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/FILMES%20CATEGORIAS/lancamentos20254k.xml</externallink>
 </channel>
 
- <channel>
+<channel>
 <name>[B][COLOR pink]Filmes[/COLOR] [COLOR pink]| AVENTURA[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/filmes-aventura/filmes%20aventura.png</thumbnail>
 <fanart>https://archive.org/download/filmes-aventura/filmes%20aventura.png</fanart>
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Aventura.xml</externallink>
 </channel>
 
- <channel>
+<channel>
 <name>[B][COLOR red]Filmes[/COLOR] [COLOR pink]| AÇÃO 4K[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/filmes-acao_202504/filmes%20acao.png</thumbnail>
 <fanart>https://archive.org/download/filmes-acao_202504/filmes%20acao.png</fanart>
