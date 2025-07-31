@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+
+
+<item>
+<title>[COLOR silver][B]Alguém Muito Especial 1987[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD6085E0F94E9F55F6F9BE0619E46043FD98EFF7$$lsname=[COLOR white]TORRENT[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/e/O6l0qz7lAeig7O/$$lsname=[COLOR white]LINK[/COLOR][COLOR aquamarine]DIRETO 1[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=agi5k92Fo7Y$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w500/yeb0N1nQ9R42QlV4sY8ejpsumys.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w1280/k5LISwQzFyNiw0o1G0azI3YmFnO.jpg</fanart>
+<info>
+[COLOR yellow]Título Original:[/COLOR] Some Kind of Wonderful
+[COLOR yellow]Elenco Principal:[/COLOR] Eric Stoltz, Mary Stuart Masterson, Lea Thompson, Chynna Phillips, Craig Sheffer
+[COLOR yellow]Duração:[/COLOR] 1h 35min
+[COLOR yellow]Diretor:[/COLOR] Howard Deutch
+[COLOR yellow]Ano:[/COLOR] 1987
+[COLOR yellow]Nota:[/COLOR] 6.9
+[COLOR yellow]Gênero:[/COLOR] Romance, Comédia
+[COLOR yellow]Sinopse:[/COLOR] Keith Nelson (Eric Stoltz) é um jovem atraído pela garota mais popular do colégio, Amanda Jones (Lea Thompson) e que namora o rico Hardy Jenns (Craig Sheffer). Na tentativa de conquistar Amanda, Keith pede ajuda a Watts (Mary Stuart Masterson), que é apaixonada por ele.
+
+</info>
+</item>
+  
 <item>
 <title>[COLOR silver][B]O Vôo do Navegador (1986)[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2ec3ae7d081e0bf17485c150602f202e77683b2$$lsname=[COLOR white]TORRENT[/COLOR]</link>
