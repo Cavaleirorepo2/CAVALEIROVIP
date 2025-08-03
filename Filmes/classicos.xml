@@ -8,7 +8,7 @@
 <item>
 <title>[COLOR silver][B]Força Sinistra[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=$$lsname=[COLOR white]TORRENT[/COLOR]</link>
-<link>plugin://plugin.video.resolverurl_player?url=https://embed-cloudfront.wistia.com/deliveries/ed80907e7825a2a34624084a6fa9be7def1067de.m3u8$$lsname=[COLOR white]LINK[/COLOR][COLOR aquamarine]DIRETO 1[/COLOR]</link>
+<link>https://embed-cloudfront.wistia.com/deliveries/ed80907e7825a2a34624084a6fa9be7def1067de.m3u8$$lsname=[COLOR white]LINK[/COLOR][COLOR aquamarine]DIRETO 1[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=QIWxSiYdDkE$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w500/9q8xozOeYx9qcwjYYXtSiNIXtua.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/8SnnGg0cqfa3bmorOERNrXvZ8Mn.jpg</fanart>
