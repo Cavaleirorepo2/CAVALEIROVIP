@@ -8,6 +8,29 @@
 
 
 <item>
+<title>[COLOR silver][B]SPAWN - O SOLDADO DO INFERNO[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[COLOR white]TORRENT[/COLOR]</link>
+<link>https://embed-cloudfront.wistia.com/deliveries/48dd3750d21e7eae1262dd118ed80cb4fd98dfbf.m3u8$$lsname=[COLOR white]LINK[/COLOR][COLOR aquamarine]DIRETO 1[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://embed-cloudfront.wistia.com/deliveries/48dd3750d21e7eae1262dd118ed80cb4fd98dfbf.m3u8$$lsname=[COLOR white]LINK[/COLOR][COLOR aquamarine]DIRETO 2[/COLOR]</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8N88v2xKb9nIFoA21Z75pKJC4kx.jpg</thumbnail>
+<fanart>https://media.themoviedb.org/t/p/original/1wKD64qitt07bXbwZ1wpcarXZVF.jpg</fanart>
+<info>
+
+</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]SEXTA FEIRA 13 COLECTION[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5E514AE07FEBE227FF7E059D5F1106559544F26A$$lsname=[COLOR white]TORRENT[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=UVppG9g1y2Y$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/rdrVW0qN16Ho8BDwmcqW9oLQtn3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/edVRp9npNwQwJtD05KyZlzp1J2p.jpg</fanart>
+<info>
+
+</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]STAR WARS - SAGA COLECTION [/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C4ABD102376196DDEB68C708F0610CD489E7E97$$lsname=[COLOR white]TORRENT[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=I_1IFSMpf6c$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
