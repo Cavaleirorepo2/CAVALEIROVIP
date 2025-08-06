@@ -2,11 +2,10 @@
 <items>
 
 
-
 <item>
 <title>[COLOR silver][B]Alexandre, O Grande[/B][/COLOR][COLOR yellow] FULL HD/HD[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BJGLGUZQR4HCEV4LKJ5A5R6WPUZY5EFE&dn=Alexandre%20-%20O%20Grande%202004%205.1%20(1080p)%20LAPUMiA$$lsname=[COLOR white]TORRENT 1[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N36NCNWW5DJ56JX7F6S3Q3JJ77CW2G2K&dn=Alexandre%20-%20O%20Grande%202004%205.1%20(720p)%20LAPUMiA$$lsname=[COLOR white]TORRENT 2[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd507d9295298eb5c6202136de446df994224762$$lsname=[COLOR white]TORRENT 1[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N36NCNWW5DJ56JX7F6S3Q3JJ77CW2G2K$$lsname=[COLOR white]TORRENT 2[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=_k_jpSiuG3Q$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/lu55rlKDCHymiBRgcxxTjZpe5gU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ySK5gxvXYnn55fjCIBeJVsG17RJ.jpg</fanart>
