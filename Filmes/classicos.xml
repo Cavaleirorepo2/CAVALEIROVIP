@@ -29,6 +29,7 @@
 <title>[COLOR silver][B]Alexandre, O Grande[/B][/COLOR][COLOR yellow] FULL HD/HD[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd507d9295298eb5c6202136de446df994224762$$lsname=[COLOR white]TORRENT 1[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N36NCNWW5DJ56JX7F6S3Q3JJ77CW2G2K$$lsname=[COLOR white]TORRENT 2[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sn/f/67lk70ercrp679$$lsname=[COLOR white]DIRETO 1[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=_k_jpSiuG3Q$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/lu55rlKDCHymiBRgcxxTjZpe5gU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ySK5gxvXYnn55fjCIBeJVsG17RJ.jpg</fanart>
@@ -46,7 +47,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]Max Payne 2008[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
+<title>[COLOR silver][B]$$lsname=[COLOR white]TORRENT 1[/COLOR]</link> 2008[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d750d7b610e6111de895fad7c91ea3a104c986d&dn=Max+Payne+2008+DVD5+NTSC&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[COLOR white]TORRENT[/COLOR]</link>
 <link>plugin://plugin.video.resolverurl_player?url=https://streamtape.com/v/GPMO3R68wGH1Lbq$$lsname=[COLOR white]LINK[/COLOR][COLOR aquamarine]DIRETO 1[/COLOR]</link>
 <link>plugin://plugin.video.resolverurl_player?url=https://filemoon.in/d/tsktnostkr8s$$lsname=[COLOR white]LINK[/COLOR][COLOR aquamarine]DIRETO 2[/COLOR]</link>
