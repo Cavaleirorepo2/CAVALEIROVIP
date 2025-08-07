@@ -8,7 +8,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:82453aa507b2cb6cde795884c2150c77f7cc4964$$lsname=[COLOR white]TORRENT 2[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd26da124cea669adba0ea31376731709f1ed6b0$$lsname=[COLOR white]TORRENT 3[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=http://levelxpt.lat:80/movie/776611049/781653727/6262710.mp4$$lsname=[COLOR white]TORRENT 4[/COLOR]</link>
-<link>plugin://plugin.video.resolverurl_player?url=http://levelxpt.lat:80/movie/776611049/781653727/6262710.mp4$$lsname=[COLOR white]DIRETO 1[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=http://levelxpt.lat:80/movie/776611049/781653727/6262710.mp4$$lsname=[COLOR white]DIRETO 1 mp4[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=LfXQpg5m0iI$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/w500/jerDxzhAVtNGPtDV0n9ePWCLlyK.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w1280/aDfGKWdtNHzDmnHkdDyXz7zoDuy.jpg</fanart>
@@ -29,6 +29,7 @@
 <title>[COLOR silver][B]May Payne 2008[/B][/COLOR][COLOR yellow] FULL HD[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c3007f843cc943013adcfa31929592abf4a5942&dn=Max+Payne+%282008%29+BDRip+1080p+Dublado+ToTTi9&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[COLOR white]TORRENT[/COLOR]</link>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sn/f/xw086lv6fr7p69$$lsname=[COLOR white]DIRETO 1[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=http://levelxpt.lat:80/movie/776611049/781653727/5692417.mp4$$lsname=[COLOR white]DIRETO 2 mp4[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=XY5UkSCrHTE$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/ci3V93lRW8s2uK4SZvCGXPGPeQW.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/5gJLTWIEJP12I8li5ABsLwfQn6B.jpg</fanart>
@@ -62,8 +63,9 @@
 <title>[COLOR silver][B]Alexandre, O Grande[/B][/COLOR][COLOR yellow] FULL HD/HD[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd507d9295298eb5c6202136de446df994224762$$lsname=[COLOR white]TORRENT 1[/COLOR]</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N36NCNWW5DJ56JX7F6S3Q3JJ77CW2G2K$$lsname=[COLOR white]TORRENT 2[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0A4CB353308F0E22578B527A0EC7D67D338E90A4$$lsname=[COLOR white]TORRENT 3 flix[/COLOR]</link>
 <link>plugin://plugin.video.resolverurl_player?url=https://mixdrop.sn/f/67lk70ercrp679$$lsname=[COLOR white]DIRETO 1[/COLOR]</link>
-<link>plugin://plugin.video.resolverurl_player?url=http://levelxpt.lat:80/movie/776611049/781653727/5696196.mp4$$lsname=[COLOR white]DIRETO 2[/COLOR]</link>
+<link>plugin://plugin.video.resolverurl_player?url=http://levelxpt.lat:80/movie/776611049/781653727/5696196.mp4$$lsname=[COLOR white]DIRETO 2 mp4[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=_k_jpSiuG3Q$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/lu55rlKDCHymiBRgcxxTjZpe5gU.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/ySK5gxvXYnn55fjCIBeJVsG17RJ.jpg</fanart>
