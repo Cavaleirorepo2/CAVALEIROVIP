@@ -22,7 +22,17 @@
 
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
 </channel>
-    
+
+<channel>
+    <name>🔍 PESQUISAR </name>
+    <pesquisa>https://raw.githubusercontent.com/addonfenix01/addonaresbrasil/refs/heads/main/filmes%20ares/1filmesrecemadicionados.xml</pesquisa>
+    <pesquisa>l</pesquisa>
+    <pesquisa></pesquisa>
+    <thumbnail>https://exemplo.com/lupa.png</thumbnail>
+    <fanart>https://exemplo.com/fanart.jpg</fanart>
+    <info>Pesquise simultaneamente em múltiplas fontes</info>
+</channel>
+
     <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</thumbnail>
