@@ -54,42 +54,6 @@
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/FILMES%20CATEGORIAS/painelcategoriasdefilmes.xml</externallink>
     </channel>
- 
-<channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES CLÁSSICOS LINK DIRETO[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/filmesclassicoslinkdireto/filmesclassicoslinkdireto.png</thumbnail>
-        <fanart>https://archive.org/download/filmesclassicoslinkdireto/filmesclassicoslinkdireto.png</fanart>
-        <info>Explore um vasto catálogo de filmes com os melhores lançamentos, clássicos inesquecíveis e produções de diversos gêneros. Encontre desde ação eletrizante até dramas emocionantes, tudo organizado para facilitar sua navegação. Escolha seu filme favorito e aproveite!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/classicoslinkdireto.xml</externallink>
-    </channel>
-
-<channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES CLÁSSICOS LINK-DIRETO 2[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/filmesclassicoslinkdireto/filmesclassicosetorent2.png</thumbnail>
-        <fanart>https://archive.org/download/filmesclassicoslinkdireto/filmesclassicosetorent2.png</fanart>
-        <info>Explore um vasto catálogo de filmes com os melhores lançamentos, clássicos inesquecíveis e produções de diversos gêneros. Encontre desde ação eletrizante até dramas emocionantes, tudo organizado para facilitar sua navegação. Escolha seu filme favorito e aproveite!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/clasicoslinkdiretoecolecoes2%2Cxml</externallink>
-    </channel>
-
-<channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES CLÁSSICOS LINK-DIRETO 3 MODIFICADO[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/filmesclassicoslinkdireto/filmesclassicosetorent2.png</thumbnail>
-        <fanart>https://archive.org/download/filmesclassicoslinkdireto/filmesclassicosetorent2.png</fanart>
-        <info>Explore um vasto catálogo de filmes com os melhores lançamentos, clássicos inesquecíveis e produções de diversos gêneros. Encontre desde ação eletrizante até dramas emocionantes, tudo organizado para facilitar sua navegação. Escolha seu filme favorito e aproveite!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/filmesmoddireto.xml</externallink>
-    </channel>
 
     <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]</name>
@@ -104,7 +68,7 @@
     </channel>
 
     <channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES NOVELAS/TESTE[/COLOR][/B]</name>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES NOVELAS[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/cavaleiroviodcemarvel/cavaleirovipseries.png</thumbnail>
         <fanart>https://archive.org/download/cavaleiroviodcemarvel/cavaleirovipseries.png</fanart>
         <info>Explore uma seleção de séries envolventes, com histórias que vão te prender do começo ao fim. De comédias leves a tramas intensas, temos séries imperdíveis para todos os gostos. Navegue e encontre sua próxima maratona!
@@ -140,30 +104,6 @@
     </channel>
 
 <channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]CLIPS ROCK[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/cavaleironovelas/cavaleiroradio.png</thumbnail>
-        <fanart>https://archive.org/download/cavaleironovelas/cavaleiroradio.png</fanart>
-        <info>Sintonize em uma variedade de estações de rádio, com músicas, notícias, podcasts e muito mais. De hits atuais a clássicos, encontre a estação perfeita para o seu humor e curta sua programação favorita a qualquer hora!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/clipsrock.xml</externallink>
-    </channel>
-
-    <channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/tvonlinnecavaleiro/desenhoscavaleiro.png</thumbnail>
-        <fanart>https://archive.org/download/tvonlinnecavaleiro/desenhoscavaleiro.png</fanart>
-        <info>Entre no universo dos desenhos animados com uma seleção para todas as idades. De aventuras divertidas a histórias encantadoras, encontre seus desenhos favoritos e curta a magia da animação a qualquer momento!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/desenhos24hrs.xml</externallink>
-    </channel>
-
-<channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/tvonlinnecavaleiro/animescavaleiro.png</thumbnail>
         <fanart>https://archive.org/download/tvonlinnecavaleiro/animescavaleiro.png</fanart>
@@ -185,30 +125,6 @@
 
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/dcemarvel.xml</externallink>
-    </channel>
-
-    <channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/chat-gpt-image-19-de-jul.-de-2025-23-56-45/ChatGPT%20Image%2019%20de%20jul.%20de%202025%2C%2023_56_45.png</thumbnail>
-        <fanart>https://archive.org/download/chat-gpt-image-19-de-jul.-de-2025-23-56-45/ChatGPT%20Image%2019%20de%20jul.%20de%202025%2C%2023_56_45.png</fanart>
-        <info>Reviva as tramas emocionantes das novelas, com histórias de amor, drama e reviravoltas imperdíveis. Explore uma seleção de novelas clássicas e atuais, e acompanhe os capítulos que marcaram gerações.
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/novelas.xml</externallink>
-    </channel>
-
-    <channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]NOVELAS 24Horas[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/chat-gpt-image-19-de-jul.-de-2025-23-56-45/ChatGPT%20Image%2019%20de%20jul.%20de%202025%2C%2023_56_45.png</thumbnail>
-        <fanart>https://archive.org/download/chat-gpt-image-19-de-jul.-de-2025-23-56-45/ChatGPT%20Image%2019%20de%20jul.%20de%202025%2C%2023_56_45.png</fanart>
-        <info>Reviva as tramas emocionantes das novelas, com histórias de amor, drama e reviravoltas imperdíveis. Explore uma seleção de novelas clássicas e atuais, e acompanhe os capítulos que marcaram gerações.
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/novelas24hrs.xml</externallink>
     </channel>
 
     <channel>
