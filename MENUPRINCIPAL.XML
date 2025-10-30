@@ -47,7 +47,8 @@
 [COLOR pink]TeamTeamCavaleiroVipy@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/cavaleirotv02.xml</externallink>
     </channel>
-    <channel>
+
+   <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/tvonlinnecavaleiro/filmescavaleiro.png</thumbnail>
         <fanart>https://archive.org/download/tvonlinnecavaleiro/filmescavaleiro.png</fanart>
@@ -57,6 +58,18 @@
 
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/FILMES%20CATEGORIAS/painelcategoriasdefilmes.xml</externallink>
+    </channel>
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]CAVALEIRO FILMES 01[/COLOR][/B]</name>
+        <thumbnail>https://archive.org/download/tvonlinnecavaleiro/filmescavaleiro.png</thumbnail>
+        <fanart>https://archive.org/download/tvonlinnecavaleiro/filmescavaleiro.png</fanart>
+        <info>Explore um vasto catálogo de filmes com os melhores lançamentos, clássicos inesquecíveis e produções de diversos gêneros. Encontre desde ação eletrizante até dramas emocionantes, tudo organizado para facilitar sua navegação. Escolha seu filme favorito e aproveite!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/filmescavaleirodireto01.xml</externallink>
     </channel>
 
     <channel>
