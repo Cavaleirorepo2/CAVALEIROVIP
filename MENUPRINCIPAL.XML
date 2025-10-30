@@ -96,18 +96,6 @@
     </channel>
 
 <channel>
-        <name>[B][COLOR yellow]●[/COLOR] [COLOR white]DOAÇÃO[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/cavaleirovipdoacao/cavaleirovipdoacao.png</thumbnail>
-        <fanart>https://archive.org/download/cavaleirovipdoacao/cavaleirovipdoacao.png</fanart>
-        <info>Ajude a manter o CavaleiroVip sempre atualizado e funcionando! Nosso objetivo é oferecer a melhor experiência possível, trazendo novos conteúdos e melhorias constantes. Sua doação é fundamental para que possamos continuar aprimorando o serviço, garantindo qualidade e estabilidade. Se você gosta do BluePlay e quer apoiar o projeto, contribua com qualquer valor. Toda ajuda é bem-vinda e faz a diferença!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink></externallink>
-    </channel>
-
-<channel>
         <name>[B][COLOR yellow]●[/COLOR] [COLOR white]PLUTOTV[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/cavaleirovipdoacao/cavaleirovipdoacao.png</thumbnail>
         <fanart>https://archive.org/download/cavaleirovipdoacao/cavaleirovipdoacao.png</fanart>
@@ -118,6 +106,7 @@
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/plutotv.xml</externallink>
     </channel>
+
 <channel>
         <name>[B][COLOR yellow]●[/COLOR] [COLOR white]RUNTIME[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/cavaleirovipdoacao/cavaleirovipdoacao.png</thumbnail>
@@ -128,6 +117,18 @@
 
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/runtimetv.xml</externallink>
+    </channel>
+
+<channel>
+        <name>[B][COLOR yellow]●[/COLOR] [COLOR white]DOAÇÃO[/COLOR][/B]</name>
+        <thumbnail>https://archive.org/download/cavaleirovipdoacao/cavaleirovipdoacao.png</thumbnail>
+        <fanart>https://archive.org/download/cavaleirovipdoacao/cavaleirovipdoacao.png</fanart>
+        <info>Ajude a manter o CavaleiroVip sempre atualizado e funcionando! Nosso objetivo é oferecer a melhor experiência possível, trazendo novos conteúdos e melhorias constantes. Sua doação é fundamental para que possamos continuar aprimorando o serviço, garantindo qualidade e estabilidade. Se você gosta do BluePlay e quer apoiar o projeto, contribua com qualquer valor. Toda ajuda é bem-vinda e faz a diferença!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
+        <externallink></externallink>
     </channel>
 
 
