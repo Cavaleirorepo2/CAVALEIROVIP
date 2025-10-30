@@ -23,14 +23,6 @@
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
 </channel>
 
-<channel>
-    <name>🔍 PESQUISAR </name>
-    <pesquisa>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/FILMES%20CATEGORIAS/paineltorrent.xml</pesquisa>
-    <thumbnail>https://exemplo.com/lupa.png</thumbnail>
-    <fanart>https://exemplo.com/fanart.jpg</fanart>
-    <info>Pesquise simultaneamente em múltiplas fontes</info>
-</channel>
-
     <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</thumbnail>
@@ -77,54 +69,6 @@
 
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/seriesnovelas.xml</externallink>
-    </channel>
-
-<channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]RÁDIO[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/tvonlinnecavaleiro/radiocavaleiro.png</thumbnail>
-        <fanart>https://archive.org/download/tvonlinnecavaleiro/radiocavaleiro.png</fanart>
-        <info>Sintonize em uma variedade de estações de rádio, com músicas, notícias, podcasts e muito mais. De hits atuais a clássicos, encontre a estação perfeita para o seu humor e curta sua programação favorita a qualquer hora!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/TV%20ONLINE%20CATEGORIAS/radioonline.xml</externallink>
-    </channel>
-
-<channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]RÁDIOAOVIVO/CAMERASAOVIVO[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/cavaleironovelas/cavaleiroradio.png</thumbnail>
-        <fanart>https://archive.org/download/cavaleironovelas/cavaleiroradio.png</fanart>
-        <info>Sintonize em uma variedade de estações de rádio, com músicas, notícias, podcasts e muito mais. De hits atuais a clássicos, encontre a estação perfeita para o seu humor e curta sua programação favorita a qualquer hora!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/camerasaovivoeradios.xml</externallink>
-    </channel>
-
-<channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/tvonlinnecavaleiro/animescavaleiro.png</thumbnail>
-        <fanart>https://archive.org/download/tvonlinnecavaleiro/animescavaleiro.png</fanart>
-        <info>Explore um mundo de animes com diversas opções, desde aventuras cheias de ação até enredos emocionantes e profundos. De títulos populares a clássicos, encontre o anime perfeito para você e embarque em uma jornada única!
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/animesabaprincipal.xml</externallink>
-    </channel>
-
-<channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]DC & MARVEL[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/chat-gpt-image-19-de-jul.-de-2025-23-56-45/ChatGPT%20Image%2019%20de%20jul.%20de%202025%2C%2023_53_51.png</thumbnail>
-        <fanart>https://archive.org/download/chat-gpt-image-19-de-jul.-de-2025-23-56-45/ChatGPT%20Image%2019%20de%20jul.%20de%202025%2C%2023_53_51.png</fanart>
-        <info>Mergulhe no universo dos dramas asiáticos com o melhor do entretenimento coreano, japonês, chinês e tailandês! No menu Dorama, você encontrará uma seleção de séries emocionantes, desde os romances mais envolventes até os dramas cheios de ação e mistério. Descubra novas histórias, acompanhe seus atores favoritos e aproveite legendas de qualidade para uma experiência imersiva.
-            
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/dcemarvel.xml</externallink>
     </channel>
 
     <channel>
