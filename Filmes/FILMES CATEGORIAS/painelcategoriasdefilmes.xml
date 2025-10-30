@@ -8,18 +8,7 @@
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/FILMES%20CATEGORIAS/paineltorrent.xml</externallink>
 </channel>
    
-<channel>
-<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR red]LINK DIRETO[/COLOR][/B]</name> 
-<thumbnail>https://archive.org/download/filmes-link-direto/filmes%20link%20direto.png</thumbnail>    
-<fanart>https://archive.org/download/filmes-link-direto/filmes%20link%20direto.png</fanart>     
-<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/FILMES%20CATEGORIAS/filmesdireto.xml</externallink>
-</channel>
 
-<channel>
-<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR orange]TORRENT 4K[/COLOR][/B]</name>  
-<thumbnail>https://archive.org/download/filmestorrent4k/filmestorrent4k.png</thumbnail>    
-<fanart>https://archive.org/download/filmestorrent4k/filmestorrent4k.png</fanart>  
-<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/FILMES%20CATEGORIAS/painelcategoriasfilmes4k.xml</externallink>
-</channel>
-   
+
 </channels>
+
