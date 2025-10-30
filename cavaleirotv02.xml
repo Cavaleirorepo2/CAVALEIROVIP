@@ -1,0 +1,889 @@
+#EXTM3U
+#EXTINF:-1 xui-id="3425082" tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://logo.m3uassets.com/ae.png" group-title="Canais | Filmes e Séries",A&E FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZli0bEbIDSiNYXnYwC216j76keR1Uo33xaTXlBdY9NRX/ts
+#EXTINF:-1 xui-id="3425083" tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://logo.m3uassets.com/ae.png" group-title="Canais | Filmes e Séries",A&E HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtPZe18q6V8C9Wu8zXlvyaLnNY8F7wK49_PSXCoIoaDO/ts
+#EXTINF:-1 xui-id="3425084" tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://logo.m3uassets.com/ae.png" group-title="Canais | Filmes e Séries",A&E SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgdJ2kscDULqxslXqwpwAlDo2UAlDra7BdmGxsv6PdDb/ts
+#EXTINF:-1 xui-id="3425085" tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/yjZU8H7.png" group-title="Canais | Filmes e Séries",AMC FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZn_-ONZVQEN1Q30Uy3SfH6F6F4qecpxuUbFhdSVYZtGO/ts
+#EXTINF:-1 xui-id="3425086" tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/yjZU8H7.png" group-title="Canais | Filmes e Séries",AMC HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZi_D7Kk8sN1jIGm-NS1c0RQuTTG_l2LLKAxQgfGZf1JD/ts
+#EXTINF:-1 xui-id="3425087" tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/yjZU8H7.png" group-title="Canais | Filmes e Séries",AMC SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgYUYbrzmm0xOqfKgAsnCOvZpareMGtSIJ9lwn7Kp-VE/ts
+#EXTINF:-1 xui-id="3425088" tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Canais | Filmes e Séries",AXN FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZj1C5OOGYXacDAOJCevbg1rihj3d4cPNIs9CN6A61fiH/ts
+#EXTINF:-1 xui-id="3425089" tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Canais | Filmes e Séries",AXN HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZug2S1qpcbvC2yqIMLO0UPBp63IfZAN0B57E5zJtVk9O/ts
+#EXTINF:-1 xui-id="3425090" tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Canais | Filmes e Séries",AXN SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZipcOcUfmTOLIxmIVkTxpSPAHyNty2ZOkDnh-R3oegRk/ts
+#EXTINF:-1 xui-id="3425091" tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://logo.m3uassets.com/canalbrasil.png" group-title="Canais | Filmes e Séries",CANAL BRASIL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvYANvBhz2m1jpBuRz2cepWpSbTzg7kWfwg0CFbck_e2/ts
+#EXTINF:-1 xui-id="3425092" tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://logo.m3uassets.com/canalbrasil.png" group-title="Canais | Filmes e Séries",CANAL BRASIL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlNEtr84-8UiQ35YE3G9qeamO2ihuaJDeC8Wlw43-g_5/ts
+#EXTINF:-1 xui-id="3425093" tvg-id="cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Canais | Filmes e Séries",CINEMAX FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZn9g1PrWuZpTnPcWIIgmqY71bNW7SWfSvYZqP7vtQydQ/ts
+#EXTINF:-1 xui-id="3425094" tvg-id="cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Canais | Filmes e Séries",CINEMAX HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsWKEC5UbAeyYmWc5A7IJK7Lj0j44kJfvKUwA6EMB1eD/ts
+#EXTINF:-1 xui-id="3425095" tvg-id="cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://logo.m3uassets.com/cinemax.png" group-title="Canais | Filmes e Séries",CINEMAX SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnsMXZIT1aS-Y1n507c45plO4bh-4bhZGtciZ6pnsRL_/ts
+#EXTINF:-1 xui-id="3425096" tvg-id="film&arts.br" tvg-name="FILM&ARTS HD" tvg-logo="https://logo.m3uassets.com/filmarts.png" group-title="Canais | Filmes e Séries",FILM&ARTS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmv_X8soTEvXe-HQLoo_515S4DWTr0eiA28gTkGSCDWp/ts
+#EXTINF:-1 xui-id="3425097" tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="https://logo.m3uassets.com/megapix.png" group-title="Canais | Filmes e Séries",MEGAPIX FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqiWkuSoEkpBETWVFni_R5HK8s6MExLfJ9SrbGVpSBzh/ts
+#EXTINF:-1 xui-id="3425098" tvg-id="megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://logo.m3uassets.com/megapix.png" group-title="Canais | Filmes e Séries",MEGAPIX HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuG0nbynCsQpnNcZmM-2NYXIppTMjOVzkiBnCYxS5GFf/ts
+#EXTINF:-1 xui-id="3425099" tvg-id="megapix.br" tvg-name="MEGAPIX SD" tvg-logo="https://logo.m3uassets.com/megapix.png" group-title="Canais | Filmes e Séries",MEGAPIX SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZomPUoFdhgKxEvxW1aSoSR9mJdEH9dyqI53neh3XTvfM/ts
+#EXTINF:-1 xui-id="3425100" tvg-id="paramount.br" tvg-name="PARAMOUNT FHD" tvg-logo="https://logo.m3uassets.com/paramount.png" group-title="Canais | Filmes e Séries",PARAMOUNT FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvN82_22Y_rxFBUA6F_gJ5gsWvgYPBJZblIVCrFyzXyo/ts
+#EXTINF:-1 xui-id="3425101" tvg-id="paramount.br" tvg-name="PARAMOUNT HD" tvg-logo="https://logo.m3uassets.com/paramount.png" group-title="Canais | Filmes e Séries",PARAMOUNT HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrcQzadmDKkQdGUTE1vBSdaoCkt1RjLPL6bwTCSuqVxO/ts
+#EXTINF:-1 xui-id="3425102" tvg-id="paramount.br" tvg-name="PARAMOUNT SD" tvg-logo="https://logo.m3uassets.com/paramount.png" group-title="Canais | Filmes e Séries",PARAMOUNT SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuSj2U5EiCoCLKME4oy6iOS3INnfTfqQchw6teqi70B_/ts
+#EXTINF:-1 xui-id="3425103" tvg-id="primebox.br" tvg-name="PRIME BOX BRAZIL HD" tvg-logo="https://logo.m3uassets.com/prime.png" group-title="Canais | Filmes e Séries",PRIME BOX BRAZIL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnzIPLbJttSGGBeK1XUoXmA987JtQprleVGd1pFbAzlz/ts
+#EXTINF:-1 xui-id="3425105" tvg-id="sony.br" tvg-name="SONY FHD" tvg-logo="https://logo.m3uassets.com/sony.png" group-title="Canais | Filmes e Séries",SONY FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsHcgIBpIvGN2Nzf7y6n9fEzZ2s4lQtuI_MRRtE-mWg3/ts
+#EXTINF:-1 xui-id="3425104" tvg-id="" tvg-name="SONY HD" tvg-logo="https://logo.m3uassets.com/sony.png" group-title="Canais | Filmes e Séries",SONY HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZp_8sJM5SKmbky-5DmzjgQgXNBRA37dUV26YuNd32dp3/ts
+#EXTINF:-1 xui-id="3425106" tvg-id="" tvg-name="SONY MOVIES HD" tvg-logo="https://logo.m3uassets.com/sonymovies.png" group-title="Canais | Filmes e Séries",SONY MOVIES HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZg9Yp2WvAmJ__XcHOd4Bh6rtI0fp44nsJZBLhidcKyzs/ts
+#EXTINF:-1 xui-id="3425107" tvg-id="sony.br" tvg-name="SONY SD" tvg-logo="https://logo.m3uassets.com/sony.png" group-title="Canais | Filmes e Séries",SONY SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmpDz5dEnzqEsZ32YP_n4_RXMkWEfrGPGOrN7pmb96m1/ts
+#EXTINF:-1 xui-id="3425108" tvg-id="space.br" tvg-name="SPACE FHD" tvg-logo="https://logo.m3uassets.com/space.png" group-title="Canais | Filmes e Séries",SPACE FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZswuiT4m0vhRr2G2pCH4iZE1b8BG5EwuXz0027jZ-U6L/ts
+#EXTINF:-1 xui-id="3425109" tvg-id="space.br" tvg-name="SPACE HD" tvg-logo="https://logo.m3uassets.com/space.png" group-title="Canais | Filmes e Séries",SPACE HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiUoagooebEK3a73WoXP1adejIJOLs_qnMqGvzGWmio3/ts
+#EXTINF:-1 xui-id="3425110" tvg-id="space.br" tvg-name="SPACE SD" tvg-logo="https://logo.m3uassets.com/space.png" group-title="Canais | Filmes e Séries",SPACE SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrfi-24pXz7QNELx03ji8vUxK6M2LmeB6UPUYLe6nPiI/ts
+#EXTINF:-1 xui-id="3425111" tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://logo.m3uassets.com/studiouniversal.png" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhK981yTWE5yLiIbeY0BXqaPvcc1y7Pfyp3J9Y9za8sD/ts
+#EXTINF:-1 xui-id="3425112" tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://logo.m3uassets.com/studiouniversal.png" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjm2vH7DvA9koEuEa8N3svdXYabVW6CJb19AvBKY_0OE/ts
+#EXTINF:-1 xui-id="3425113" tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://logo.m3uassets.com/studiouniversal.png" group-title="Canais | Filmes e Séries",STUDIO UNIVERSAL SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZky-L4IzVOMlT96S-ePcU_JwuCnRoKzuY41Izx0CeXo-/ts
+#EXTINF:-1 xui-id="3425114" tvg-id="tcm.br" tvg-name="TCM FHD" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="Canais | Filmes e Séries",TCM FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqc3VCox5PTYHCT1hXYgDMJ7QT8kG5Yzyqmqy_ntoy0J/ts
+#EXTINF:-1 xui-id="3425115" tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="Canais | Filmes e Séries",TCM HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpTWskj2JDm_uDWB-O-zlKQlNaZc1rKO53FepsIo13V3/ts
+#EXTINF:-1 xui-id="3425116" tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="https://logo.m3uassets.com/tcm.png" group-title="Canais | Filmes e Séries",TCM SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoKu4BTZNlpMW633Rm68U_hBp5MnDmDjHXI_ue_Wkd3a/ts
+#EXTINF:-1 xui-id="3425117" tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlSDQ6jEoPvG4arn_D7IJvzan_TXrPi0TnouyNLi8vHU/ts
+#EXTINF:-1 xui-id="3425118" tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="Canais | Filmes e Séries",TNT HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZr6Pe5i3OQ2ssTJGK_hRxy39ysULOUQojySSGFwY2Sng/ts
+#EXTINF:-1 xui-id="3425119" tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="Canais | Filmes e Séries",TNT SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpgW-7eT7snQHhpIl0Vg5oHKNo6efgcmznjSQYUHOojS/ts
+#EXTINF:-1 xui-id="3425120" tvg-id="tntseries.br" tvg-name="TNT SERIES FHD" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-title="Canais | Filmes e Séries",TNT SERIES FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhZIneXgQe6EYXCAf5kSujKsheoYDm83JcbOMgDDBljM/ts
+#EXTINF:-1 xui-id="3425121" tvg-id="tntseries.br" tvg-name="TNT SERIES HD" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-title="Canais | Filmes e Séries",TNT SERIES HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZg4KArAPRSuHaP1MQ7d3T6WtJEZxqZwaBE9t1G62Mv19/ts
+#EXTINF:-1 xui-id="3425122" tvg-id="tntseries.br" tvg-name="TNT SERIES SD" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-title="Canais | Filmes e Séries",TNT SERIES SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpHkzZlOZ09xiNTSzMoyVdGkUo_ce9ty3tWlVA1CWN6b/ts
+#EXTINF:-1 xui-id="3425123" tvg-id="trutv.br" tvg-name="TRUTV FHD" tvg-logo="https://logo.m3uassets.com/trutv.png" group-title="Canais | Filmes e Séries",TRUTV FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoZO6Z9KYXYsf8MPnya0TkRH4OaSy8SD2IGlAPWgNMzi/ts
+#EXTINF:-1 xui-id="3425124" tvg-id="trutv.br" tvg-name="TRUTV HD" tvg-logo="https://logo.m3uassets.com/trutv.png" group-title="Canais | Filmes e Séries",TRUTV HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZj4MxyRhLy_zXlaPaTpxhEg6y4gzu6NfylAWlmTLIcjk/ts
+#EXTINF:-1 xui-id="3425125" tvg-id="universal.br" tvg-name="UNIVERSAL TV FHD" tvg-logo="https://logo.m3uassets.com/universaltv.png" group-title="Canais | Filmes e Séries",UNIVERSAL TV FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpASrk5eu234_Q_eTN-wR57RW9zHuGEnwK_We_FnTnJl/ts
+#EXTINF:-1 xui-id="3425126" tvg-id="universal.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://logo.m3uassets.com/universaltv.png" group-title="Canais | Filmes e Séries",UNIVERSAL TV HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgQwu3lqUywGkA4ABpFa7NZccVe9-amA0457Eshihhez/ts
+#EXTINF:-1 xui-id="3425127" tvg-id="universal.br" tvg-name="UNIVERSAL TV SD" tvg-logo="https://logo.m3uassets.com/universaltv.png" group-title="Canais | Filmes e Séries",UNIVERSAL TV SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpEw_9HC6ste9nfBksTTSscDyFS6v2wZlSvA4-NvWpYp/ts
+#EXTINF:-1 xui-id="3425128" tvg-id="syfy.br" tvg-name="USA NETWORK FHD" tvg-logo="https://logo.m3uassets.com/network.png" group-title="Canais | Filmes e Séries",USA NETWORK FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsvDCNU5hBLobdZdJLxm2pb2GIE4Lkh_OGYVDr5pcxGU/ts
+#EXTINF:-1 xui-id="3425129" tvg-id="syfy.br" tvg-name="USA NETWORK HD" tvg-logo="https://logo.m3uassets.com/network.png" group-title="Canais | Filmes e Séries",USA NETWORK HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqZ4aOv-WFj2Xg6lJNv3rPiWNO0slq56XytTI8NVuD_x/ts
+#EXTINF:-1 xui-id="3425130" tvg-id="syfy.br" tvg-name="USA NETWORK SD" tvg-logo="https://logo.m3uassets.com/network.png" group-title="Canais | Filmes e Séries",USA NETWORK SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZp8MR3dMPm8FHyCzTebyXV301lPvcsrucgZEmiPdXEL8/ts
+#EXTINF:-1 xui-id="3425131" tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL FHD" tvg-logo="http://69.30.198.162:80/images/083098bb36f7abcb30fc05ffee3b4bc6.png" group-title="Canais | Filmes e Séries",WARNER CHANNEL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoB3zpqAPZrGdTJs8ZtwtOI19HDrEUvbUN9ykK5o_0oW/ts
+#EXTINF:-1 xui-id="3425132" tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="https://logo.m3uassets.com/warnerchannel.png" group-title="Canais | Filmes e Séries",WARNER CHANNEL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZq3ADq32J1A-jNWFCZrhZG_w_HgumFshpYWTRsS9gOUx/ts
+#EXTINF:-1 xui-id="3425133" tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL SD" tvg-logo="https://logo.m3uassets.com/warnerchannel.png" group-title="Canais | Filmes e Séries",WARNER CHANNEL SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZs8Vxc9MgW314KyaL6MZgcz6EXQPSavgobDd4fDTNAIp/ts
+#EXTINF:-1 xui-id="3424925" tvg-id="" tvg-name="AGRO BRASIL HD" tvg-logo="https://logo.m3uassets.com/agrobrasil.png" group-title="Canais | Abertos",AGRO BRASIL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZg-oHUWzbgIxpOuqACFd2JLFGQtq__1wAfGSidl3EUPj/ts
+#EXTINF:-1 xui-id="3424926" tvg-id="canalboi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://logo.m3uassets.com/canalb.png" group-title="Canais | Abertos",CANAL DO BOI HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvXNDOV2dk-XxGzeTOWhXcNsnQyrrG3MaRE3CISzgpNd/ts
+#EXTINF:-1 xui-id="3424927" tvg-id="canalrural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://logo.m3uassets.com/canalrural.png" group-title="Canais | Abertos",CANAL RURAL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZneTwOpkYzu4HIo-XNKJ_9or2c2WfNVYyKCkSsdnC4GQ/ts
+#EXTINF:-1 xui-id="3424928" tvg-id="futura.br" tvg-name="FUTURA FHD" tvg-logo="https://logo.m3uassets.com/futura.png" group-title="Canais | Abertos",FUTURA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkKwDfCwmEpBJj-eQikv9nbtbL1lqB3ecAH_GVDNN5Gr/ts
+#EXTINF:-1 xui-id="3424929" tvg-id="futura.br" tvg-name="FUTURA HD" tvg-logo="https://logo.m3uassets.com/futura.png" group-title="Canais | Abertos",FUTURA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsqC6cHWyeULraF3M-EcGswPd-3mcVTNYtlTJVp7vZvb/ts
+#EXTINF:-1 xui-id="3424930" tvg-id="futura.br" tvg-name="FUTURA SD" tvg-logo="https://logo.m3uassets.com/futura.png" group-title="Canais | Abertos",FUTURA SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjMV2WlpZew8MA6GzwsGDjkz__oYnDrKUOrA9lQBi2Ek/ts
+#EXTINF:-1 xui-id="3424931" tvg-id="gazeta.br" tvg-name="GAZETA FHD" tvg-logo="https://logo.m3uassets.com/gazeta.png" group-title="Canais | Abertos",GAZETA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvbDoR0G_G9o2egf2I6trcYHRfsL66W0qDbgFWb05Rm7/ts
+#EXTINF:-1 xui-id="3424932" tvg-id="gazeta.br" tvg-name="GAZETA HD" tvg-logo="https://logo.m3uassets.com/gazeta.png" group-title="Canais | Abertos",GAZETA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZk6ym3BWy6bkay3cbZpw2ZfLOuUAwg9rCa_-dDbKGRZm/ts
+#EXTINF:-1 xui-id="3424934" tvg-id="redetv.br" tvg-name="REDE TV! FHD" tvg-logo="https://logo.m3uassets.com/redetv.png" group-title="Canais | Abertos",REDE TV! FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv2jIY6tIRVWq-Prfg3oZG74pXj2AlV4sVBTXMz9cq1K/ts
+#EXTINF:-1 xui-id="3424935" tvg-id="redetv.br" tvg-name="REDE TV! HD" tvg-logo="https://logo.m3uassets.com/redetv.png" group-title="Canais | Abertos",REDE TV! HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvzq-PWvESHgX1eNLvSdrZ5zENoX1sWgkXz2hvQGe0zM/ts
+#EXTINF:-1 xui-id="3424941" tvg-id="" tvg-name="TV CAMARA HD" tvg-logo="https://logo.m3uassets.com/tvcamara.png" group-title="Canais | Abertos",TV CAMARA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnDFjXHYYg83fCKfowd-TACXcIX1QjNNnNuFbHTojq7n/ts
+#EXTINF:-1 xui-id="3424939" tvg-id="cultura.br" tvg-name="TV CULTURA FHD" tvg-logo="https://logo.m3uassets.com/tvcultura.png" group-title="Canais | Abertos",TV CULTURA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhMubmfLhSq9wn02FXE2_00edjxcxF0vBxzRsmQk8eb-/ts
+#EXTINF:-1 xui-id="3424940" tvg-id="cultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://logo.m3uassets.com/tvcultura.png" group-title="Canais | Abertos",TV CULTURA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrCeF9IM30aVQ7dFulqxIaSn6rfOdSElvbb4NO6O8tvZ/ts
+#EXTINF:-1 xui-id="3424942" tvg-id="tvsenado.br" tvg-name="TV SENADO FHD" tvg-logo="https://logo.m3uassets.com/tvsenado.png" group-title="Canais | Abertos",TV SENADO FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqGe89tbxLJjdHSmPUo3IFhTYEQt7S85QVdn8vBjo0Cj/ts
+#EXTINF:-1 xui-id="3433781" tvg-id="APLANZ" tvg-name="ANIMAL PLANET 4K" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Canais | 4K",ANIMAL PLANET 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvuaKc6-M4zya9fzi_Nvjqp6WlYOONasrmMQdbJfEyaN/ts
+#EXTINF:-1 xui-id="3433780" tvg-id="AXNKDG" tvg-name="AXN 4K" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Canais | 4K",AXN 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhaLjAr6ZYpfYN_M6fJQTVMRhvZA-XxJU6_OOuaaOJoy/ts
+#EXTINF:-1 xui-id="3433777" tvg-id="bandrj.br" tvg-name="BAND RJ 4K" tvg-logo="https://logo.m3uassets.com/bandrj.png" group-title="Canais | 4K",BAND RJ 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqypU75KEEp9wRmcUb_G9Sk75t9-0YNeXA_KX1SC08ld/ts
+#EXTINF:-1 xui-id="3433776" tvg-id="Bandsp.br" tvg-name="BAND SP 4K" tvg-logo="https://logo.m3uassets.com/bandsp.png" group-title="Canais | 4K",BAND SP 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtS8HzN3BKzuewwoOTiaD5c_ZRIHfQqxL48OpffO1cMG/ts
+#EXTINF:-1 xui-id="3433775" tvg-id="TOONLSE" tvg-name="CARTOON NETWORK 4K" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Canais | 4K",CARTOON NETWORK 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpY36Lodl6zJ-NHl4X8U0Uv4Hn1rMupat-FFOcDBaGG7/ts
+#EXTINF:-1 xui-id="3433774" tvg-id="CNNB" tvg-name="CNN BRASIL 4K" tvg-logo="https://logo.m3uassets.com/cnnbrasil.png" group-title="Canais | 4K",CNN BRASIL 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmF_8dTJ-agJ24z0nSUXEqi4Yb5YwctrsacAETL4Lj58/ts
+#EXTINF:-1 xui-id="3433772" tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="https://logo.m3uassets.com/combate.png" group-title="Canais | 4K",COMBATE 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiUTeWN4gzcSucz73i0uWP1l59_x_Xi5g4NIBNrnY2Lv/ts
+#EXTINF:-1 xui-id="3433771" tvg-id="COCECH" tvg-name="COMEDY CENTRAL 4K" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="Canais | 4K",COMEDY CENTRAL 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvjFZfnQ5n8XJsy8u4RdlNb_PyU29bTClew0qhUR1yAq/ts
+#EXTINF:-1 xui-id="3433770" tvg-id="DSCCKDG" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="Canais | 4K",DISCOVERY CHANNEL 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgKeKt_7OWeHxmt4FUFZLUD0whkvSg-JdRpIDquScuQf/ts
+#EXTINF:-1 xui-id="3433769" tvg-id="" tvg-name="DISCOVERY H&H 4K" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Canais | 4K",DISCOVERY H&H 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkUpWWLCXsyL31pH3GcilOlOxFES7UgJAbcjih049B8M/ts
+#EXTINF:-1 xui-id="3433768" tvg-id="DTURANZ" tvg-name="DISCOVERY TURBO 4K" tvg-logo="https://logo.m3uassets.com/discoveryturbo.png" group-title="Canais | 4K",DISCOVERY TURBO 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZttseNdSRy_9VCe7VpOEzQnFr9YGeeK2B5bLZ2SajEYC/ts
+#EXTINF:-1 xui-id="3433767" tvg-id="ESPN 4k" tvg-name="ESPN 4 4K" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Canais | 4K",ESPN 4 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrew6bCgGow4Q5-Tngkq3pCxME9rRvqfiUpcL_EaK-59/ts
+#EXTINF:-1 xui-id="3433766" tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="http://69.30.198.162:80/images/1ad0981ad57d7bfeffda205695e8f053.png" group-title="Canais | 4K",ESPN 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqq_WonWqsTesSqJtAQ0CAApwsl2X6pFqRGyXWegyJO_/ts
+#EXTINF:-1 xui-id="3433765" tvg-id="GLN" tvg-name="GLOBO NEWS 4K" tvg-logo="https://logo.m3uassets.com/globonews.png" group-title="Canais | 4K",GLOBO NEWS 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZl9vdgA-bjpj5lTv23DFqhipqNZ8ugtQ0hGl0s_rtDxq/ts
+#EXTINF:-1 xui-id="3433764" tvg-id="globorj.br" tvg-name="GLOBO RJ 4K" tvg-logo="https://logo.m3uassets.com/globorj.png" group-title="Canais | 4K",GLOBO RJ 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZp-DHuYB1KmtBpJyxJW4sErQY76Ix6FhoinBuQWukGmz/ts
+#EXTINF:-1 xui-id="3433763" tvg-id="globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="https://logo.m3uassets.com/globosp.png" group-title="Canais | 4K",GLOBO SP 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtakL1BGdFt4H4hE3F2Q4DQ7AO8VGNjSKeIKFxpQLbMf/ts
+#EXTINF:-1 xui-id="3433762" tvg-id="GNT" tvg-name="GNT 4K" tvg-logo="https://logo.m3uassets.com/gnt.png" group-title="Canais | 4K",GNT 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrR6Z7Y2BaY2ytMiKenlxmfEGPkXO8o8_EQVLWqlzMnO/ts
+#EXTINF:-1 xui-id="3433761" tvg-id="HBOCHIL" tvg-name="HBO 4K" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Canais | 4K",HBO 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZs3cwYXGkn1ShEHViJhXRa33JO3O41I6vUXZyqWOSvo1/ts
+#EXTINF:-1 xui-id="3433773" tvg-id="HCLCHD" tvg-name="HISTORY 4K" tvg-logo="https://logo.m3uassets.com/history.png" group-title="Canais | 4K",HISTORY 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZh0q2itUCXV5HnowgU5JRdV8pjSdRUa0rjlGok1XkdzE/ts
+#EXTINF:-1 xui-id="3433760" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://logo.m3uassets.com/jovempannews.png" group-title="Canais | 4K",JOVEM PAN NEWS 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqU4QkIMag8xRuK_11L6rtJ5e13kIPojG-6wkh7_otpl/ts
+#EXTINF:-1 xui-id="3433759" tvg-id="MSW" tvg-name="MULTISHOW 4K" tvg-logo="https://logo.m3uassets.com/multishow.png" group-title="Canais | 4K",MULTISHOW 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZldK7j736HMWWz6j_Y94uLJuRi1F4NvdPBitz1CKyD4z/ts
+#EXTINF:-1 xui-id="3433758" tvg-id="PFCLSD" tvg-name="PREMIERE CLUBES 4K" tvg-logo="https://logo.m3uassets.com/premiereclubes.png" group-title="Canais | 4K",PREMIERE CLUBES 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlR1lYbS6IqS3MFDG8qKnNs0IxT_xLGPmjgMvoVe7Gvi/ts
+#EXTINF:-1 xui-id="3433779" tvg-id="Record RJ HD" tvg-name="RECORDTV RJ 4K" tvg-logo="https://logo.m3uassets.com/recordtv.png" group-title="Canais | 4K",RECORDTV RJ 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkGjnSdjayPTXDFosBh_vr0qkeea321xwI1fsIg5xSfd/ts
+#EXTINF:-1 xui-id="3433778" tvg-id="Recordsp.br" tvg-name="RECORDTV SP 4K" tvg-logo="https://logo.m3uassets.com/recordtv.png" group-title="Canais | 4K",RECORDTV SP 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZktkU5Pgt6qk53JozP7zoW1i_rcvlAibuSerRLaITCJK/ts
+#EXTINF:-1 xui-id="3433757" tvg-id="redetv.br" tvg-name="REDE TV! 4K" tvg-logo="https://logo.m3uassets.com/redetv.png" group-title="Canais | 4K",REDE TV! 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuRB8Csz47RnZO_KFpJg_HL4y-VeKAn2DmWQRfotNO-p/ts
+#EXTINF:-1 xui-id="3433782" tvg-id="" tvg-name="SBT RJ 4K" tvg-logo="https://logo.m3uassets.com/sbtrj.png" group-title="Canais | 4K",SBT RJ 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmmyefklAPKsjtyDGCzvcOcxvGKscDdEEB070dUD4Rjl/ts
+#EXTINF:-1 xui-id="3433756" tvg-id="sbtsp.br" tvg-name="SBT SP 4K" tvg-logo="https://logo.m3uassets.com/sbtsp.png" group-title="Canais | 4K",SBT SP 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhIGX7bWqRYRHxkBVz5v_Fa20ELCB7VVMF1SZnhWHS2M/ts
+#EXTINF:-1 xui-id="3433755" tvg-id="SPORTV" tvg-name="SPORTV 4K" tvg-logo="https://logo.m3uassets.com/sportv.png" group-title="Canais | 4K",SPORTV 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrIR5fS0AetyF2IhcYpiJVznTEJq7Vf0V9PFQEan8QCR/ts
+#EXTINF:-1 xui-id="3433754" tvg-id="TCA" tvg-name="TELECINE ACTION 4K" tvg-logo="https://logo.m3uassets.com/telecineaction.png" group-title="Canais | 4K",TELECINE ACTION 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZp5379xEF0lnlYqgN67fsx1kfEbAvSUPyQJzdJf0xfTo/ts
+#EXTINF:-1 xui-id="3433753" tvg-id="TCPIP" tvg-name="TELECINE PIPOCA 4K" tvg-logo="https://logo.m3uassets.com/telecinepipoca.png" group-title="Canais | 4K",TELECINE PIPOCA 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnHwKQTmqRmSrLDCmSWboEbPpV4CufoO_MXT0D1kiquB/ts
+#EXTINF:-1 xui-id="3433752" tvg-id="TCP" tvg-name="TELECINE PREMIUM 4K" tvg-logo="https://logo.m3uassets.com/telecinepremium.png" group-title="Canais | 4K",TELECINE PREMIUM 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZltLNhlPgDZPMkHZMiZa-eWHfZIdWI2JW7WkuhYLmPQK/ts
+#EXTINF:-1 xui-id="3433751" tvg-id="TNTLVHD" tvg-name="TNT 4K" tvg-logo="https://logo.m3uassets.com/tnt.png" group-title="Canais | 4K",TNT 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiBTROoyz6Dj6Pou-b8e81ad-MqjtFvx38fp3_hB9xwj/ts
+#EXTINF:-1 xui-id="3433750" tvg-id="TNTSERH" tvg-name="TNT SERIES 4K" tvg-logo="https://logo.m3uassets.com/tntseries.png" group-title="Canais | 4K",TNT SERIES 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgQTjF5j_mUb_m6v211bqKD1__JOV2XoVMcQLZ6wpPIx/ts
+#EXTINF:-1 xui-id="3433749" tvg-id="universal.br" tvg-name="UNIVERSAL 4K" tvg-logo="https://logo.m3uassets.com/universal.png" group-title="Canais | 4K",UNIVERSAL 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsJN8Rt5WRmM8qd1vGodziqZuNPEEquOGA5PzddP-khs/ts
+#EXTINF:-1 xui-id="3433748" tvg-id="VIVABR" tvg-name="VIVA 4K" tvg-logo="https://logo.m3uassets.com/viva.png" group-title="Canais | 4K",VIVA 4K
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgXBthNSDp6uC3vrrhmc_YPfkbjntWbN4DOYCAlslG7p/ts
+#EXTINF:-1 xui-id="3425009" tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Canais | Documentários",ANIMAL PLANET FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhjAPXZgtOAZPLu2HTmgsIGEjaisXKnnVJSbG6IEq8dP/ts
+#EXTINF:-1 xui-id="3425010" tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Canais | Documentários",ANIMAL PLANET HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZh2BoBlS3riPDnm6ZH6xYtl6legrO28zpRP7wFeioC7Q/ts
+#EXTINF:-1 xui-id="3425011" tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Canais | Documentários",ANIMAL PLANET SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiC19AYt5BSOksgBOf1IpUtnh3wAoyAzNMumqZriXLgQ/ts
+#EXTINF:-1 xui-id="3425012" tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="Canais | Documentários",DISCOVERY CHANNEL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhlPCx01U3XKGD9GB84cQveynlqCK-dGdqKpKU7kEBHJ/ts
+#EXTINF:-1 xui-id="3425013" tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="Canais | Documentários",DISCOVERY CHANNEL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpH2V4mGQSwmEQNucl-y3Qsc7NkEuwU7XEVMSRpi0OhO/ts
+#EXTINF:-1 xui-id="3425014" tvg-id="discoverychannel.br" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="Canais | Documentários",DISCOVERY CHANNEL SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjmY9f44KQAONCi74gFVpDaRhO9HJ3hMVPpr4RU7NK8I/ts
+#EXTINF:-1 xui-id="3425015" tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Canais | Documentários",DISCOVERY H&H FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZl4MWwvytqxB2Y0OGbnpT08_8o-zJmQMNJcIQKv0epuL/ts
+#EXTINF:-1 xui-id="3425016" tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Canais | Documentários",DISCOVERY H&H HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZh6fB2GIZCTqi_5SDO3Mm8QZatyOkjO0X-_Icx-4oYNG/ts
+#EXTINF:-1 xui-id="3425017" tvg-id="Homehealth.br" tvg-name="DISCOVERY H&H SD" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Canais | Documentários",DISCOVERY H&H SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiDxWcRDPBk5FQaC4oQjzJxH8ScarwiD4CAM72eI6-B1/ts
+#EXTINF:-1 xui-id="3425018" tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Canais | Documentários",DISCOVERY SCIENCE FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZt_LvA5FfpHcIXf50KlYcep6jHyhPZmdoOZqPcB7OhHK/ts
+#EXTINF:-1 xui-id="3425019" tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Canais | Documentários",DISCOVERY SCIENCE HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv5ANtgrANW5KLm1PehHkDkUn8ypa8uVlujWwSKJkySs/ts
+#EXTINF:-1 xui-id="3425020" tvg-id="discoveryscience.br" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Canais | Documentários",DISCOVERY SCIENCE SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZseTMOl3NL9RQTxcwU0Vt6xUdTkamSaFyMBqfP9ATNqy/ts
+#EXTINF:-1 xui-id="3425021" tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://logo.m3uassets.com/discoverytheater.png" group-title="Canais | Documentários",DISCOVERY THEATER FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhyEZHFm0i1Wx3UIB3smAh4nbIkqNC-aqyCuYnsbSicz/ts
+#EXTINF:-1 xui-id="3425022" tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://logo.m3uassets.com/discoverytheater.png" group-title="Canais | Documentários",DISCOVERY THEATER HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZs49pkCIVMVsKD_XpYjJ7da4_ApyY1QhOq-NNkRp4RjL/ts
+#EXTINF:-1 xui-id="3425023" tvg-id="discoverytheater.br" tvg-name="DISCOVERY THEATER SD" tvg-logo="https://logo.m3uassets.com/discoverytheater.png" group-title="Canais | Documentários",DISCOVERY THEATER SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZq7wjRHaJoJ2egn3NO4taK_K-ql8ppcqxvHZ3MKchzGC/ts
+#EXTINF:-1 xui-id="3425024" tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://logo.m3uassets.com/discoveryturbo.png" group-title="Canais | Documentários",DISCOVERY TURBO FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZs9PKIy0bIksLMT-9irHMi8XuYEP27v25FjExdDlm391/ts
+#EXTINF:-1 xui-id="3425025" tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://logo.m3uassets.com/discoveryturbo.png" group-title="Canais | Documentários",DISCOVERY TURBO HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqUzEzQ_X5jj42wc-l12zjMx4BZ3B85p3O39Qg-fmXeH/ts
+#EXTINF:-1 xui-id="3425026" tvg-id="discoveryturbo.br" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://logo.m3uassets.com/discoveryturbo.png" group-title="Canais | Documentários",DISCOVERY TURBO SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhElLIZxN8DQpfWinxZmUbc064HTYtOmkFh6J8IwyZpG/ts
+#EXTINF:-1 xui-id="3425027" tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://logo.m3uassets.com/discoveryworld.png" group-title="Canais | Documentários",DISCOVERY WORLD FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZj-47Ic8MewzkZinTPz6Jr6Cu6g3GrvwkL4bM54EK94S/ts
+#EXTINF:-1 xui-id="3425028" tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://logo.m3uassets.com/discoveryworld.png" group-title="Canais | Documentários",DISCOVERY WORLD HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuk9CmRPea-Mx1vLkot3z4CZYhlhmXJ18s07uJXFrRT_/ts
+#EXTINF:-1 xui-id="3425029" tvg-id="discoveryworld.br" tvg-name="DISCOVERY WORLD SD" tvg-logo="https://logo.m3uassets.com/discoveryworld.png" group-title="Canais | Documentários",DISCOVERY WORLD SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnZJTXlVrQ99t2EWvKqPB9Q5pJOVdHor90JfwaP2PElm/ts
+#EXTINF:-1 xui-id="3425030" tvg-id="h2.br" tvg-name="H2 FHD" tvg-logo="https://logo.m3uassets.com/h2.png" group-title="Canais | Documentários",H2 FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZm55cbA6GhlYhSdyRGpJ1VT5825GdxSHZK36PfkzlqzG/ts
+#EXTINF:-1 xui-id="3425031" tvg-id="h2.br" tvg-name="H2 HD" tvg-logo="https://logo.m3uassets.com/h2.png" group-title="Canais | Documentários",H2 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuMgAcWDFovc2lIp7GtEoDWe00LbP1CL7rfINtAXNWM9/ts
+#EXTINF:-1 xui-id="3425032" tvg-id="h2.br" tvg-name="H2 SD" tvg-logo="https://logo.m3uassets.com/h2.png" group-title="Canais | Documentários",H2 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvF-g29k_wfltFOR1Hd5Ue8Nj1WGMIEEMzrfbNt4T3Vk/ts
+#EXTINF:-1 xui-id="3425033" tvg-id="hgtv.br" tvg-name="HGTV FHD" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="Canais | Documentários",HGTV FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZh_fFTNswZ68a-AWEjouxPMpx02YsT1VLuKH93BntIci/ts
+#EXTINF:-1 xui-id="3425034" tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="Canais | Documentários",HGTV HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgDX5IpdRem3SowgvD78-cRh94xT4IbpZUAyor9lj5Sh/ts
+#EXTINF:-1 xui-id="3425035" tvg-id="hgtv.br" tvg-name="HGTV SD" tvg-logo="https://logo.m3uassets.com/hgtv.png" group-title="Canais | Documentários",HGTV SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsdYyCfpxr1JSMZZa1FDDF28ki9mN3XXmabMhul1Sb2Q/ts
+#EXTINF:-1 xui-id="3425036" tvg-id="historychannel.br" tvg-name="HISTORY FHD" tvg-logo="https://logo.m3uassets.com/history.png" group-title="Canais | Documentários",HISTORY FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZj-tZMCp_BNfA7vzyBsnYpREEcUOaaU8Em2u28VXHLq1/ts
+#EXTINF:-1 xui-id="3425037" tvg-id="historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://logo.m3uassets.com/history.png" group-title="Canais | Documentários",HISTORY HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpEjFDUdgwMVnTu2kbFBUpWtRKmO9UHJVpAgca7l4El-/ts
+#EXTINF:-1 xui-id="3425038" tvg-id="historychannel.br" tvg-name="HISTORY SD" tvg-logo="https://logo.m3uassets.com/history.png" group-title="Canais | Documentários",HISTORY SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZve7ZZzL1fsKtfRgNhLUao0nLy1CYK0LnZ9jdRO-_D1N/ts
+#EXTINF:-1 xui-id="3425039" tvg-id="" tvg-name="INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="https://i.imgur.com/jptZK3V.png" group-title="Canais | Documentários",INVESTIGAÇÃO DISCOVERY FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvR9eSKC7eT7cdLceQsNm0MrlJkT_M9ihJ1kmYbypDyL/ts
+#EXTINF:-1 xui-id="3425040" tvg-id="" tvg-name="INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://i.imgur.com/jptZK3V.png" group-title="Canais | Documentários",INVESTIGAÇÃO DISCOVERY HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZk3c1j7lE7WPs2vAiu9FirH3F0uTU34EM-ypJZysAkJg/ts
+#EXTINF:-1 xui-id="3425041" tvg-id="" tvg-name="INVESTIGAÇÃO DISCOVERY SD" tvg-logo="https://i.imgur.com/jptZK3V.png" group-title="Canais | Documentários",INVESTIGAÇÃO DISCOVERY SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZht-kz3b3bTiq7CNU2CWNYLNB7kZ9k5uIOhIBSOga_aw/ts
+#EXTINF:-1 xui-id="3425042" tvg-id="tlc.br" tvg-name="TLC FHD" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Canais | Documentários",TLC FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjXkpsCKPA3tOJin2Q4Y1Bkmf23FCibhMxpmT-N3Qo_a/ts
+#EXTINF:-1 xui-id="3425043" tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Canais | Documentários",TLC HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpI9trLeOWldWY1M2mI_zW3MoRzf_4QSNRwhq2ZHZzzA/ts
+#EXTINF:-1 xui-id="3425044" tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Canais | Documentários",TLC SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv6988crtp04qp0QAdgePV6StCI6IPHVYvrV-hZr_B8k/ts
+#EXTINF:-1 xui-id="3424967" tvg-id="" tvg-name="APPLE TV 1" tvg-logo="https://logo.m3uassets.com/appletv1.png" group-title="Canais | Apple Tv",APPLE TV 1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhmvz7qD76Genb86rXyXwJlcFdxPg67aMZskualpholn/ts
+#EXTINF:-1 xui-id="3424968" tvg-id="" tvg-name="APPLE TV 2" tvg-logo="https://logo.m3uassets.com/appletv1.png" group-title="Canais | Apple Tv",APPLE TV 2
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZu1hJL_9kNZRqZkcaxkIU5V0u_u43fFv950EJkD5_Be1/ts
+#EXTINF:-1 xui-id="3424893" tvg-id="" tvg-name="AREA RESTRITA AEROPORTO" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",AREA RESTRITA AEROPORTO
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhKGMa78lUBIy_UdcEh09qeeiyz8cLKIWSvVxbr3Tqmh/ts
+#EXTINF:-1 xui-id="3424894" tvg-id="" tvg-name="AS PANTERAS" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",AS PANTERAS
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmtpbLFMBDU8dbSY_ffjLUw0cAIowqH3be-baORDRrSk/ts
+#EXTINF:-1 xui-id="3424895" tvg-id="" tvg-name="CSI MIAMI" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",CSI MIAMI
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZunQOycNHA8YFon4jwEPiULx2DpOtbsiaoCJ3EZHdn0y/ts
+#EXTINF:-1 xui-id="3424915" tvg-id="" tvg-name="DEBY E LOIDE" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",DEBY E LOIDE
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZs0eqmMCcTZhkZah5XHihngYRDPJaSuYEH2Z8b8_A9mf/ts
+#EXTINF:-1 xui-id="3424896" tvg-id="" tvg-name="DOIS HOMENS E MEIO" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",DOIS HOMENS E MEIO
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtC_bvb05vGHV29b7s_IXZkl0o7z0ZXVPowk17YybXXf/ts
+#EXTINF:-1 xui-id="3424897" tvg-id="" tvg-name="ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",ESCOLINHA DO PROFESSOR RAIMUNDO
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZimuGL8yBoW1JQyVBCsbMW5z7AdeB_QP5ocYNWq4tHeZ/ts
+#EXTINF:-1 xui-id="3424898" tvg-id="" tvg-name="EU A PATROA E AS CRIANÃ‡AS 01" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",EU A PATROA E AS CRIANÃ‡AS 01
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvFfUoV2WHu9vm1bOC8J_UHGUNFI-Pnb3EZZGCh6xIDi/ts
+#EXTINF:-1 xui-id="3424900" tvg-id="" tvg-name="EU A PATROA E AS CRIANÃ‡AS 02" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",EU A PATROA E AS CRIANÃ‡AS 02
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpozF3Kvc9ujAIiJCQdCgkcf-zx0mRVaQiFybvbDjk7s/ts
+#EXTINF:-1 xui-id="3424901" tvg-id="" tvg-name="EU A PATROA E AS CRIANÃ‡AS 03" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",EU A PATROA E AS CRIANÃ‡AS 03
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZr_p5gffYKx3fGbUpXGNg_Cqcu1FDJ1ZmKdN8kOPDL1I/ts
+#EXTINF:-1 xui-id="3424899" tvg-id="" tvg-name="EU A PATROA E AS CRIANÃ‡AS 04" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",EU A PATROA E AS CRIANÃ‡AS 04
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqO9ukpOi7HgdoBChJO4Pe1ZvhM7M1D0OnAzfJCBJj6f/ts
+#EXTINF:-1 xui-id="3424902" tvg-id="" tvg-name="FAMILIA DINOSSAUROS" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",FAMILIA DINOSSAUROS
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZobM5n899Vgt3qa71SkTqoL2cs72JGSi-dbfXDtbAoFq/ts
+#EXTINF:-1 xui-id="3424916" tvg-id="" tvg-name="FLASH GORDON" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",FLASH GORDON
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmjdZmyMvt-fCiyhxaIlHQtgIYAOTqM80j7F6d_pnzg1/ts
+#EXTINF:-1 xui-id="3424903" tvg-id="" tvg-name="FRIENDS TP4" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",FRIENDS TP4
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrTepBaYyY8FJsL2uxqApVYXHeX8O3bI-iq2uomxRr0X/ts
+#EXTINF:-1 xui-id="3424904" tvg-id="" tvg-name="N-CQC" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",N-CQC
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZg6p29-cNOtjud6UCpl_khrHJI7xMTLbDonUqFanWZoS/ts
+#EXTINF:-1 xui-id="3424905" tvg-id="" tvg-name="N-PANICO REI DROGADO" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",N-PANICO REI DROGADO
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiswpJSW23r9gv5w5qrKFSjzU_gDp2PtH0gRnQKZS_Jt/ts
+#EXTINF:-1 xui-id="3424906" tvg-id="" tvg-name="N-PROGRAMA LIVRE" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",N-PROGRAMA LIVRE
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqcSQ2nje0ZULYO80BMYHHzrM8uv3vE5FxmHlhaWsMmU/ts
+#EXTINF:-1 xui-id="3424907" tvg-id="" tvg-name="N-RETRATO FALADO" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",N-RETRATO FALADO
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvXS_-UhWiUfv8sVYtzZihGfsDPXw0P9qzQcDrEAXnsv/ts
+#EXTINF:-1 xui-id="3424908" tvg-id="" tvg-name="N-TVCRUJ" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",N-TVCRUJ
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmt95p1Efi1SPzIp5ixOu-r3D3-ecMsRn4OCtw747698/ts
+#EXTINF:-1 xui-id="3424909" tvg-id="" tvg-name="OS NORMAIS" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",OS NORMAIS
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpzNtyR8oRYjqfYwYd_I_lmxcXfORPKJc10mp1Ox-AUB/ts
+#EXTINF:-1 xui-id="3424910" tvg-id="" tvg-name="POLICIA 24H 02" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",POLICIA 24H 02
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZliIRnORQoGAIhM_axm4ueU_Z2JCzQsnkl0s21VY6BEL/ts
+#EXTINF:-1 xui-id="3424911" tvg-id="" tvg-name="POLICIA 24H 04" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",POLICIA 24H 04
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjy5lXXqB3hg3oXNUtG4qD8cl5FCpgKrKIm_xK-eyh1U/ts
+#EXTINF:-1 xui-id="3424912" tvg-id="" tvg-name="TODO MUNDO ODEIA O CHRIS TP2" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",TODO MUNDO ODEIA O CHRIS TP2
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnuXOsV9qcS7AfkCyJir0nRu81x0ZfTa6iRbKKpl91EL/ts
+#EXTINF:-1 xui-id="3424913" tvg-id="" tvg-name="UM MALUCO NO PEDAÃ‡O" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",UM MALUCO NO PEDAÃ‡O
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZul979TTN_k9ggTe8oGaHX3o6yVsVa6lIb9MD9Zw9Fn3/ts
+#EXTINF:-1 xui-id="3424914" tvg-id="" tvg-name="X-MEN" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Seriados",X-MEN
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjUmeeTJHvklCOx14Hhb0zJj-Q8cqaOYIstFoo4Yre4-/ts
+#EXTINF:-1 xui-id="3425551" tvg-id="arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://logo.m3uassets.com/arte1.png" group-title="Canais | Variedades",ARTE 1 FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvlCCeRcurcHw_uIXbHRFkEvEqIxvPMPyv69M2my8gOS/ts
+#EXTINF:-1 xui-id="3425552" tvg-id="arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://logo.m3uassets.com/arte1.png" group-title="Canais | Variedades",ARTE 1 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgQEB3jNFXiIfxhiccR5mxYI8PHPgABvjtylBDhY3mel/ts
+#EXTINF:-1 xui-id="3425553" tvg-id="Bis.br" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/2goF1Mk.png" group-title="Canais | Variedades",BIS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiorUH52mHXARk2wDjXQtswr5iFnYnRisPCO-NciY-ba/ts
+#EXTINF:-1 xui-id="3425554" tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/2goF1Mk.png" group-title="Canais | Variedades",BIS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjlbTp1QGIWcQvkTWTFxR9hSFoJ5BZBMzk-Ydt0YO1T7/ts
+#EXTINF:-1 xui-id="3425555" tvg-id="Bis.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/2goF1Mk.png" group-title="Canais | Variedades",BIS SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuSBfY1w9Gxy2fBP1CkVnvV1xxaIU7AEbPOupMLd4Dq0/ts
+#EXTINF:-1 xui-id="3425556" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="Canais | Variedades",COMEDY CENTRAL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsPi8u_kQx3VQtxjdRZ4wTTJj1PD7FdVWmAc82hx-nzj/ts
+#EXTINF:-1 xui-id="3425557" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="Canais | Variedades",COMEDY CENTRAL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoGqam0SNpH3br89WQbkqOvIAcX26qG-UGdLV_hk5_WT/ts
+#EXTINF:-1 xui-id="3425558" tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="Canais | Variedades",COMEDY CENTRAL SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZln5LWYrf2s0buGI3n66KEgco0k8k0rO8StSHnmXwmsC/ts
+#EXTINF:-1 xui-id="3425559" tvg-id="curta.br" tvg-name="CURTA! FHD" tvg-logo="https://logo.m3uassets.com/curta.png" group-title="Canais | Variedades",CURTA! FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvQ02SnGT1aoOrqYevx6gF-Xgf_oOXFda2pDHtlsmj6V/ts
+#EXTINF:-1 xui-id="3425560" tvg-id="curta.br" tvg-name="CURTA! HD" tvg-logo="https://logo.m3uassets.com/curta.png" group-title="Canais | Variedades",CURTA! HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqOYnRbinw8rqePZaNNk6ltt7qJJyeg938l21YQ7F0nU/ts
+#EXTINF:-1 xui-id="3425561" tvg-id="curta.br" tvg-name="CURTA! SD" tvg-logo="https://logo.m3uassets.com/curta.png" group-title="Canais | Variedades",CURTA! SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZglAGREO4BCw3ccAdn-iW9KCqSmSiwOStC9zsre5cP7B/ts
+#EXTINF:-1 xui-id="3425562" tvg-id="E! Entertainment Television SD" tvg-name="E! FHD" tvg-logo="https://logo.m3uassets.com/e.png" group-title="Canais | Variedades",E! FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmZVpiR2PkQXCViACdrsb2nWzXG6sOOJIC7d4jeMThxo/ts
+#EXTINF:-1 xui-id="3425563" tvg-id="E! Entertainment Television SD" tvg-name="E! HD" tvg-logo="https://logo.m3uassets.com/e.png" group-title="Canais | Variedades",E! HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqvy_URwAAPkORMzifBxSgxtfgXFSZ8RCnpsJH3cgQDU/ts
+#EXTINF:-1 xui-id="3425564" tvg-id="E! Entertainment Television SD" tvg-name="E! SD" tvg-logo="https://logo.m3uassets.com/e.png" group-title="Canais | Variedades",E! SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrh8VyGPjA0nu66rOxyuGYdD9I1HtoHZmS7KKdhBTHVh/ts
+#EXTINF:-1 xui-id="3425565" tvg-id="fashiontv.br" tvg-name="FASHION TV FHD" tvg-logo="https://logo.m3uassets.com/fashiontv.png" group-title="Canais | Variedades",FASHION TV FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnkQ-qWKbOIh7IOXI-r0U_PLv-tplZrXJ2C76_mvxcTt/ts
+#EXTINF:-1 xui-id="3425566" tvg-id="fashiontv.br" tvg-name="FASHION TV HD" tvg-logo="https://logo.m3uassets.com/fashiontv.png" group-title="Canais | Variedades",FASHION TV HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZs5LzEJe9I7wsVblyUksX_3W8mYwsUFQ3ZrGL-kTqG1X/ts
+#EXTINF:-1 xui-id="3425567" tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK FHD" tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="Canais | Variedades",FOOD NETWORK FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtcCmgCw6ZG2cyBDEvVLux697VLApd7Jin7k_BytLu2_/ts
+#EXTINF:-1 xui-id="3425568" tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK HD" tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="Canais | Variedades",FOOD NETWORK HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjtTDcwv7ls9Cf8bIJiuIhxPuRfnfWIq0uPXKkcRgEwT/ts
+#EXTINF:-1 xui-id="3425569" tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK SD" tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="Canais | Variedades",FOOD NETWORK SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlwtGwMu_ssv9PxLMTM6U5QSzbJVM8pBR5_GWEEImaeZ/ts
+#EXTINF:-1 xui-id="3425570" tvg-id="gnt.br" tvg-name="GNT FHD" tvg-logo="https://logo.m3uassets.com/gnt.png" group-title="Canais | Variedades",GNT FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnjTSdWj1YPJ8_jqhYQ4MKpcFmz0tUqhmQddcAl_iGsW/ts
+#EXTINF:-1 xui-id="3425571" tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="https://logo.m3uassets.com/gnt.png" group-title="Canais | Variedades",GNT HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZombS32PtwSozPPkq2XYi6VvJ6II4Wzne5XKcXiwO8Pw/ts
+#EXTINF:-1 xui-id="3425572" tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="https://logo.m3uassets.com/gnt.png" group-title="Canais | Variedades",GNT SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuwTCuWIZOT9rttQtbdtgF4rnQ0R2zYBXBRnTf3YJagB/ts
+#EXTINF:-1 xui-id="3425573" tvg-id="lifetime.br" tvg-name="LIFETIME FHD" tvg-logo="https://logo.m3uassets.com/lifetime.png" group-title="Canais | Variedades",LIFETIME FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgsX_IMu3uJVukqiO83KCbcyyGEZR1twBUp4Qmf9XwVZ/ts
+#EXTINF:-1 xui-id="3425574" tvg-id="lifetime.br" tvg-name="LIFETIME HD" tvg-logo="https://logo.m3uassets.com/lifetime.png" group-title="Canais | Variedades",LIFETIME HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiyQNN2EckGjgqelGsn-6v_cW3bf5zwMH_C4rQyP2bL6/ts
+#EXTINF:-1 xui-id="3425575" tvg-id="lifetime.br" tvg-name="LIFETIME SD" tvg-logo="https://logo.m3uassets.com/lifetime.png" group-title="Canais | Variedades",LIFETIME SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkBPYyDe6nkPRwN9tDs39qDuB1HKhjGcJ9m905pzyPJ9/ts
+#EXTINF:-1 xui-id="3425576" tvg-id="" tvg-name="MODO VIAGEM FHD" tvg-logo="https://logo.m3uassets.com/modoviagem.png" group-title="Canais | Variedades",MODO VIAGEM FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhgeNjP4eVrKZE2akcyqSNobfHD5asU0RcRvyEwHcZH5/ts
+#EXTINF:-1 xui-id="3425577" tvg-id="" tvg-name="MODO VIAGEM HD" tvg-logo="https://logo.m3uassets.com/modoviagem.png" group-title="Canais | Variedades",MODO VIAGEM HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoLNTZ0HINexN8prZ3dQc_yGL4kZbjB87gUjHDcT3_nP/ts
+#EXTINF:-1 xui-id="3425578" tvg-id="" tvg-name="MODO VIAGEM SD" tvg-logo="https://logo.m3uassets.com/modoviagem.png" group-title="Canais | Variedades",MODO VIAGEM SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgo4kFM2_fC1vSycoUyP-CFZYT2veipdRA0q0v-YVbi2/ts
+#EXTINF:-1 xui-id="3425579" tvg-id="a&e.br" tvg-name="MTV 00s HD" tvg-logo="https://logo.m3uassets.com/mtv00s.png" group-title="Canais | Variedades",MTV 00s HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnpwp_hYIHQzOA4vsZTE1USSnCUI4aJATKlmlowMZ8xK/ts
+#EXTINF:-1 xui-id="3425580" tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Canais | Variedades",MTV FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZt5hyooYthsU51pi6vn94c9U1m0k3DFQYq_IlGm1MsNE/ts
+#EXTINF:-1 xui-id="3425581" tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Canais | Variedades",MTV HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZu9Q2MldB5jc6VIOS6cahLINMSWyLskjmWDr5MpgiTDK/ts
+#EXTINF:-1 xui-id="3425582" tvg-id="mtvlive.br" tvg-name="MTV LIVE FHD" tvg-logo="https://logo.m3uassets.com/mtvlive.png" group-title="Canais | Variedades",MTV LIVE FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlb-nSArl9iMb3cpKITvlF9RTtFgLPALWVPyQ1gB0Qoi/ts
+#EXTINF:-1 xui-id="3425583" tvg-id="mtvlive.br" tvg-name="MTV LIVE HD" tvg-logo="https://logo.m3uassets.com/mtvlive.png" group-title="Canais | Variedades",MTV LIVE HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjGGLs3AuBCNAcncmUxczi6Z8YpdnR3Re0pCrK3jGRoS/ts
+#EXTINF:-1 xui-id="3425584" tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Canais | Variedades",MTV SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlklmYnF8n8fr0lGTpODdym24owmFant0v_wqx6_oIKT/ts
+#EXTINF:-1 xui-id="3425585" tvg-id="" tvg-name="MTV'S 00 SD" tvg-logo="https://logo.m3uassets.com/mtvs.png" group-title="Canais | Variedades",MTV'S 00 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrpBjrJxL65q3R8pMWNDp-Lz807GHz4KAxZSk7U3YwIL/ts
+#EXTINF:-1 xui-id="3425586" tvg-id="multishow.br" tvg-name="MULTISHOW FHD" tvg-logo="https://logo.m3uassets.com/multishow.png" group-title="Canais | Variedades",MULTISHOW FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrN3F0o4lJi5vuEe86h47fwKCClh_9GNImgyNLqckm7O/ts
+#EXTINF:-1 xui-id="3425587" tvg-id="multishow.br" tvg-name="MULTISHOW HD" tvg-logo="https://logo.m3uassets.com/multishow.png" group-title="Canais | Variedades",MULTISHOW HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZg7zPszXD6Ln-efVflXDAfbSbHEOF4HsHyzRELq1gvwM/ts
+#EXTINF:-1 xui-id="3425588" tvg-id="multishow.br" tvg-name="MULTISHOW SD" tvg-logo="https://logo.m3uassets.com/multishow.png" group-title="Canais | Variedades",MULTISHOW SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmLfJTm6Adwk0-jnqrnckp5HRj3khEkd_w9aB32rNMc8/ts
+#EXTINF:-1 xui-id="3425589" tvg-id="musicboxbrasil.br" tvg-name="MUSIC BOX BRASIL FHD" tvg-logo="https://logo.m3uassets.com/musicboxbrasil.png" group-title="Canais | Variedades",MUSIC BOX BRASIL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsdv8ucW7OEi5pLkkikDnIDA2YOopWEDdsx42wfrlxd9/ts
+#EXTINF:-1 xui-id="3425590" tvg-id="musicboxbrasil.br" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://logo.m3uassets.com/musicbox.png" group-title="Canais | Variedades",MUSIC BOX BRAZIL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhKisLoHzKaJk69WyQJtlQYBmsGzp-mLj7580AH-EmoG/ts
+#EXTINF:-1 xui-id="3425591" tvg-id="off.br" tvg-name="OFF FHD" tvg-logo="https://logo.m3uassets.com/off.png" group-title="Canais | Variedades",OFF FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhENRqNQCKPLH83AbZT2PmVWutRP7Up84z56BhzMfSD9/ts
+#EXTINF:-1 xui-id="3425592" tvg-id="off.br" tvg-name="OFF HD" tvg-logo="https://logo.m3uassets.com/off.png" group-title="Canais | Variedades",OFF HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZugXNiJpSxsbSv6yeR9DVvWXS67gCQvUDJ7Cqc_pPjrv/ts
+#EXTINF:-1 xui-id="3425593" tvg-id="off.br" tvg-name="OFF SD" tvg-logo="https://logo.m3uassets.com/off.png" group-title="Canais | Variedades",OFF SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkjkhA4RXWlyUSD_lKGlDD2uNXRRFohbUmvsQh_U4Tbp/ts
+#EXTINF:-1 xui-id="3425594" tvg-id="playtv.br" tvg-name="PLAY TV HD" tvg-logo="https://logo.m3uassets.com/playtv.png" group-title="Canais | Variedades",PLAY TV HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsxKtMZo3EnEwngQU_G61mjSKjfwLG3kxf63txjOogYX/ts
+#EXTINF:-1 xui-id="3425595" tvg-id="shoptime.br" tvg-name="POLISHOP FHD" tvg-logo="https://logo.m3uassets.com/polishop.png" group-title="Canais | Variedades",POLISHOP FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrUgEBsDl9oHHrkZ-e7ikm0F2afoHQ0IR1XCf6ZhKMur/ts
+#EXTINF:-1 xui-id="3425596" tvg-id="shoptime.br" tvg-name="POLISHOP HD" tvg-logo="https://logo.m3uassets.com/polishop.png" group-title="Canais | Variedades",POLISHOP HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnU-4640LRqXVQncwTlgnulvBwPp3WbVuIh2juRakG3X/ts
+#EXTINF:-1 xui-id="3425597" tvg-id="" tvg-name="POLISHOP TV HD" tvg-logo="https://logo.m3uassets.com/tvpolishop.png" group-title="Canais | Variedades",POLISHOP TV HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrobyv2w5iM_0lfCOYx3v7iuhUXg7dXENmdEy0GAoYQD/ts
+#EXTINF:-1 xui-id="3425598" tvg-id="sabor&arte.br" tvg-name="SABOR & ARTE HD" tvg-logo="https://logo.m3uassets.com/saborandarte.png" group-title="Canais | Variedades",SABOR & ARTE HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuQGcsaTZ7eI_zqhboih-JlAjjPGQJ3O_nUz-9LQ-u4b/ts
+#EXTINF:-1 xui-id="3425599" tvg-id="sabor&arte.br" tvg-name="SABOR & ARTE SD" tvg-logo="https://logo.m3uassets.com/saborandarte.png" group-title="Canais | Variedades",SABOR & ARTE SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsRFpbcfU9p_rtvFPUv2KTZOwXJRgFY0ZJ6ZoVdbL-wq/ts
+#EXTINF:-1 xui-id="3425600" tvg-id="terraviva.br" tvg-name="TERRA VIVA FHD" tvg-logo="https://logo.m3uassets.com/terraviva.png" group-title="Canais | Variedades",TERRA VIVA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuA54se-F_LsLRNCa_X6WnFZT3vWXgNbnH2IHOM05boj/ts
+#EXTINF:-1 xui-id="3425601" tvg-id="terraviva.br" tvg-name="TERRA VIVA HD" tvg-logo="https://logo.m3uassets.com/terraviva.png" group-title="Canais | Variedades",TERRA VIVA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZktXd7-8o_exY6Opq2in8u5GlryobrLxqOldWt70Tzts/ts
+#EXTINF:-1 xui-id="3425602" tvg-id="" tvg-name="TNT NOVELAS FHD" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-title="Canais | Variedades",TNT NOVELAS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZq2tVv6a3RtnXHPVKjwKhrtypETHyNDhL-jSL2pmwKZu/ts
+#EXTINF:-1 xui-id="3425603" tvg-id="" tvg-name="TNT NOVELAS HD" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-title="Canais | Variedades",TNT NOVELAS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsUwxt89Hmx2AFWFm7S6eHyKZ-MLzgoj0ZmZH3Ls_VXO/ts
+#EXTINF:-1 xui-id="3425604" tvg-id="" tvg-name="TNT NOVELAS SD" tvg-logo="https://logo.m3uassets.com/tntnovelas.png" group-title="Canais | Variedades",TNT NOVELAS SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnSF_wP2lVYtKV9TIffPe_X-S_qDpIiJn61TGUrCGJYj/ts
+#EXTINF:-1 xui-id="3425605" tvg-id="travelbox.br" tvg-name="TRAVEL BOX BRASIL HD" tvg-logo="https://logo.m3uassets.com/travelboxbrazil.png" group-title="Canais | Variedades",TRAVEL BOX BRASIL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsVaQb1Qyz9cwoONHliveFqaU76JijQII9-LfHSuSOdP/ts
+#EXTINF:-1 xui-id="3425606" tvg-id="travelbox.br" tvg-name="TRAVEL BOX BRAZIL FHD" tvg-logo="https://logo.m3uassets.com/travelbox.png" group-title="Canais | Variedades",TRAVEL BOX BRAZIL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsfhiedaL3AXk6h2j-d67Sd0oWH-oavffGgvFaaKu1kv/ts
+#EXTINF:-1 xui-id="3425607" tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="https://logo.m3uassets.com/viva.png" group-title="Canais | Variedades",VIVA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpFbH2kprh1vaTWxKtGtHDMTYVkLel7V3iuSG5JGZVx1/ts
+#EXTINF:-1 xui-id="3425608" tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="https://logo.m3uassets.com/viva.png" group-title="Canais | Variedades",VIVA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZolF0OoW320AlH1NteJv1SSrIozLh_E6BuJ_wIx0miDO/ts
+#EXTINF:-1 xui-id="3425610" tvg-id="viva.br" tvg-name="VIVA SD" tvg-logo="https://logo.m3uassets.com/viva.png" group-title="Canais | Variedades",VIVA SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmav3I8H8ZqfGG098r8EVju3aaxyExzHR9CGE9k0aSZR/ts
+#EXTINF:-1 xui-id="3425611" tvg-id="woohoo.br" tvg-name="WOOHOO FHD" tvg-logo="https://logo.m3uassets.com/woohoo.png" group-title="Canais | Variedades",WOOHOO FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtoJvNB0c-BIDFah2qeDb6qIeQeOBnLOoB-VDQbhTglv/ts
+#EXTINF:-1 xui-id="3425612" tvg-id="woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://logo.m3uassets.com/woohoo.png" group-title="Canais | Variedades",WOOHOO HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkKqcNc0KfDuY_pVsjPuKNIPji_A6pQlSIOabEID4uud/ts
+#EXTINF:-1 xui-id="3425613" tvg-id="woohoo.br" tvg-name="WOOHOO SD" tvg-logo="https://logo.m3uassets.com/woohoo.png" group-title="Canais | Variedades",WOOHOO SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrqVSirrI-kJPv1AOrnroOqKxnFviNi1qxHld2DPozYZ/ts
+#EXTINF:-1 xui-id="3424981" tvg-id="band.br" tvg-name="BAND AMAZONAS HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND AMAZONAS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgfrjnxKGVEm7EH5ItUa_DX1yYkOEm8NgASoB3mp4b8b/ts
+#EXTINF:-1 xui-id="3425425" tvg-id="tvarapuan.br" tvg-name="BAND ARAPUAN HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND ARAPUAN HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZm_RY0TzTKkZkcqllo1eLPtGsP45lyFKvUnXqLp2NVTw/ts
+#EXTINF:-1 xui-id="3424970" tvg-id="bandbahia.br" tvg-name="BAND BAHIA HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND BAHIA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZm_UknKtLrSb24_BU8RVJZKHEL_1lG9AiofQyzyZq7Lz/ts
+#EXTINF:-1 xui-id="3424971" tvg-id="" tvg-name="BAND BRASILIA HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND BRASILIA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZg6FPUJHzi_WIAz0SlXwmw-t6lXXyzZDlry6_n1Xno-V/ts
+#EXTINF:-1 xui-id="3424972" tvg-id="bandcampinas.br" tvg-name="BAND CAMPINAS HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND CAMPINAS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuTh8iP8KPhsqan6QQ7_y8mVttBbZNryH9OiFuYMRGtg/ts
+#EXTINF:-1 xui-id="3424973" tvg-id="" tvg-name="BAND CEARA HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND CEARA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZji_EFwrfW47ACDou4uC-ECKcTc5ufo61nVor2Lj4os8/ts
+#EXTINF:-1 xui-id="3424975" tvg-id="bandminas.br" tvg-name="BAND MINAS FHD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND MINAS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiubmRGx7O2hG9CiOt4jhWCXTAEMQtOecgyRtC-BINRw/ts
+#EXTINF:-1 xui-id="3424974" tvg-id="band.br" tvg-name="BAND NATAL HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND NATAL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoRsY4kaR4NrN4fkRk0WOEnGLC1GSufl3MGS3sSmB7oY/ts
+#EXTINF:-1 xui-id="3424976" tvg-id="band.br" tvg-name="BAND PR FHD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND PR FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZurSQkoug1wtjTeaiDLiXeLkaQm3ZFsUzx_9iUchdkqJ/ts
+#EXTINF:-1 xui-id="3424977" tvg-id="" tvg-name="BAND RECIFE FHD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND RECIFE FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgWERnFjovZ5HD6Y1ZJJCpTClimZJ3e6QKILjnjJ0Oo5/ts
+#EXTINF:-1 xui-id="3424978" tvg-id="bandrj.br" tvg-name="BAND RJ FHD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND RJ FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiiHZ56nNF-OGg-fjhF4hLyEsoYkm1e9YH5Kq5hRty2N/ts
+#EXTINF:-1 xui-id="3424979" tvg-id="bandrj.br" tvg-name="BAND RJ HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND RJ HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuBQEW4rzsBjK5Uj93FG_20bwRdxi9_CblHco1BHglVO/ts
+#EXTINF:-1 xui-id="3424980" tvg-id="bandrj.br" tvg-name="BAND RS HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND RS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpnY3kuyKr9z-Um3V_HdO0vk0BdkmUr9JzMhhkBg3Yof/ts
+#EXTINF:-1 xui-id="3424982" tvg-id="band.br" tvg-name="BAND SP FHD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND SP FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZikat2NLBEt_iBQnDFHbfLGak5WU9Q0c4upohPr_SLr4/ts
+#EXTINF:-1 xui-id="3424983" tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND SP HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZurdtOaPOKPlWG45OJE3ZPqKZGTKH1s0le8uWNeqkH4T/ts
+#EXTINF:-1 xui-id="3424984" tvg-id="band.br" tvg-name="BAND SP SD" tvg-logo="https://logo.m3uassets.com/bandcampinas.png" group-title="Canais | Band",BAND SP SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZh4ppl-i-ZJyOFYTrI7VEEZclWb6t0C1M3A_0qKHeA_A/ts
+#EXTINF:-1 xui-id="3425351" tvg-id="bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://logo.m3uassets.com/bandnews.png" group-title="Canais | Noticías",BAND NEWS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkHKz9v8V-lTYlrjVD1R6nz5LZ6WRnJgmbowkiRRPp-d/ts
+#EXTINF:-1 xui-id="3425352" tvg-id="bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://logo.m3uassets.com/bandnews.png" group-title="Canais | Noticías",BAND NEWS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhk9_yzyebuY61eF7srF_eH_2S2WwYwj0lqG0RH-k390/ts
+#EXTINF:-1 xui-id="3425353" tvg-id="bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://logo.m3uassets.com/bandnews.png" group-title="Canais | Noticías",BAND NEWS SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv7Lk-ZWEG8wXJhnjXvnljU0VStDrj-_Bry58zit9jrU/ts
+#EXTINF:-1 xui-id="3425354" tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://logo.m3uassets.com/cnnbrasil.png" group-title="Canais | Noticías",CNN BRASIL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmw9JKTq8x0vk9vyUkOeHQEqzXrhbwM1ptQqB7OjzmBW/ts
+#EXTINF:-1 xui-id="3425355" tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://logo.m3uassets.com/cnnbrasil.png" group-title="Canais | Noticías",CNN BRASIL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZn9a341dNWVUKG8Tg97BHJoARB_FvTxB3dja3ZDb5cnq/ts
+#EXTINF:-1 xui-id="3425356" tvg-id="cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://logo.m3uassets.com/cnnbrasil.png" group-title="Canais | Noticías",CNN BRASIL SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuk7tnSlHbAVc--RLlctL-wh8i2riWXi1wPIchAd0WQi/ts
+#EXTINF:-1 xui-id="3425357" tvg-id="a&e.br" tvg-name="CNN INTERNACIONAL FHD" tvg-logo="https://logo.m3uassets.com/cnninternacional.png" group-title="Canais | Noticías",CNN INTERNACIONAL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjcop_pLEkVnuJzAxA6zY6qgNEJRiof41R6ku3JOLwJJ/ts
+#EXTINF:-1 xui-id="3425358" tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="https://logo.m3uassets.com/cnninternacional.png" group-title="Canais | Noticías",CNN INTERNACIONAL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiLMfkma7llBLA7WnOoz_mIdRYLG69-gygAdx-GLYDg4/ts
+#EXTINF:-1 xui-id="3425359" tvg-id="" tvg-name="CNN INTERNATIONAL SD" tvg-logo="https://logo.m3uassets.com/cnninternational.png" group-title="Canais | Noticías",CNN INTERNATIONAL SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpxjOPwJt5eDMXnyzNqPLsX6btzgglKkSYFwX-_mc_mu/ts
+#EXTINF:-1 xui-id="3425360" tvg-id="globonews.br" tvg-name="GLOBO NEWS FHD" tvg-logo="https://logo.m3uassets.com/globonews.png" group-title="Canais | Noticías",GLOBO NEWS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuG4BbKiL-PwOiMV9zp5udVjQo5XlpDIEaDARWIA3zlK/ts
+#EXTINF:-1 xui-id="3425361" tvg-id="globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://logo.m3uassets.com/globonews.png" group-title="Canais | Noticías",GLOBO NEWS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhUPbdjsKagHcmWP-84o8sWMwT-JD6_cxWHUN2td8I8m/ts
+#EXTINF:-1 xui-id="3425362" tvg-id="globonews.br" tvg-name="GLOBO NEWS SD" tvg-logo="https://logo.m3uassets.com/globonews.png" group-title="Canais | Noticías",GLOBO NEWS SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhTgi2y7cquxrmj2mJO1XdnHlKIekn8jREfKahDRHmos/ts
+#EXTINF:-1 xui-id="3425363" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://logo.m3uassets.com/jovempannews.png" group-title="Canais | Noticías",JOVEM PAN NEWS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrW2F8lAilsrHHzBaiSrdPaCs5t7n8ywOeh0QRXKnGN0/ts
+#EXTINF:-1 xui-id="3425364" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://logo.m3uassets.com/jovempannews.png" group-title="Canais | Noticías",JOVEM PAN NEWS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuzxN743f2koZjQSA0t8AbfzPAkT_63bdWtyBC6KglmA/ts
+#EXTINF:-1 xui-id="3425365" tvg-id="jovempannews.br" tvg-name="JOVEM PAN NEWS SD" tvg-logo="https://logo.m3uassets.com/jovempannews.png" group-title="Canais | Noticías",JOVEM PAN NEWS SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvFfUBTsVdD9uc139qMiX32kPmX_uN5khCSiQSjysBI5/ts
+#EXTINF:-1 xui-id="3425366" tvg-id="nhk.br" tvg-name="NHK FHD" tvg-logo="https://logo.m3uassets.com/nhk.png" group-title="Canais | Noticías",NHK FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuAbyZo8-0Eow1_4wG3rN2XZYR64JUFRlO2RiO23mB9W/ts
+#EXTINF:-1 xui-id="3425367" tvg-id="nhk.br" tvg-name="NHK HD" tvg-logo="https://logo.m3uassets.com/nhk.png" group-title="Canais | Noticías",NHK HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZusOLnG6yqVwUNzWRJHKNAjqplh1KgWgZCbSb0v0P6y4/ts
+#EXTINF:-1 xui-id="3425368" tvg-id="nhk.br" tvg-name="NHK SD" tvg-logo="https://logo.m3uassets.com/nhk.png" group-title="Canais | Noticías",NHK SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlPPNmdIAv0WBLRmq-CsRPcXUEiFSJVuLUayNi9t6Rmb/ts
+#EXTINF:-1 xui-id="3425369" tvg-id="recordnews.br" tvg-name="RECORD NEWS FHD" tvg-logo="https://logo.m3uassets.com/recordnews.png" group-title="Canais | Noticías",RECORD NEWS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjBAJOMhUBPm20NLRAddryAMcVvpCgRscm0MPN9gDJ8W/ts
+#EXTINF:-1 xui-id="3425370" tvg-id="recordnews.br" tvg-name="RECORD NEWS HD" tvg-logo="https://logo.m3uassets.com/recordnews.png" group-title="Canais | Noticías",RECORD NEWS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvGiTc82gm_CacrwNIkgju7a-HsLdAo3bW-UyVw4aGjY/ts
+#EXTINF:-1 xui-id="3425371" tvg-id="recordnews.br" tvg-name="RECORD NEWS SD" tvg-logo="https://logo.m3uassets.com/recordnews.png" group-title="Canais | Noticías",RECORD NEWS SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjMgX8DbfwE74rAFIUHgSDxoAYBi6Nk2sSXYgv9HdOcY/ts
+#EXTINF:-1 xui-id="3425372" tvg-id="tvbrasil.br" tvg-name="TV BRASIL FHD" tvg-logo="https://logo.m3uassets.com/tvbrasil.png" group-title="Canais | Noticías",TV BRASIL FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjotGxhFui2tBn-rRv550fPJwipYhW3GnR83XI137gpY/ts
+#EXTINF:-1 xui-id="3425373" tvg-id="tvbrasil.br" tvg-name="TV BRASIL HD" tvg-logo="https://logo.m3uassets.com/tvbrasil.png" group-title="Canais | Noticías",TV BRASIL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZs1eTOsLJJ_qQX2MNh9VF1PzWAd-Yru_6yWqU3DmOQfc/ts
+#EXTINF:-1 xui-id="3424938" tvg-id="tvbrasil.br" tvg-name="TV BRASIL SD" tvg-logo="https://logo.m3uassets.com/tvbrasil.png" group-title="Canais | Noticías",TV BRASIL SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgovCcwIa7gw3H-yraXpvowSFMhF625ppq5Nv7SLlPcc/ts
+#EXTINF:-1 xui-id="3425374" tvg-id="" tvg-name="TV JUSTIÇA FHD" tvg-logo="https://i.imgur.com/4gcvBci.png" group-title="Canais | Noticías",TV JUSTIÇA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgbqTIk2D1daGFZwGT6IqD0kyUIme1JOaORVO_Cnmy_4/ts
+#EXTINF:-1 xui-id="3425375" tvg-id="" tvg-name="TV JUSTIÇA HD" tvg-logo="https://i.imgur.com/4gcvBci.png" group-title="Canais | Noticías",TV JUSTIÇA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjnPySBxEE4yTXfZITc0Wu8ZhI1WtnObIkaTzDMdzumD/ts
+#EXTINF:-1 xui-id="3425493" tvg-id="a&e.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://i.imgur.com/3GMxLid.png" group-title="Canais | Religiosos",CANÇÃO NOVA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgAz6-3v2bB2R5MXd2PQyY05pc18xI2Sdc32W6GEWIzY/ts
+#EXTINF:-1 xui-id="3425494" tvg-id="a&e.br" tvg-name="CANÇAO NOVA SD" tvg-logo="https://i.imgur.com/3GMxLid.png" group-title="Canais | Religiosos",CANÇAO NOVA SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZitMwvzKK7ESJ_vef-7tmSe1XE3mE-n4-zfQIod3km06/ts
+#EXTINF:-1 xui-id="3425495" tvg-id="" tvg-name="MI TV" tvg-logo="https://logo.m3uassets.com/mitv.png" group-title="Canais | Religiosos",MI TV
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZp1h1h_oYMc6i1QEdHoUtm7sq6HIR0Fc7ZKhPY5kcaA4/ts
+#EXTINF:-1 xui-id="3425496" tvg-id="redefamilia.br" tvg-name="REDE FAMILIA HD" tvg-logo="https://logo.m3uassets.com/redefamilia.png" group-title="Canais | Religiosos",REDE FAMILIA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgy9bO70IjUC_iJQ7nbdZv_H_PY4nsK1PzfACCbsh3ZR/ts
+#EXTINF:-1 xui-id="3425497" tvg-id="redegospel.br" tvg-name="REDE GOSPEL" tvg-logo="https://logo.m3uassets.com/redegospel.png" group-title="Canais | Religiosos",REDE GOSPEL
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpBsp-C8BuvSB_oEZlTwqoe2ae5TdpubdFidEbf-e9V_/ts
+#EXTINF:-1 xui-id="3425498" tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="https://logo.m3uassets.com/redegospel.png" group-title="Canais | Religiosos",REDE GOSPEL HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrnAZk7pyCLCgVqwoclau-84VwTTWqLhRIEyeBxXZFeO/ts
+#EXTINF:-1 xui-id="3425499" tvg-id="redesuper.br" tvg-name="REDE SUPER HD" tvg-logo="https://logo.m3uassets.com/redesuper.png" group-title="Canais | Religiosos",REDE SUPER HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkhkKiB--Fg86vShhU5bPDHiPMXyHyOvwVFH5N6zsrn5/ts
+#EXTINF:-1 xui-id="3425500" tvg-id="redevida.br" tvg-name="REDE VIDA HD" tvg-logo="https://logo.m3uassets.com/redevida.png" group-title="Canais | Religiosos",REDE VIDA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmIcN-rUPVdRbhe0XLKnJDUDONUJqV65IKEgeYUlteN_/ts
+#EXTINF:-1 xui-id="3425501" tvg-id="redevida.br" tvg-name="REDE VIDA SD" tvg-logo="https://logo.m3uassets.com/redevida.png" group-title="Canais | Religiosos",REDE VIDA SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjLaHwQvwtWDbyBQjp3GG9821bK6LVsR5lFJHmywVNeZ/ts
+#EXTINF:-1 xui-id="3425502" tvg-id="rittv.br" tvg-name="RIT TV HD" tvg-logo="https://logo.m3uassets.com/rittv.png" group-title="Canais | Religiosos",RIT TV HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZk3Lhrr-N4VZZkn9dSCZNIQBckpwEI_1lab9DUsXhy52/ts
+#EXTINF:-1 xui-id="3425503" tvg-id="" tvg-name="TV 24 HORAS" tvg-logo="https://logo.m3uassets.com/24horas.png" group-title="Canais | Religiosos",TV 24 HORAS
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZogu_wvoCqd_DWWZEwwr1U7OcOSW5e34fYFN2JJwUanw/ts
+#EXTINF:-1 xui-id="3425504" tvg-id="tvaparecida.br" tvg-name="TV APARECIDA FHD" tvg-logo="https://logo.m3uassets.com/tvaparecida.png" group-title="Canais | Religiosos",TV APARECIDA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZocWLxoOMM0BPKMrF4lJDw3eYNDVK23jPKOg6MNizQsC/ts
+#EXTINF:-1 xui-id="3425505" tvg-id="tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://logo.m3uassets.com/tvaparecida.png" group-title="Canais | Religiosos",TV APARECIDA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsaBiPGKwNtjbzFLgwTiBhVgmCchfhFoVsFrz8MUj2u0/ts
+#EXTINF:-1 xui-id="3425506" tvg-id="tvaparecida.br" tvg-name="TV APARECIDA SD" tvg-logo="https://logo.m3uassets.com/tvaparecida.png" group-title="Canais | Religiosos",TV APARECIDA SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqISMx6hzsvkYR40_apXFL8-PfQiiLTtqDWVKvmEgh7J/ts
+#EXTINF:-1 xui-id="3425507" tvg-id="" tvg-name="TV EVANGELIZAR SD" tvg-logo="https://logo.m3uassets.com/tvevangelizar.png" group-title="Canais | Religiosos",TV EVANGELIZAR SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqqnZEo-uuKujupudEN6oRtS4BtBH6H_nLxGOt3n86E7/ts
+#EXTINF:-1 xui-id="3425508" tvg-id="tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://logo.m3uassets.com/tvnovotempo.png" group-title="Canais | Religiosos",TV NOVO TEMPO HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrQxTAZgzhZcHpDvB_cl2frN7C2X1F7dFywbAbcyLqli/ts
+#EXTINF:-1 xui-id="3425509" tvg-id="tvnovotempo.br" tvg-name="TV NOVO TEMPO SD" tvg-logo="https://logo.m3uassets.com/tvnovotempo.png" group-title="Canais | Religiosos",TV NOVO TEMPO SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZt388GLY3ywbkX6I4gTribedomKb92CLCH_4lCFVzu8q/ts
+#EXTINF:-1 xui-id="3425510" tvg-id="" tvg-name="TV PAI ETERNO HD" tvg-logo="https://logo.m3uassets.com/tvpaieterno.png" group-title="Canais | Religiosos",TV PAI ETERNO HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrX88j_NW-IgIwLlslonFGVmyxirnUnuHB7gwzf6PhX9/ts
+#EXTINF:-1 xui-id="3425511" tvg-id="" tvg-name="TV SUPER GOSPEL" tvg-logo="https://i.imgur.com/VAzOoHR.jpeg" group-title="Canais | Religiosos",TV SUPER GOSPEL
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZifzGQV7kxoVUkGuYtzriEHPvlF5p0LI0gZqx0dPu78f/ts
+#EXTINF:-1 xui-id="3425308" tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Canais | Infantil",CARTOON NETWORK FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpp-YXgI_KRaVwEpzIeAaU_mNEchFnANqySJiEzZgDOI/ts
+#EXTINF:-1 xui-id="3425309" tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Canais | Infantil",CARTOON NETWORK HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZu56gsnPYqtRUesL26CgjfLGYGd2OWgk0X34PTtQ4X05/ts
+#EXTINF:-1 xui-id="3425310" tvg-id="cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Canais | Infantil",CARTOON NETWORK SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZm8ClG_-Szh-q8RTgGk_ZTvYzLbszrPFbmyTdaGYGL4_/ts
+#EXTINF:-1 xui-id="3425311" tvg-id="cartoonito.br" tvg-name="CARTOONITO FHD" tvg-logo="https://logo.m3uassets.com/cartoonito.png" group-title="Canais | Infantil",CARTOONITO FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlNLGBott0YwpBhjAXetH9pfBKL6nvPkqUwVzUQf5LUT/ts
+#EXTINF:-1 xui-id="3425312" tvg-id="cartoonito.br" tvg-name="CARTOONITO HD" tvg-logo="https://logo.m3uassets.com/cartoonito.png" group-title="Canais | Infantil",CARTOONITO HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuh_br7v3qMAbVcsfsK2Ux_mP9hVlXyUL1CjdCTUAhoT/ts
+#EXTINF:-1 xui-id="3425313" tvg-id="cartoonito.br" tvg-name="CARTOONITO SD" tvg-logo="https://logo.m3uassets.com/cartoonito.png" group-title="Canais | Infantil",CARTOONITO SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlgkePf_ZLoIMeycPnSBJbUonQSnNHDDJ_asg2QJEsFO/ts
+#EXTINF:-1 xui-id="3425314" tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS FHD" tvg-logo="https://logo.m3uassets.com/discoverykids.png" group-title="Canais | Infantil",DISCOVERY KIDS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZms42AJ9NNLHm-o1D28FBvpMrBepbtHpU8MwXVWTQYnJ/ts
+#EXTINF:-1 xui-id="3425315" tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://logo.m3uassets.com/discoverykids.png" group-title="Canais | Infantil",DISCOVERY KIDS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvxoARjk1MYhWlpDJD32o5v3NvEjxQsmaUXtaQZK37ga/ts
+#EXTINF:-1 xui-id="3425316" tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS SD" tvg-logo="https://logo.m3uassets.com/discoverykids.png" group-title="Canais | Infantil",DISCOVERY KIDS SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnA9rt4qNZWW4xmAd1GM8UPGvqUW9ZFSDp_BjAlJjhpj/ts
+#EXTINF:-1 xui-id="3425317" tvg-id="gloob.br" tvg-name="GLOOB FHD" tvg-logo="https://logo.m3uassets.com/gloob.png" group-title="Canais | Infantil",GLOOB FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpW-6NK_b_0LsnF4Vdn3O6dFOukH1ruTC8qd2IcWphQG/ts
+#EXTINF:-1 xui-id="3425318" tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://logo.m3uassets.com/gloob.png" group-title="Canais | Infantil",GLOOB HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhYaqZ--IuiiguFMgjKhhhpOLDmvdqROUejnj7ZL_5jt/ts
+#EXTINF:-1 xui-id="3425319" tvg-id="gloob.br" tvg-name="GLOOB SD" tvg-logo="https://logo.m3uassets.com/gloob.png" group-title="Canais | Infantil",GLOOB SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuShSOT59OhWouzL47G3x4eDpxynL8goVqpN2R8dyfqS/ts
+#EXTINF:-1 xui-id="3425320" tvg-id="gloobinho.br" tvg-name="GLOOBINHO FHD" tvg-logo="https://logo.m3uassets.com/gloobinho.png" group-title="Canais | Infantil",GLOOBINHO FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnb9XrW7_cEg7FpCT2IpE91pxYAZ8ZsHlXR9fe2MV_5b/ts
+#EXTINF:-1 xui-id="3425321" tvg-id="gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://logo.m3uassets.com/gloobinho.png" group-title="Canais | Infantil",GLOOBINHO HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZioz99ZkShqF2f_mv2dk3A_2C-_b_7FxTNkkd1q6-wSR/ts
+#EXTINF:-1 xui-id="3425322" tvg-id="gloobinho.br" tvg-name="GLOOBINHO SD" tvg-logo="https://logo.m3uassets.com/gloobinho.png" group-title="Canais | Infantil",GLOOBINHO SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZn3L9b57w5lsdOrHsihIY6AsxifEE9l6_Hdgi7kA999o/ts
+#EXTINF:-1 xui-id="3425324" tvg-id="nick.br" tvg-name="NICK FHD" tvg-logo="https://logo.m3uassets.com/nick.png" group-title="Canais | Infantil",NICK FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvgtvfmqfI9klASIDujg0MTTNqMudkdxcrLLnaw47zVI/ts
+#EXTINF:-1 xui-id="3425325" tvg-id="nick.br" tvg-name="NICK HD" tvg-logo="https://logo.m3uassets.com/nick.png" group-title="Canais | Infantil",NICK HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnlvqn_YxholYGQHLJeOHsjYpmnlU5u652zl1E7wLofv/ts
+#EXTINF:-1 xui-id="3425326" tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Canais | Infantil",NICK JR HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmoBVDw0Vu_kkwBKNlepe61jSZLFnoDq1s9ju0WB73Sn/ts
+#EXTINF:-1 xui-id="3425327" tvg-id="NickJr.br" tvg-name="NICK JR SD" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Canais | Infantil",NICK JR SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpww3WjJ3RZhrvwVtLSRuE6hI19Zp5SWuU_tn6cHEBsX/ts
+#EXTINF:-1 xui-id="3425328" tvg-id="NickJr.br" tvg-name="NICK JR. FHD" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Canais | Infantil",NICK JR. FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhynjM62ss1IDRdEdfhRwAF7_MGI1XS63p11p2VUgM5G/ts
+#EXTINF:-1 xui-id="3425329" tvg-id="nick.br" tvg-name="NICK SD" tvg-logo="https://logo.m3uassets.com/nick.png" group-title="Canais | Infantil",NICK SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoc_pd5plktfeEIBadMrnOBtOh9UmDLqPJRn2BNKH7bg/ts
+#EXTINF:-1 xui-id="3425334" tvg-id="ratimbum.br" tvg-name="RÃ‚-TIM-BUM  FHD" tvg-logo="https://logo.m3uassets.com/tvrtimbum.png" group-title="Canais | Infantil",RÃ‚-TIM-BUM  FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnJms8hr2pKs_-MHD6j-GJAeHLaYJV_AijwAr6LQqHiX/ts
+#EXTINF:-1 xui-id="3425335" tvg-id="ratimbum.br" tvg-name="RÃ‚-TIM-BUM HD" tvg-logo="https://logo.m3uassets.com/tvrtimbum.png" group-title="Canais | Infantil",RÃ‚-TIM-BUM HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjezv7wYnYzm-3YqtBK8hQXFE7XCBfznGCtA5insBVnw/ts
+#EXTINF:-1 xui-id="3425330" tvg-id="ratimbum.br" tvg-name="RÃƒ-TIM-BUM SD" tvg-logo="https://logo.m3uassets.com/tvrtimbum.png" group-title="Canais | Infantil",RÃƒ-TIM-BUM SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvvODHuNxTx9vIHXEZbOqdqvPWfg9tqFrdyrBkczesC5/ts
+#EXTINF:-1 xui-id="3425331" tvg-id="tooncast.br" tvg-name="TOONCAST FHD" tvg-logo="https://logo.m3uassets.com/tooncast.png" group-title="Canais | Infantil",TOONCAST FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZum8CGklCqAKqmpG_xomN3QIGMpPfxeTKdSkwa8i1ALn/ts
+#EXTINF:-1 xui-id="3425332" tvg-id="tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://logo.m3uassets.com/tooncast.png" group-title="Canais | Infantil",TOONCAST HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZl1SSTkgC91bd9rVgI5p6exS1KA-5WSTfa-w4yD6B9QW/ts
+#EXTINF:-1 xui-id="3425333" tvg-id="tooncast.br" tvg-name="TOONCAST SD" tvg-logo="https://logo.m3uassets.com/tooncast.png" group-title="Canais | Infantil",TOONCAST SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv4VHL7vN7PmlvF2WMNkCokt4Swezy66BIkYEaa9D54U/ts
+#EXTINF:-1 xui-id="3425336" tvg-id="zoomoo.br" tvg-name="ZOOMOO FHD" tvg-logo="https://logo.m3uassets.com/zoomoo.png" group-title="Canais | Infantil",ZOOMOO FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZr2XvJVNCTgVxK5yo7SBR35hrlTJ_tIYjghrRemX_4vd/ts
+#EXTINF:-1 xui-id="3425337" tvg-id="zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://logo.m3uassets.com/zoomoo.png" group-title="Canais | Infantil",ZOOMOO HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmCCw9CDvCcZe15EkOLaRCowmiqgNNjOsMCvA6IoVWg4/ts
+#EXTINF:-1 xui-id="3425338" tvg-id="zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://logo.m3uassets.com/zoomoo.png" group-title="Canais | Infantil",ZOOMOO SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuCk2AnpyBMEw0OCm2YP52ssoxWjMvPaOZxZmNmcIYP-/ts
+#EXTINF:-1 xui-id="3424985" tvg-id="a&e.br" tvg-name="CAZE TV 1" tvg-logo="https://logo.m3uassets.com/cazetv.png" group-title="Canais | Caze TV",CAZE TV 1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZr6qeI7U7ankLNreIIWEU8LL2Fv75YbBB8kBCNU-EP1E/ts
+#EXTINF:-1 xui-id="3424986" tvg-id="a&e.br" tvg-name="CAZE TV 2" tvg-logo="https://logo.m3uassets.com/cazetv.png" group-title="Canais | Caze TV",CAZE TV 2
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnwv1rf3GjKvpkbielZa_sESSjOmS4iuCv1_tJR0z91I/ts
+#EXTINF:-1 xui-id="3424987" tvg-id="a&e.br" tvg-name="CAZE TV 3" tvg-logo="https://logo.m3uassets.com/cazetv.png" group-title="Canais | Caze TV",CAZE TV 3
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoUh2tpRvsN--cSTvhZwWvPs1DkdonK_RIBex0FoNhyu/ts
+#EXTINF:-1 xui-id="3424988" tvg-id="a&e.br" tvg-name="CAZE TV 4" tvg-logo="https://logo.m3uassets.com/cazetv.png" group-title="Canais | Caze TV",CAZE TV 4
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtBOXiAqSAXgxwFCvIk4w-bM9Jb_gPZgnns3YhIniJmI/ts
+#EXTINF:-1 xui-id="3424989" tvg-id="a&e.br" tvg-name="CINE SKY 01" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 01
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsVMc-l4LkjW7Jo4nYlykflWStM3hB1lJ1ug3hKDMYzs/ts
+#EXTINF:-1 xui-id="3424990" tvg-id="a&e.br" tvg-name="CINE SKY 02" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 02
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZq85N6dHttsYMyMGQFdvo1DM0vtoDZGsjntRkdhQicie/ts
+#EXTINF:-1 xui-id="3424991" tvg-id="a&e.br" tvg-name="CINE SKY 03" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 03
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvkkjJSjiKgd3-lir0Rv0ZByqv2OXzJ0E1HR6EqDH9hJ/ts
+#EXTINF:-1 xui-id="3424992" tvg-id="a&e.br" tvg-name="CINE SKY 04" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 04
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmpZDkQ67oB2UOyAvDacWD7YIylQqL7A_XJJWg6oXsLA/ts
+#EXTINF:-1 xui-id="3424993" tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 05
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhml6YwAY62jRgKt7uH5x53TzdHzizgnr3g9cDMHEIkW/ts
+#EXTINF:-1 xui-id="3424994" tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 06
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhzFtux_jnZfX01kIYgAqfYMG4Vd4DOlw1T4x6Utugsf/ts
+#EXTINF:-1 xui-id="3424995" tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 07
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiMRBadKwxfP8YxFKF4CZ4VfmIsu25DwJaC2BaZzRSA7/ts
+#EXTINF:-1 xui-id="3424996" tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 08
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZt7Iv_l42giQcNLDaQJM7v93qKxPKMQDV68FghJi52as/ts
+#EXTINF:-1 xui-id="3424997" tvg-id="a&e.br" tvg-name="CINE SKY 09" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 09
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvrDBj0IyT_TPVPzy6R701crBR4kjeAVVoKz-TeWSuhp/ts
+#EXTINF:-1 xui-id="3424998" tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://i.imgur.com/Ff0UZ0E.png" group-title="Canais | Cine Sky",CINE SKY 10
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhoZ2w1I_lgoI2D4WGjAJVz94hnnjZHwenrKfudjY7QM/ts
+#EXTINF:-1 xui-id="3424999" tvg-id="" tvg-name="DAZN 1" tvg-logo="https://logo.m3uassets.com/dazn1.png" group-title="Canais | Dazn",DAZN 1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuDFE6o6ghW7Md9h_hRYWnfvPcqvJEN5GQNxAvIHWYGI/ts
+#EXTINF:-1 xui-id="3425000" tvg-id="" tvg-name="DAZN 2" tvg-logo="https://logo.m3uassets.com/dazn2.png" group-title="Canais | Dazn",DAZN 2
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjYnd1YSTkUK852FCfpDVSJmWFtOXBb0Jn8R-SNfD9ey/ts
+#EXTINF:-1 xui-id="3425001" tvg-id="" tvg-name="DAZN 3" tvg-logo="https://logo.m3uassets.com/dazn3.png" group-title="Canais | Dazn",DAZN 3
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpb1uRZ0cdb_wiKPssdzvJSg_jUGIdF9HDYuY5mbB8HL/ts
+#EXTINF:-1 xui-id="3425002" tvg-id="" tvg-name="DAZN 4" tvg-logo="https://logo.m3uassets.com/dazn4.png" group-title="Canais | Dazn",DAZN 4
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv74Uae48UJJ16l4tLf78wIq-VVV83dgTVeohz_KuBcL/ts
+#EXTINF:-1 xui-id="3425003" tvg-id="a&e.br" tvg-name="DISNEY+ 1" tvg-logo="https://i.imgur.com/0RVtzPj.png" group-title="Canais | Disney+ MAX",DISNEY+ 1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqlfEyrGyDfH4ttms0lIcsCQvmaENkw4lQ2M55Cn2KiD/ts
+#EXTINF:-1 xui-id="3425004" tvg-id="a&e.br" tvg-name="DISNEY+ 2" tvg-logo="https://i.imgur.com/0RVtzPj.png" group-title="Canais | Disney+ MAX",DISNEY+ 2
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZumsAZ33XwDbvX640lh8FnTj0e_PRgsAA1an0zUGav4X/ts
+#EXTINF:-1 xui-id="3425005" tvg-id="a&e.br" tvg-name="DISNEY+ 3" tvg-logo="https://i.imgur.com/0RVtzPj.png" group-title="Canais | Disney+ MAX",DISNEY+ 3
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZn1Cj4RL2whiXFhgAkWCGSNiW5q1EQjpyHAp0-GQmfbg/ts
+#EXTINF:-1 xui-id="3425006" tvg-id="a&e.br" tvg-name="DISNEY+ 4" tvg-logo="https://i.imgur.com/0RVtzPj.png" group-title="Canais | Disney+ MAX",DISNEY+ 4
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpCgHjlvcskoNWzkOvhEvn6D9-7ABztpieASKmwOAAM2/ts
+#EXTINF:-1 xui-id="3425007" tvg-id="a&e.br" tvg-name="DISNEY+ 5" tvg-logo="https://i.imgur.com/0RVtzPj.png" group-title="Canais | Disney+ MAX",DISNEY+ 5
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZorqmGZlZ5Vcqaehz9dL_DP0m0TLhh3ailJ6JUhbOg0C/ts
+#EXTINF:-1 xui-id="3425008" tvg-id="a&e.br" tvg-name="DISNEY+ 6" tvg-logo="https://i.imgur.com/0RVtzPj.png" group-title="Canais | Disney+ MAX",DISNEY+ 6
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZr-94QcfZqv27rsMbxlDKW6MpqpF4mCk_lFoiawT1JlD/ts
+#EXTINF:-1 xui-id="3424917" tvg-id="" tvg-name="ELETRO MUSIC" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Shows",ELETRO MUSIC
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZo8t9_wscPliaR3ZwucIjqQG81WdAorUWM6cmd8LqE9L/ts
+#EXTINF:-1 xui-id="3424918" tvg-id="" tvg-name="FUNK" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Shows",FUNK
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZg5_LhadGQfr8Hnc8TKV1jlFYJIWRk7nLoEGMTcBg9Xj/ts
+#EXTINF:-1 xui-id="3424919" tvg-id="" tvg-name="GOSPEL" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Shows",GOSPEL
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqGpYBzQnEX5IoIWkIXgMPba5cX4bzjllgZlfISdd73_/ts
+#EXTINF:-1 xui-id="3424920" tvg-id="" tvg-name="PAGODE" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Shows",PAGODE
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjH-jEOjjZ5hKVOtK5Iq1FadfIW8nINR9f77n97EJmfv/ts
+#EXTINF:-1 xui-id="3424921" tvg-id="" tvg-name="POP NACIONAL" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Shows",POP NACIONAL
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlU11aJG5qb1f7aLjkYyi0znH8UJGbggi_R1gfUfNU8R/ts
+#EXTINF:-1 xui-id="3424922" tvg-id="" tvg-name="RETRO MUSIC" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Shows",RETRO MUSIC
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZi2dTPQZ_K2NsP1T3hqO0dMCXfc6wwVpAlLrMQ9QOODY/ts
+#EXTINF:-1 xui-id="3424923" tvg-id="" tvg-name="ROCK ROLL" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Shows",ROCK ROLL
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuYdonXHyx-R2YfIgECSO_xnyftALBTUN8Oi2Kbyq4VB/ts
+#EXTINF:-1 xui-id="3424924" tvg-id="" tvg-name="SERTANEJO" tvg-logo="https://i.imgur.com/vOSDHHs.png" group-title="Canais | 24H Shows",SERTANEJO
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlgro4j4JXPCCV6Dl65VPru2dAQWsg1b7kKExSQj4Ah8/ts
+#EXTINF:-1 xui-id="3425045" tvg-id="espn2.br" tvg-name="ESPN 2 FHD" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Canais | Espn",ESPN 2 FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZovjspSO4vB4zDWFEI2dWZAbyQeaLexl546B2Se9pZ0Z/ts
+#EXTINF:-1 xui-id="3425046" tvg-id="espn2.br" tvg-name="ESPN 2 HD" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Canais | Espn",ESPN 2 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsqn7fa6aRuB8-z9I0nEOeBmy23D9orkYchaG32OC6gJ/ts
+#EXTINF:-1 xui-id="3425047" tvg-id="espn2.br" tvg-name="ESPN 2 SD" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Canais | Espn",ESPN 2 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgoGYaWf-WhQZ-8iHntP_YcrpKHhFVQy-bcvSDjLGDkh/ts
+#EXTINF:-1 xui-id="3425048" tvg-id="ESPN3.br" tvg-name="ESPN 3 FHD" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Canais | Espn",ESPN 3 FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkvMWGS5geGG1kji3loIkkckxwT_N7fqZNV10Qy7u7uE/ts
+#EXTINF:-1 xui-id="3425049" tvg-id="ESPN3.br" tvg-name="ESPN 3 HD" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Canais | Espn",ESPN 3 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsXYWcrNSbKGU8yfivRtU4kfXhHYXinpos4wwlf1Veb_/ts
+#EXTINF:-1 xui-id="3425050" tvg-id="ESPN3.br" tvg-name="ESPN 3 SD" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Canais | Espn",ESPN 3 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZm1CGtHy9fL7LMGQagBB4hou2BpxAkjtps2ysJbr2-DK/ts
+#EXTINF:-1 xui-id="3425051" tvg-id="ESPN4.br" tvg-name="ESPN 4 FHD" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Canais | Espn",ESPN 4 FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmBmaDcFVRk2VSDBg7AQ9Sqx5FpbhgL3fpIfGIEDbDQI/ts
+#EXTINF:-1 xui-id="3425052" tvg-id="ESPN4.br" tvg-name="ESPN 4 HD" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Canais | Espn",ESPN 4 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpL9LQutEwN0WRnyfbwP4f89jcSqUQ54SNVEbg2DFdI0/ts
+#EXTINF:-1 xui-id="3425053" tvg-id="ESPN4.br" tvg-name="ESPN 4 SD" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Canais | Espn",ESPN 4 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmVtX7Tmpn_zx6KCd6PfF-n6N6lQi5wvUfjt_E8PfNqf/ts
+#EXTINF:-1 xui-id="3425054" tvg-id="foxsports2.br" tvg-name="ESPN 5 FHD" tvg-logo="https://logo.m3uassets.com/espn5.png" group-title="Canais | Espn",ESPN 5 FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZr0WWVXDzfRqgCMTqtAe0C5aTuAUveeUo1kjr_zihLN2/ts
+#EXTINF:-1 xui-id="3425055" tvg-id="foxsports2.br" tvg-name="ESPN 5 HD" tvg-logo="https://logo.m3uassets.com/espn5.png" group-title="Canais | Espn",ESPN 5 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmM0HYjP0bqdpVln2q_V1oKphdm8iB5gD86Rld2k6twO/ts
+#EXTINF:-1 xui-id="3425056" tvg-id="foxsports2.br" tvg-name="ESPN 5 SD" tvg-logo="https://logo.m3uassets.com/espn5.png" group-title="Canais | Espn",ESPN 5 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZspTn_xo1HStnLwLPVFDwSQxpKCpcinfWMP1z7D85dbf/ts
+#EXTINF:-1 xui-id="3425057" tvg-id="espnextra.br" tvg-name="ESPN EXTRA FHD" tvg-logo="https://logo.m3uassets.com/espnextra.png" group-title="Canais | Espn",ESPN EXTRA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgDGL-zYmPUNG_klBGn690VNZIfq1RbpWiynGtd1tReN/ts
+#EXTINF:-1 xui-id="3425058" tvg-id="espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://logo.m3uassets.com/espnextra.png" group-title="Canais | Espn",ESPN EXTRA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv23RfTpDkY3br68ub4o34weYV_x7xFZXUuYfP0uOR3l/ts
+#EXTINF:-1 xui-id="3425059" tvg-id="espnextra.br" tvg-name="ESPN EXTRA SD" tvg-logo="https://logo.m3uassets.com/espnextra.png" group-title="Canais | Espn",ESPN EXTRA SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZk-xmOJZbvR7uw2FqJMpHsckGea_bYz2ytKUwffaW2JP/ts
+#EXTINF:-1 xui-id="3425060" tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://i.imgur.com/HcVEKrd.png" group-title="Canais | Espn",ESPN FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnBNgmKDzIdGLajOl2H0GrBUFrlO-Fjdk2AdrT2sHg_1/ts
+#EXTINF:-1 xui-id="3425061" tvg-id="espn.br" tvg-name="ESPN FHD1" tvg-logo="https://i.imgur.com/HcVEKrd.png" group-title="Canais | Espn",ESPN FHD1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhCXgq6nm22HDvbC2VJOkju4pYKyA9lvbD0cz-QO0jiA/ts
+#EXTINF:-1 xui-id="3425062" tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/HcVEKrd.png" group-title="Canais | Espn",ESPN HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkpa0XMVk_DNIC2dzdhxZJJ6MSTAIEGxxxcEuhotLFN-/ts
+#EXTINF:-1 xui-id="3425063" tvg-id="espn.br" tvg-name="ESPN HD1" tvg-logo="https://i.imgur.com/HcVEKrd.png" group-title="Canais | Espn",ESPN HD1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvCLsAhp4n1cD5sE0D-pXb2CyC4JXdTZBEoCludXkO20/ts
+#EXTINF:-1 xui-id="3425064" tvg-id="espn.br" tvg-name="ESPN SD" tvg-logo="https://i.imgur.com/HcVEKrd.png" group-title="Canais | Espn",ESPN SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZttMTrIXdMNtO7rsXbJHooTAh_n9TJWm9G9VkE49r78K/ts
+#EXTINF:-1 xui-id="3425134" tvg-id="globobelohorizonte.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="https://logo.m3uassets.com/globobaia.png" group-title="Canais | Globos Capitais",GLOBO BELO HORIZONTE FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiJzmLi60O3B5K0iZPiPAC1LVyb-OxjRdo-K1aCgNDAN/ts
+#EXTINF:-1 xui-id="3425135" tvg-id="globobelohorizonte.br" tvg-name="GLOBO BELO HORIZONTE HD" tvg-logo="https://logo.m3uassets.com/globobaia.png" group-title="Canais | Globos Capitais",GLOBO BELO HORIZONTE HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkKN9wjy9NNlQ_2O97hhItCX2me6BRqM2oMJleVvW-JH/ts
+#EXTINF:-1 xui-id="3425136" tvg-id="a&e.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="https://logo.m3uassets.com/globobrasilia.png" group-title="Canais | Globos Capitais",GLOBO BRASILIA FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhrTorqZe7Wu82-HkZAtzO2s2SJsqTIbklli-RuX4msx/ts
+#EXTINF:-1 xui-id="3425137" tvg-id="a&e.br" tvg-name="GLOBO BRASILIA FHD1" tvg-logo="https://logo.m3uassets.com/globobrasilia.png" group-title="Canais | Globos Capitais",GLOBO BRASILIA FHD1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlUw53oSWawqwd98gHqLard1xyX9ul_13BqNgr-cpT5Y/ts
+#EXTINF:-1 xui-id="3425138" tvg-id="a&e.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://logo.m3uassets.com/globobrasilia.png" group-title="Canais | Globos Capitais",GLOBO BRASILIA HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkWpR34JSHCnUbQTopqnHooSBL63FnLpQSmqJ7HsI6A3/ts
+#EXTINF:-1 xui-id="3425139" tvg-id="" tvg-name="GLOBO BRASILIA SD" tvg-logo="https://logo.m3uassets.com/globobrasilia.png" group-title="Canais | Globos Capitais",GLOBO BRASILIA SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsNbEtlBVTv4O6L52rwFqWXor0Q2UE4qKZQcdTQbqPHl/ts
+#EXTINF:-1 xui-id="3425140" tvg-id="redeminas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://logo.m3uassets.com/globominas.png" group-title="Canais | Globos Capitais",GLOBO MINAS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZt_rI8XlAJ2N1J1zvsT5Kb88JaDZdjqXdd-OOfOLmegF/ts
+#EXTINF:-1 xui-id="3425141" tvg-id="redeminas.br" tvg-name="GLOBO MINAS FHD" tvg-logo="https://logo.m3uassets.com/globominas.png" group-title="Canais | Globos Capitais",GLOBO MINAS FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjZTBjb0PNbrSMvFSiW10UGt1OiWT_Wx87-Kmx98KJLD/ts
+#EXTINF:-1 xui-id="3425142" tvg-id="redeminas.br" tvg-name="GLOBO MINAS HD" tvg-logo="https://logo.m3uassets.com/globominas.png" group-title="Canais | Globos Capitais",GLOBO MINAS HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgMuN4Dx9zIsA6tIzzGgxrSRCfUB5JoLd-wdA7HXc6lT/ts
+#EXTINF:-1 xui-id="3425143" tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE FHD" tvg-logo="https://logo.m3uassets.com/globonordeste.png" group-title="Canais | Globos Capitais",GLOBO NORDESTE FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZjssjAF2BIUDhTVTXJFpHSTe_symbhqTm4V7eDnQIFJz/ts
+#EXTINF:-1 xui-id="3425144" tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://logo.m3uassets.com/globonordeste.png" group-title="Canais | Globos Capitais",GLOBO NORDESTE HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsZ7f2-27EX-sD7nKNqcc-tX8B6-YfcMkVtAfN0xrAjX/ts
+#EXTINF:-1 xui-id="3425145" tvg-id="globonordeste.br" tvg-name="GLOBO NORDESTE SD" tvg-logo="https://logo.m3uassets.com/globonordeste.png" group-title="Canais | Globos Capitais",GLOBO NORDESTE SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlQqhfNQMnsKi5A_2usRU7m-jmpBB-lvjAn48QgJeWoP/ts
+#EXTINF:-1 xui-id="3425146" tvg-id="globorj.br" tvg-name="GLOBO RJ FHD" tvg-logo="https://logo.m3uassets.com/globorj.png" group-title="Canais | Globos Capitais",GLOBO RJ FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvQK9cmyHrWVGmpbwY7I5lS3Dno2_ncmscGLNSYPWt6_/ts
+#EXTINF:-1 xui-id="3425147" tvg-id="globorj.br" tvg-name="GLOBO RJ FHD1" tvg-logo="https://i.imgur.com/O7ABrTY.png" group-title="Canais | Globos Capitais",GLOBO RJ FHD1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtgpqwfaJ410kjqfRPt5ccAsqOaiUMcc5tfLKrDBoTVe/ts
+#EXTINF:-1 xui-id="3425148" tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="https://i.imgur.com/O7ABrTY.png" group-title="Canais | Globos Capitais",GLOBO RJ HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlLTtYdHpSEK4vZy3xNCnehCsMg0mvsGaMZ62pxbFbaa/ts
+#EXTINF:-1 xui-id="3425149" tvg-id="globorj.br" tvg-name="GLOBO RJ HD1" tvg-logo="https://i.imgur.com/O7ABrTY.png" group-title="Canais | Globos Capitais",GLOBO RJ HD1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmgrbLe_vaOknvzKmnKKvC8F4UZDBQ52T3limbb5ms7t/ts
+#EXTINF:-1 xui-id="3425150" tvg-id="globorj.br" tvg-name="GLOBO RJ SD" tvg-logo="https://i.imgur.com/O7ABrTY.png" group-title="Canais | Globos Capitais",GLOBO RJ SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsjGxo_wP1nQXjcyeDHKTnUXMH8A9DaoCfcsgxpawfus/ts
+#EXTINF:-1 xui-id="3425151" tvg-id="Globo TV Sergipe HD" tvg-name="GLOBO SERGIPE FHD" tvg-logo="https://logo.m3uassets.com/globobaia.png" group-title="Canais | Globos Capitais",GLOBO SERGIPE FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtj1x4gJLwq6TVLikDkp4v9br-PgNHbuUT0tgl7a_nyt/ts
+#EXTINF:-1 xui-id="3425152" tvg-id="Globo TV Sergipe HD" tvg-name="GLOBO SERGIPE HD" tvg-logo="https://logo.m3uassets.com/globobaia.png" group-title="Canais | Globos Capitais",GLOBO SERGIPE HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZm4DHB3Q8DqCQXuX1eHum8ELQDXVFlD9gMEqOd3cgc7u/ts
+#EXTINF:-1 xui-id="3425153" tvg-id="globosp.br" tvg-name="GLOBO SP FHD" tvg-logo="https://logo.m3uassets.com/globosp.png" group-title="Canais | Globos Capitais",GLOBO SP FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhARd7Bw_jkv2ZcDQJSb-mP6j_jOOrM-IMpTjPMUKqfA/ts
+#EXTINF:-1 xui-id="3425154" tvg-id="globosp.br" tvg-name="GLOBO SP FHD1" tvg-logo="https://logo.m3uassets.com/globosp.png" group-title="Canais | Globos Capitais",GLOBO SP FHD1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmuBh9t9OEY1Ti3ryhgmdicMdbmncB2T8BHim8uqnOoI/ts
+#EXTINF:-1 xui-id="3425155" tvg-id="globosp.br" tvg-name="GLOBO SP HD" tvg-logo="https://logo.m3uassets.com/globosp.png" group-title="Canais | Globos Capitais",GLOBO SP HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZqMjxHa4VNz8QjpnJ71W6FsFrbCS2oqfvGyvSQasbO0Y/ts
+#EXTINF:-1 xui-id="3425156" tvg-id="globosp.br" tvg-name="GLOBO SP HD1" tvg-logo="https://logo.m3uassets.com/globosp.png" group-title="Canais | Globos Capitais",GLOBO SP HD1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhuZKnQ2mSAKd_Y9poRxX8x6UFO4haD8Vqqe36oBHLyM/ts
+#EXTINF:-1 xui-id="3425157" tvg-id="globosp.br" tvg-name="GLOBO SP SD" tvg-logo="https://logo.m3uassets.com/globosp.png" group-title="Canais | Globos Capitais",GLOBO SP SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv-TKPEALN7qdkS2wgqD-Sw6R3wnwd3E5JJWuCq95WFI/ts
+#EXTINF:-1 xui-id="3425451" tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="Canais | Rede Hbo",HBO 2 FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnOF2GIjwPciaYDb17gjA9T0yS85z9kgzpJMvoNsKhTA/ts
+#EXTINF:-1 xui-id="3425452" tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="Canais | Rede Hbo",HBO 2 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuNYumwdNjw19orhnxPoFBuNIFkVGwBhEqCrq-I88T-i/ts
+#EXTINF:-1 xui-id="3425453" tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="Canais | Rede Hbo",HBO 2 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvxs2hCV6NUcwembWKw90eCBShap5c-pBz5XDDWlq_M6/ts
+#EXTINF:-1 xui-id="3425454" tvg-id="hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="Canais | Rede Hbo",HBO FAMILY FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZivyeC7hdmV9XzGK5wyWiUbsbiSvfcnNR1E6djjsIduy/ts
+#EXTINF:-1 xui-id="3425455" tvg-id="hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="Canais | Rede Hbo",HBO FAMILY HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZq9t2J7ioHuNrByeczGQw0tXwWclY_OE-uqV0MEAjXNW/ts
+#EXTINF:-1 xui-id="3425456" tvg-id="hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="https://logo.m3uassets.com/hbofamily.png" group-title="Canais | Rede Hbo",HBO FAMILY SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpS1QoupFKzssW1IXEiFRXIU-CHwz9xOzemVl_Oprt7I/ts
+#EXTINF:-1 xui-id="3425457" tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Canais | Rede Hbo",HBO FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgVzDSDNxfZtPka_mnBSW4xoBqW1d7XkFiuBuYZ5cw3A/ts
+#EXTINF:-1 xui-id="3425458" tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Canais | Rede Hbo",HBO HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgm3h-uS8eoXR-wVB0jxkd-dRztps2j58V5dxFOuu2vD/ts
+#EXTINF:-1 xui-id="3425465" tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Canais | Rede Hbo",HBO SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZnQer9fUlSCNEuOICT0jZFdTA9a50cHvDYI2WReBuEps/ts
+#EXTINF:-1 xui-id="3425459" tvg-id="hbomundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="https://logo.m3uassets.com/hbomundi.png" group-title="Canais | Rede Hbo",HBO MUNDI FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpsWhEmVF0Vq9JmWSHxthGW7iJ-86GwbwRkelGku2gUW/ts
+#EXTINF:-1 xui-id="3425460" tvg-id="hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="https://logo.m3uassets.com/hbomundi.png" group-title="Canais | Rede Hbo",HBO MUNDI HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZga8hcJCS3yWKxE8Zl-IXtJsSw2YerUwVW2cL6NrmdDJ/ts
+#EXTINF:-1 xui-id="3425461" tvg-id="hbomundi.br" tvg-name="HBO MUNDI SD" tvg-logo="https://logo.m3uassets.com/hbomundi.png" group-title="Canais | Rede Hbo",HBO MUNDI SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlA8agdO2NqdeLTlRg-vZO-8ntxEgSoEgMVEsFOp5iWQ/ts
+#EXTINF:-1 xui-id="3425462" tvg-id="hbopop.br" tvg-name="HBO POP FHD" tvg-logo="https://logo.m3uassets.com/hbopop.png" group-title="Canais | Rede Hbo",HBO POP FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiPirPcD1-_p5qE4STlVOhMvtS8rfl9IHEM7JSJ007Er/ts
+#EXTINF:-1 xui-id="3425463" tvg-id="hbopop.br" tvg-name="HBO POP HD" tvg-logo="https://logo.m3uassets.com/hbopop.png" group-title="Canais | Rede Hbo",HBO POP HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuzbTAQqum-HQrmSeuAf0Gw-PdDV8moBeHUQr4BSuiqW/ts
+#EXTINF:-1 xui-id="3425464" tvg-id="hbopop.br" tvg-name="HBO POP SD" tvg-logo="https://logo.m3uassets.com/hbopop.png" group-title="Canais | Rede Hbo",HBO POP SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsLnJPQbWJ8GadGfxiUiEftjRNRJJq7epK04cIpjsNk-/ts
+#EXTINF:-1 xui-id="3425466" tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="Canais | Rede Hbo",HBO SIGNATURE FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtPH0rXhXaKUkvQP0rOpY3rCUZH875F_sfBaDlKh-p1S/ts
+#EXTINF:-1 xui-id="3425467" tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="Canais | Rede Hbo",HBO SIGNATURE HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhe9jrREG3GXMXNv2KUqU3yc3jo70ERkg3f6AvfCl-05/ts
+#EXTINF:-1 xui-id="3425468" tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="https://logo.m3uassets.com/hbosignature.png" group-title="Canais | Rede Hbo",HBO SIGNATURE SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZtAIE2oZh2bIvtD8eKPtOG7hPZcCARlUoKFOlYfkm2g3/ts
+#EXTINF:-1 xui-id="3425469" tvg-id="hboxtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="https://logo.m3uassets.com/hboxtreme.png" group-title="Canais | Rede Hbo",HBO XTREME FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuNIwWDNUf6RSqHsqAx8gUbyw945XCUYy9l1La9hi5nf/ts
+#EXTINF:-1 xui-id="3425470" tvg-id="hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="https://logo.m3uassets.com/hboxtreme.png" group-title="Canais | Rede Hbo",HBO XTREME HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhBtujNde585wzOOtsVlbEi9T87XTzOJKWnFe_e5_8-7/ts
+#EXTINF:-1 xui-id="3425471" tvg-id="hboxtreme.br" tvg-name="HBO XTREME SD" tvg-logo="https://logo.m3uassets.com/hboxtreme.png" group-title="Canais | Rede Hbo",HBO XTREME SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsd09iKRnPH6OvfPmZpdKz8VYm16oCBgIcBdV83RSQWz/ts
+#EXTINF:-1 xui-id="3425472" tvg-id="hboplus.br" tvg-name="HBO+ FHD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Canais | Rede Hbo",HBO+ FHD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZldYCDbqby110AMjq3mg6BvXzRmIE4rJVvTfqZSfDv6I/ts
+#EXTINF:-1 xui-id="3425473" tvg-id="hboplus.br" tvg-name="HBO+ HD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Canais | Rede Hbo",HBO+ HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmADzI-Kil2sUkzg0ozNla8H_lKYKCbHYJeTEPER30vg/ts
+#EXTINF:-1 xui-id="3425474" tvg-id="hboplus.br" tvg-name="HBO+ SD" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Canais | Rede Hbo",HBO+ SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZhJEGMxk4loJZqZGM5d-OOvbLCwx3XqcBVCPOvz8ltBs/ts
+#EXTINF:-1 xui-id="3425301" tvg-id="a&e.br" tvg-name="HBO MAX 1" tvg-logo="https://logo.m3uassets.com/hbomax.png" group-title="Canais | Hbo Max",HBO MAX 1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZko3l7vzUVQtjV9R6ct2F1deU6PHUWEpySrQH580TNrN/ts
+#EXTINF:-1 xui-id="3425302" tvg-id="a&e.br" tvg-name="HBO MAX 2" tvg-logo="https://logo.m3uassets.com/hbomax.png" group-title="Canais | Hbo Max",HBO MAX 2
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZuC2KXHXXr3E5-ylKqZ7YB-R_Fkev6PrutJIkfDdp0F8/ts
+#EXTINF:-1 xui-id="3425303" tvg-id="a&e.br" tvg-name="HBO MAX 3" tvg-logo="https://logo.m3uassets.com/hbomax.png" group-title="Canais | Hbo Max",HBO MAX 3
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv7SNDmbxjoGDJToVxRy7ZN2ImBG3wdpUKcNakH4c7kp/ts
+#EXTINF:-1 xui-id="3425304" tvg-id="a&e.br" tvg-name="HBO MAX 4" tvg-logo="https://logo.m3uassets.com/hbomax.png" group-title="Canais | Hbo Max",HBO MAX 4
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZh2EQotwcEBl2LL4L13vnD8XdBL4meTgpJ-1wEaSvfkR/ts
+#EXTINF:-1 xui-id="3425306" tvg-id="" tvg-name="HBO MAX 5" tvg-logo="https://logo.m3uassets.com/hbomax.png" group-title="Canais | Hbo Max",HBO MAX 5
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZgomzEJn74PpcV90N2A-MhWh_ej0pv-Pye7BX3Wq1AmO/ts
+#EXTINF:-1 xui-id="3425307" tvg-id="" tvg-name="HBO MAX 6" tvg-logo="https://logo.m3uassets.com/hbomax.png" group-title="Canais | Hbo Max",HBO MAX 6
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZj3MYZK6Dn5nxAc3yKcddjBt_KN2bVr3w1xNHNBjJ-Lf/ts
+#EXTINF:-1 xui-id="3425305" tvg-id="" tvg-name="HBO MAX 7" tvg-logo="https://logo.m3uassets.com/hbomax.png" group-title="Canais | Hbo Max",HBO MAX 7
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvS7u3wP7X-XNsbdKu7V_7KgQzvv_BUPHZhlOPuWW1Fw/ts
+#EXTINF:-1 xui-id="3425347" tvg-id="a&e.br" tvg-name="NOSSO FUTEBOL 1" tvg-logo="https://i.imgur.com/NIeQGTm.jpeg" group-title="Canais | Nosso Futebol",NOSSO FUTEBOL 1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZh6zqhFHwkxIwMxb6BRxCdvZ275JQqnu3IKWR0Ts8TEZ/ts
+#EXTINF:-1 xui-id="3425348" tvg-id="a&e.br" tvg-name="NOSSO FUTEBOL 2" tvg-logo="https://i.imgur.com/NIeQGTm.jpeg" group-title="Canais | Nosso Futebol",NOSSO FUTEBOL 2
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsfoGO31vTH-fgITxvE9l_8pQR5TjQB3XRBBjxF4fdOU/ts
+#EXTINF:-1 xui-id="3425346" tvg-id="a&e.br" tvg-name="NOSSO FUTEBOL 3" tvg-logo="https://i.imgur.com/NIeQGTm.jpeg" group-title="Canais | Nosso Futebol",NOSSO FUTEBOL 3
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlHGFJF6ygn8QH9chaWGPU-HmaPSGL4d3QJ83K8-L3ay/ts
+#EXTINF:-1 xui-id="3425349" tvg-id="a&e.br" tvg-name="NOSSO FUTEBOL 4" tvg-logo="https://i.imgur.com/NIeQGTm.jpeg" group-title="Canais | Nosso Futebol",NOSSO FUTEBOL 4
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmPzBOuPzudV7v-NUK1I-Bw5Z9xReI62p1dP8Tqh6kdo/ts
+#EXTINF:-1 xui-id="3425350" tvg-id="" tvg-name="NOSSO FUTEBOL 5" tvg-logo="https://i.imgur.com/NIeQGTm.jpeg" group-title="Canais | Nosso Futebol",NOSSO FUTEBOL 5
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZq1yCnDie4Bk8YDAJn2CwgXA1Kk7JRKne-mcc08m50WZ/ts
+#EXTINF:-1 xui-id="3425379" tvg-id="a&e.br" tvg-name="PARAMOUNT+ 1 HD" tvg-logo="https://i.imgur.com/wUVnXR4.png" group-title="Canais | Paramount+",PARAMOUNT+ 1 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZrh0mWQ--mU2K67AsSNuj1KEU57XAyJPoAoZhhvF-ZB0/ts
+#EXTINF:-1 xui-id="3425380" tvg-id="a&e.br" tvg-name="PARAMOUNT+ 1 SD" tvg-logo="https://i.imgur.com/wUVnXR4.png" group-title="Canais | Paramount+",PARAMOUNT+ 1 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvTe9PJxSJ5E6ewWi5vuMOnv5mvyQ92JHdtd2L-qgZU3/ts
+#EXTINF:-1 xui-id="3425381" tvg-id="a&e.br" tvg-name="PARAMOUNT+ 2 HD" tvg-logo="https://i.imgur.com/wUVnXR4.png" group-title="Canais | Paramount+",PARAMOUNT+ 2 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZu8bUBTGgt2uPaSbySC1xzadSPdOy9ONU05HkBmdaILD/ts
+#EXTINF:-1 xui-id="3425382" tvg-id="a&e.br" tvg-name="PARAMOUNT+ 2 SD" tvg-logo="https://i.imgur.com/wUVnXR4.png" group-title="Canais | Paramount+",PARAMOUNT+ 2 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZiFNUzTQ6yh2vzPNC3rCu4D4qLG-cECE6MvAupkw57en/ts
+#EXTINF:-1 xui-id="3425383" tvg-id="a&e.br" tvg-name="PARAMOUNT+ 3 HD" tvg-logo="https://i.imgur.com/wUVnXR4.png" group-title="Canais | Paramount+",PARAMOUNT+ 3 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZvcxJl0U1nD_TRqvUEwe4-ZpLLOyvJWbqieWcsZlCe-O/ts
+#EXTINF:-1 xui-id="3425384" tvg-id="a&e.br" tvg-name="PARAMOUNT+ 3 SD" tvg-logo="https://i.imgur.com/wUVnXR4.png" group-title="Canais | Paramount+",PARAMOUNT+ 3 SD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZprEjkzQua9fkAag2LbhjYZopezKYPHiK1z90OV7Xu0s/ts
+#EXTINF:-1 xui-id="3425385" tvg-id="a&e.br" tvg-name="PARAMOUNT+ 4 HD" tvg-logo="https://i.imgur.com/wUVnXR4.png" group-title="Canais | Paramount+",PARAMOUNT+ 4 HD
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZv4hf-JvSUOeP21fErbHEEnieO4527FhKdZofpvi3PH_/ts
+#EXTINF:-1 xui-id="3425386" tvg-id="a&e.br" tvg-name="PARAMOUNT+ 4 SD1" tvg-logo="https://i.imgur.com/wUVnXR4.png" group-title="Canais | Paramount+",PARAMOUNT+ 4 SD1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZkvyQCZgvPiG6c3x-HVqIlgOM5bny0wSk67grYroyQ6a/ts
+#EXTINF:-1 xui-id="3425417" tvg-id="a&e.br" tvg-name="PRIME VIDEO 1" tvg-logo="https://i.imgur.com/GOeV1aW.png" group-title="Canais | Prime Video",PRIME VIDEO 1
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZmpxs8bWxeqBBVowxBr0v6QkxdM_6haRYlsI7LIzMSyX/ts
+#EXTINF:-1 xui-id="3425418" tvg-id="a&e.br" tvg-name="PRIME VIDEO 2" tvg-logo="https://i.imgur.com/GOeV1aW.png" group-title="Canais | Prime Video",PRIME VIDEO 2
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZldhKp1nNFVyatiSrpzPgHrzjnYcyixTwWoICS_lZ4wP/ts
+#EXTINF:-1 xui-id="3425419" tvg-id="a&e.br" tvg-name="PRIME VIDEO 3" tvg-logo="https://i.imgur.com/GOeV1aW.png" group-title="Canais | Prime Video",PRIME VIDEO 3
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZije49l15wOpIGOM_O6g2mRsF_ef7uc71f5j6MIAUfai/ts
+#EXTINF:-1 xui-id="3425420" tvg-id="a&e.br" tvg-name="PRIME VIDEO 4" tvg-logo="https://i.imgur.com/GOeV1aW.png" group-title="Canais | Prime Video",PRIME VIDEO 4
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZpGUDDgLUdplUalTUWAybGIQr6EFLgAUVVfgaCOmVsxX/ts
+#EXTINF:-1 xui-id="3425421" tvg-id="a&e.br" tvg-name="PRIME VIDEO 5" tvg-logo="https://i.imgur.com/GOeV1aW.png" group-title="Canais | Prime Video",PRIME VIDEO 5
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZoRgB3e8LjGn9mdrfyykIrbuNlzbhv5B4xiWH4zQ2QPq/ts
+#EXTINF:-1 xui-id="3425422" tvg-id="a&e.br" tvg-name="PRIME VIDEO 6" tvg-logo="https://i.imgur.com/GOeV1aW.png" group-title="Canais | Prime Video",PRIME VIDEO 6
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZj_AbTCQ4HEA0bcoWeQoSu_rPTLwWCEAeELPruU6X6oe/ts
+#EXTINF:-1 xui-id="3425423" tvg-id="a&e.br" tvg-name="PRIME VIDEO 7" tvg-logo="https://i.imgur.com/GOeV1aW.png" group-title="Canais | Prime Video",PRIME VIDEO 7
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZlk5zXxt9z1coFmz2RNkMGzgK9q7SqYDUgvdh6g7i7oz/ts
+#EXTINF:-1 xui-id="3425424" tvg-id="a&e.br" tvg-name="PRIME VIDEO 8" tvg-logo="https://i.imgur.com/GOeV1aW.png" group-title="Canais | Prime Video",PRIME VIDEO 8
+http://visionplusdns.xyz:80/play/rTkUjLJdRcf5LN8TSwmpZsq0OXc6JLuhP3JPgOF9U7bdXeCEEE91D-5_-DL2Iv5I/ts
