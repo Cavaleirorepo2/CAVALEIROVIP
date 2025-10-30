@@ -2,15 +2,21 @@
 <channels>
 
 <channel>
-<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR red]TORRENT[/COLOR][/B]</name>  
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR red]CAVALEIRO TEAM TORRENT[/COLOR][/B]</name>  
 <thumbnail>https://archive.org/download/cavaleiorseriesaventura/cavaleiroseriestorreny.png</thumbnail>    
 <fanart>https://archive.org/download/cavaleiorseriesaventura/cavaleiroseriestorreny.png</fanart>  
 <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Series/SERIES%20CATEGORIAS/painelseriestorrent.xml</externallink>
 </channel>
 
-
+<channel>
+<name>[B][COLOR aquamarine]OPÇÃO:[/COLOR] [COLOR red]CAVALEIRO TEAM DIRETAS[/COLOR][/B]</name>  
+<thumbnail>https://archive.org/download/cavaleiorseriesaventura/cavaleiroseriestorreny.png</thumbnail>    
+<fanart>https://archive.org/download/cavaleiorseriesaventura/cavaleiroseriestorreny.png</fanart>  
+<externallink></externallink>
+</channel>
 
   
 </channels>
      
+
 
