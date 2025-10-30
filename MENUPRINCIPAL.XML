@@ -25,7 +25,7 @@
 </channel>
 
     <channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]</name>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]CAVALEIRO TV01[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</thumbnail>
         <fanart>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</fanart>
         <info>Assista a uma seleção de canais ao vivo organizados por categorias, como Abertos, Esportes, Filmes & Séries, Notícias, Infantil e Música. Navegue facilmente por uma interface intuitiva e acesse transmissões de alta qualidade com apenas um clique entretenimento ao vivo direto no seu Kodi!
@@ -35,7 +35,18 @@
 [COLOR pink]TeamTeamCavaleiroVipy@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/cavaleirotv1.xml</externallink>
     </channel>
-    
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]CAVALEIRO TV02[/COLOR][/B]</name>
+        <thumbnail>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</thumbnail>
+        <fanart>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</fanart>
+        <info>Assista a uma seleção de canais ao vivo organizados por categorias, como Abertos, Esportes, Filmes & Séries, Notícias, Infantil e Música. Navegue facilmente por uma interface intuitiva e acesse transmissões de alta qualidade com apenas um clique entretenimento ao vivo direto no seu Kodi!
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR pink]TeamTeamCavaleiroVipy@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/cavaleirotv02.xml</externallink>
+    </channel>
     <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/tvonlinnecavaleiro/filmescavaleiro.png</thumbnail>
