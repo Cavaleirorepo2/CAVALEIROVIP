@@ -96,18 +96,6 @@
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/seriesnovelas.xml</externallink>
     </channel>
 
-    <channel>
-        <name>[B][COLOR lime]●[/COLOR] [COLOR white]ONLYFAMS +18[/COLOR][/B]</name>
-        <thumbnail>https://archive.org/download/tvonlinnecavaleiro/cavaleiro18%2B.png</thumbnail>
-        <fanart>https://archive.org/download/tvonlinnecavaleiro/cavaleiro18%2B.png</fanart>
-        <info>Reviva as tramas emocionantes das novelas, com histórias de amor, drama e reviravoltas imperdíveis. Explore uma seleção de novelas clássicas e atuais, e acompanhe os capítulos que marcaram gerações.
-
-[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
-
-[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
-        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/onlyfans.xml</externallink>
-    </channel>
-
 <channel>
         <name>[B][COLOR yellow]●[/COLOR] [COLOR white]PLUTOTV[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/cavaleirovipdoacao/cavaleirovipdoacao.png</thumbnail>
@@ -130,6 +118,18 @@
 
 [COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
         <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/runtimetv.xml</externallink>
+    </channel>
+
+    <channel>
+        <name>[B][COLOR lime]●[/COLOR] [COLOR white]ONLYFAnS +18[/COLOR][/B]</name>
+        <thumbnail>https://archive.org/download/tvonlinnecavaleiro/cavaleiro18%2B.png</thumbnail>
+        <fanart>https://archive.org/download/tvonlinnecavaleiro/cavaleiro18%2B.png</fanart>
+        <info>Reviva as tramas emocionantes das novelas, com histórias de amor, drama e reviravoltas imperdíveis. Explore uma seleção de novelas clássicas e atuais, e acompanhe os capítulos que marcaram gerações.
+
+[B][COLOR aquamarine]DOAÇÃO:[/COLOR][/B]
+
+[COLOR pink]TeamCavaleiroVip@gmail.com[/COLOR]</info>
+        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/onlyfans.xml</externallink>
     </channel>
 
 <channel>
