@@ -2,6 +2,30 @@
 <items>
 
 
+
+
+
+
+
+
+
+<item>
+  <title>A Última Fronteira</title>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73669218e325ad8a125b93abdd8ada70b658518d$$lsname=[COLOR white]Ep.01 -  1 Céu azul[/COLOR]</link>
+  <link>plugin://plugin.video.youtube/play/?video_id=ngUBfp7yDeE$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
+  <thumbnail>https://image.tmdb.org/t/p/w500/dxwc8QKPLc2PkeJZNGdz8fn5LmH.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/u8bpEqCRWLzwe6Qs3WYabA0r6pO.jpg</fanart>
+  <info>[COLOR pink]Título Original:[/COLOR] The Last Frontier
+[COLOR pink]Dirigido por:[/COLOR] Desconhecido
+[COLOR pink]Ano:[/COLOR] 2025
+[COLOR pink]Duração:[/COLOR] --
+[COLOR pink]Nota:[/COLOR] 7.5
+[COLOR pink]Gênero:[/COLOR] Crime, Drama
+[COLOR pink]Áudio:[/COLOR] Português / Inglês
+[COLOR pink]Qualidade do Vídeo:[/COLOR] 1080p WEBRip
+[COLOR pink]Sinopse:[/COLOR] Dezenas de prisioneiros violentos são libertados após o avião que os transportava cair numa remota região do Alasca. O único representante da lei no local deve proteger a cidade que ele jurou manter em segurança.</info>
+</item>
+
 <item>
     <title>The Witcher</title>
     <link>plugin://plugin.video.youtube/play/?video_id=HK9dU6JIroU$$lsname=[COLOR yellow]TRAILER[/COLOR]</link>
