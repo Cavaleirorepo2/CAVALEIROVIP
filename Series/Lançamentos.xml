@@ -7,8 +7,8 @@
 
 <item>
   <title>Mistério em Cemetery Road 1ª Temporada (2025)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:269bf9d5966c903f247dd67437de75bc628eecaf$$lsname=[COLOR white]EPISÓDIOS 01 E 02[/COLOR]</link>
-  <link>plugin://plugin.video.youtube/play/?video_id=ngUBfp7yDeE$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:269bf9d5966c903f247dd67437de75bc628eecaf$$lsname=[COLOR white]TEAM CAVALEIRO EPISÓDIOS 01 E 02[/COLOR]</link>
+  <link>plugin://plugin.video.youtube/play/?video_id=ngUBfp7yDeE$$lsname=[COLOR aquamarine]TEAM CAVALEIRO TRAILER[/COLOR]</link>
   <thumbnail>https://image.tmdb.org/t/p/w500/s3vkC7S2uPQdgLhz6gS8pEuGg3r.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/hEVVpOX2VeUbHfY97qnYF2F5SlD.jpg</fanart>
   <info>[COLOR pink]Título Original:[/COLOR] Down Cemetery Road
@@ -24,7 +24,7 @@
 
 <item>
   <title>Os Donos do Jogo 1ª Temporada (2025)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:290843B68A2F06406228C4B1742B3762B7C03BC1$$lsname=[COLOR white]Os Donos do Jogo 1ª Temporada (2025)[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:290843B68A2F06406228C4B1742B3762B7C03BC1$$lsname=[COLOR white]TEAM CAVALEIRO Os Donos do Jogo 1ª Temporada (2025)[/COLOR]</link>
   <link>plugin://plugin.video.youtube/play/?video_id=ngUBfp7yDeE$$lsname=[COLOR aquamarine]TEAM CAVALEIRO TRAILER[/COLOR]</link>
   <thumbnail>https://image.tmdb.org/t/p/w500/jwPI58JAidRzzbUI0j8uUu2rsyy.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/1b2OYNA3Ikq9BBwk6If8As89bge.jpg</fanart>
@@ -41,7 +41,7 @@
 
 <item>
   <title>The Witcher 4ª Temporada (2025)</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:635b5f8caace857a051c7f84e2e164f5f01d29fe$$lsname=[COLOR white] The Witcher 4ª Temporada (2025)[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:635b5f8caace857a051c7f84e2e164f5f01d29fe$$lsname=[COLOR white]TEAM CAVALEIRO The Witcher 4ª Temporada (2025)[/COLOR]</link>
   <link>plugin://plugin.video.youtube/play/?video_id=ngUBfp7yDeE$$lsname=[COLOR aquamarine]TEAM CAVALEIRO TRAILER[/COLOR]</link>
   <thumbnail>https://image.tmdb.org/t/p/w500/uJ1kQWTY1nElMcrrbHtDitbV85K.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/stqplzRvsPnFWPv5CCGaH7NohN0.jpg</fanart>
@@ -58,8 +58,8 @@
 
 <item>
   <title>A Última Fronteira</title>
-  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73669218e325ad8a125b93abdd8ada70b658518d$$lsname=[COLOR white]Ep.01 -  1 Céu azul[/COLOR]</link>
-  <link>plugin://plugin.video.youtube/play/?video_id=ngUBfp7yDeE$$lsname=[COLOR aquamarine]TRAILER[/COLOR]</link>
+  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73669218e325ad8a125b93abdd8ada70b658518d$$lsname=[COLOR white]TEAM CAVALEIRO Ep.01 Céu azul[/COLOR]</link>
+  <link>plugin://plugin.video.youtube/play/?video_id=ngUBfp7yDeE$$lsname=[COLOR aquamarine]TEAM CAVALEIRO TRAILER[/COLOR]</link>
   <thumbnail>https://image.tmdb.org/t/p/w500/dxwc8QKPLc2PkeJZNGdz8fn5LmH.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/u8bpEqCRWLzwe6Qs3WYabA0r6pO.jpg</fanart>
   <info>[COLOR pink]Título Original:[/COLOR] The Last Frontier
@@ -74,19 +74,10 @@
 </item>
 
 <item>
-    <title>The Witcher</title>
-    <link>plugin://plugin.video.youtube/play/?video_id=HK9dU6JIroU$$lsname=[COLOR yellow]TRAILER[/COLOR]</link>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ac919da084076cfea3c0469b2c97fa01c7a5a9a$$lsname=[COLOR white]EPISÓDIO 1[/COLOR]</link>
-    <thumbnail>https://image.tmdb.org/t/p/w500/uJ1kQWTY1nElMcrrbHtDitbV85K.jpg</thumbnail>
-    <fanart>https://image.tmdb.org/t/p/original/stqplzRvsPnFWPv5CCGaH7NohN0.jpg</fanart>
-    <info>[COLOR yellow]Sinopse:[/COLOR] O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.</info>
-  </item>
-
-<item>
     <title>It: Bem-Vindos a Derry 1ª Temporada (2025) </title>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02675a795946db9ea13a188862b7e857acaf485a$$lsname=[COLOR white]EPISÓDIO 1[/COLOR]</link>
-    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584d25061d3f18c62a9538e47d10f72922a036a7$$lsname=[COLOR white]EPISÓDIO 2[/COLOR]</link>
-    <link>plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ$$lsname=[COLOR yellow]TRAILER[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02675a795946db9ea13a188862b7e857acaf485a$$lsname=[COLOR white]TEAM CAVALEIRO EPISÓDIO 1[/COLOR]</link>
+    <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:584d25061d3f18c62a9538e47d10f72922a036a7$$lsname=[COLOR white]TEAM CAVALEIRO EPISÓDIO 2[/COLOR]</link>
+    <link>plugin://plugin.video.youtube/play/?video_id=dQw4w9WgXcQ$$lsname=[COLOR yellow]TEAM CAVALEIRO TRAILER[/COLOR]</link>
     <thumbnail>https://image.tmdb.org/t/p/w500/gMTfrLvrDaD0zrhpLZ7zXIIpKfJ.jpg</thumbnail>
     <fanart>https://image.tmdb.org/t/p/original/2746UvsbkZINd873Yd3o3TxOwCP.jpg</fanart>
     <info>[COLOR yellow]Sinopse:[/COLOR] Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas bizarras. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. Ele mesmo. O Pennywise.</info>
