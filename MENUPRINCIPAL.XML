@@ -29,7 +29,7 @@
         <thumbnail>https://i.ibb.co/0Q8Lz9T/search-icon.png</thumbnail>
         <fanart>https://i.ibb.co/0Q8Lz9T/search-fanart.jpg</fanart>
         <info>Digite o nome de qualquer filme ou série</info>
-        <externallink>search::mode=71</externallink>
+        <externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Lan%C3%A7amentos.xml</externallink>
     </channel>
 
     <channel>
