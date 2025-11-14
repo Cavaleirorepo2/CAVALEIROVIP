@@ -25,6 +25,14 @@
 </channel>
 
     <channel>
+        <name>[COLOR yellow]🔍 BUSCA AUTOMÁTICA[/COLOR]</name>
+        <thumbnail>https://i.ibb.co/0Q8Lz9T/search-icon.png</thumbnail>
+        <fanart>https://i.ibb.co/0Q8Lz9T/search-fanart.jpg</fanart>
+        <info>Digite o nome de qualquer filme ou série</info>
+        <externallink>search::mode=71</externallink>
+    </channel>
+
+    <channel>
         <name>[B][COLOR lime]●[/COLOR] [COLOR orange]TEAMCAVALEIRO TV01[/COLOR][/B]</name>
         <thumbnail>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</thumbnail>
         <fanart>https://archive.org/download/tvonlinnecavaleiro/tvonlinnecavaleiro.png</fanart>
