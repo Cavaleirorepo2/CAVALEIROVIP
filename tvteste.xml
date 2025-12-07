@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <!-- Canais Abertos -->
+    <item>
+        <title>TV Globo HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=1</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/globo</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>SBT HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=2</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/sbt</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Record TV HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=3</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/record</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Band HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=4</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/band</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>RedeTV! HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=5</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/redetv</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <!-- Canais por Assinatura -->
+    <item>
+        <title>GloboNews HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=6</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/globonews</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Sportv HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=7</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/sportv</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Sportv 2 HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=8</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/sportv2</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Sportv 3 HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=9</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/sportv3</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Premiere HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=10</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/premiere</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <!-- Canais Filmes e Séries -->
+    <item>
+        <title>HBO HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=11</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/hbo</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Max HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=12</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/max</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Telecine Premium HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=13</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/telecine</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Telecine Action HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=14</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/telecine-action</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Telecine Fun HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=15</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/telecine-fun</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <!-- Canais Infantis -->
+    <item>
+        <title>Cartoon Network HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=16</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/cartoon</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Discovery Kids HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=17</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/discovery-kids</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Nickelodeon HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=18</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/nickelodeon</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <!-- Canais Documentários -->
+    <item>
+        <title>Discovery Channel HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=19</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/discovery</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>National Geographic HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=20</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/natgeo</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <!-- Canais Internacionais -->
+    <item>
+        <title>CNN International HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=21</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/cnn</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>BBC World News HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=22</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/bbc</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>Fox Sports HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=23</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/fox-sports</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>ESPN HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=24</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/espn</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+    
+    <item>
+        <title>ESPN 2 HD</title>
+        <link>http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=25</link>
+        <epg>$doregex[pegar_epg]</epg>
+        <epg_regex>
+            <name>pegar_epg</name>
+            <expres>class="programa-atual">(.*?)&lt;</expres>
+            <page>http://site-programacao.com/espn2</page>
+            <referer>http://google.com</referer>
+            <agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36</agent>
+        </epg_regex>
+    </item>
+</items>
