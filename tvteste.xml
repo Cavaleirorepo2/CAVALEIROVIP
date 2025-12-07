@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="Globo.br" tvg-name="TV Globo HD" tvg-logo="https://i.imgur.com/globo.png" group-title="Canais Abertos",TV Globo HD
 http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=1
 
@@ -12,63 +13,3 @@ http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudi
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/redetv.png" group-title="Canais Abertos",RedeTV! HD
 http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=5
-
-#EXTINF:-1 tvg-id="GloboNews.br" tvg-name="GloboNews HD" tvg-logo="https://i.imgur.com/globonews.png" group-title="Notícias",GloboNews HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=6
-
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv HD" tvg-logo="https://i.imgur.com/sportv.png" group-title="Esportes",Sportv HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=7
-
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="Sportv 2 HD" tvg-logo="https://i.imgur.com/sportv2.png" group-title="Esportes",Sportv 2 HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=8
-
-#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="Sportv 3 HD" tvg-logo="https://i.imgur.com/sportv3.png" group-title="Esportes",Sportv 3 HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=9
-
-#EXTINF:-1 tvg-id="Premiere.br" tvg-name="Premiere HD" tvg-logo="https://i.imgur.com/premiere.png" group-title="Esportes",Premiere HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=10
-
-#EXTINF:-1 tvg-id="HBO.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/hbo.png" group-title="Filmes e Séries",HBO HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=11
-
-#EXTINF:-1 tvg-id="Max.br" tvg-name="Max HD" tvg-logo="https://i.imgur.com/max.png" group-title="Filmes e Séries",Max HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=12
-
-#EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://i.imgur.com/telecine.png" group-title="Filmes e Séries",Telecine Premium HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=13
-
-#EXTINF:-1 tvg-id="TelecineAction.br" tvg-name="Telecine Action HD" tvg-logo="https://i.imgur.com/telecineaction.png" group-title="Filmes e Séries",Telecine Action HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=14
-
-#EXTINF:-1 tvg-id="TelecineFun.br" tvg-name="Telecine Fun HD" tvg-logo="https://i.imgur.com/telecinefun.png" group-title="Filmes e Séries",Telecine Fun HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=15
-
-#EXTINF:-1 tvg-id="CartoonNetwork.br" tvg-name="Cartoon Network HD" tvg-logo="https://i.imgur.com/cartoon.png" group-title="Infantil",Cartoon Network HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=16
-
-#EXTINF:-1 tvg-id="DiscoveryKids.br" tvg-name="Discovery Kids HD" tvg-logo="https://i.imgur.com/discoverykids.png" group-title="Infantil",Discovery Kids HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=17
-
-#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="https://i.imgur.com/nick.png" group-title="Infantil",Nickelodeon HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=18
-
-#EXTINF:-1 tvg-id="DiscoveryChannel.br" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/discovery.png" group-title="Documentários",Discovery Channel HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=19
-
-#EXTINF:-1 tvg-id="NatGeo.br" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/natgeo.png" group-title="Documentários",National Geographic HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=20
-
-#EXTINF:-1 tvg-id="CNN.br" tvg-name="CNN International HD" tvg-logo="https://i.imgur.com/cnn.png" group-title="Internacional",CNN International HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=21
-
-#EXTINF:-1 tvg-id="BBC.br" tvg-name="BBC World News HD" tvg-logo="https://i.imgur.com/bbc.png" group-title="Internacional",BBC World News HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=22
-
-#EXTINF:-1 tvg-id="FoxSports.br" tvg-name="Fox Sports HD" tvg-logo="https://i.imgur.com/foxsports.png" group-title="Esportes",Fox Sports HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=23
-
-#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/espn.png" group-title="Esportes",ESPN HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=24
-
-#EXTINF:-1 tvg-id="ESPN2.br" tvg-name="ESPN 2 HD" tvg-logo="https://i.imgur.com/espn2.png" group-title="Esportes",ESPN 2 HD
-http://ragnatech.space/get.php?username=soutoluisclaudio89&password=89luisclaudiosouto&type=m3u_plus&output=mpegt&id=25
