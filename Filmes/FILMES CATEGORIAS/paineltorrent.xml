@@ -2,6 +2,13 @@
 <channels>
 
 <channel>
+<name>[B][COLOR pink]Filmes[/COLOR] [COLOR pink]| LANÇAMENTOS 2026[/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/chat-gpt-image-18-de-jul.-de-2025-22-09-39/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2022_09_06.png</thumbnail>
+<fanart>https://archive.org/download/chat-gpt-image-18-de-jul.-de-2025-22-09-39/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2022_09_06.png</fanart>
+<externallink></externallink>
+</channel>
+ 
+<channel>
 <name>[B][COLOR pink]Filmes[/COLOR] [COLOR pink]| LANÇAMENTOS NEWS[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/chat-gpt-image-18-de-jul.-de-2025-22-09-39/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2022_09_06.png</thumbnail>
 <fanart>https://archive.org/download/chat-gpt-image-18-de-jul.-de-2025-22-09-39/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2022_09_06.png</fanart>
@@ -9,10 +16,10 @@
 </channel>
  
 <channel>
-<name>[B][COLOR pink]Filmes[/COLOR] [COLOR pink]| LANÇAMENTOS 2025[/COLOR][/B]</name>
+<name>[B][COLOR pink]Filmes[/COLOR] [COLOR pink]| FILMES 2025[/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/chat-gpt-image-18-de-jul.-de-2025-22-09-39/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2022_09_06.png</thumbnail>
 <fanart>https://archive.org/download/chat-gpt-image-18-de-jul.-de-2025-22-09-39/ChatGPT%20Image%2018%20de%20jul.%20de%202025%2C%2022_09_06.png</fanart>
-<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/Lan%C3%A7amentos.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Cavaleirorepo2/CAVALEIROVIP/refs/heads/main/Filmes/filmes2025.xml</externallink>
 </channel>
 
  <channel>
